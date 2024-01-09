@@ -4110,20 +4110,60 @@
 			"index": "Drink-testing-location",
 			"map_config": [
 				{
-					"index": "no-drunk",
+					"index": "no_drunk",
 					"paint": {
-						"fill-color": "#F49F36"
+						"circle-color": "#F49F36"
 					},
-					"title": "已在都更範圍",
-					"type": "fill"
+					"property": [
+						{
+							"key": "date",
+							"name": "日期"
+						},
+						{
+							"key": "time",
+							"name": "時間"
+						},
+						{
+							"key": "district",
+							"name": "區域"
+						},
+						{
+							"key": "drunk_driving",
+							"name": "是否酒駕"
+						}
+					],
+					"title": "酒測地圖",
+					"type": "circle",
+					"size": "small",
+					"icon": null
 				},
 				{
 					"index": "drunk",
 					"paint": {
-						"fill-color": "#A25FAD"
+						"circle-color": "#A25FAD"
 					},
-					"title": "高液化且大於20年",
-					"type": "fill"
+					"property": [
+						{
+							"key": "date",
+							"name": "日期"
+						},
+						{
+							"key": "time",
+							"name": "時間"
+						},
+						{
+							"key": "district",
+							"name": "區域"
+						},
+						{
+							"key": "drunk_driving",
+							"name": "是否酒駕"
+						}
+					],
+					"title": "酒測地圖",
+					"type": "circle",
+					"size": "big",
+					"icon": null
 				}
 			],
 			"map_filter": {
@@ -4133,7 +4173,7 @@
 				}
 			},
 			"chart_config": {
-				"color": ["#A25FAD", "#E06666"],
+				"color": ["#A25FAD", "#F49F36"],
 				"types": ["ColumnChart", "BarPercentChart"],
 				"unit": "",
 				"categories": [
