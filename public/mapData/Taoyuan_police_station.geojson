@@ -1,0 +1,1157 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "桃園分局",
+				"address": "桃園市桃園區力行路258號",
+				"telephone": "03 3323811"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2991068, 25.0000839]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大樹派出所",
+				"address": "桃園市桃園區樹仁二街41號",
+				"telephone": "03 3622987"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3202184, 24.9780622]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "埔子派出所",
+				"address": "桃園市桃園區力行路258號",
+				"telephone": "03 3353974"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.299054, 25.0001591]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "青溪派出所",
+				"address": "桃園市桃園區鎮撫街39號",
+				"telephone": "03 3332742"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3141825, 24.9980527]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "中路派出所",
+				"address": "桃園市桃園區中山路704號",
+				"telephone": "03 3922037"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.293772, 24.99131]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "景福派出所",
+				"address": "桃園市桃園區民族路110號",
+				"telephone": "03 3322762"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3090392, 24.9926128]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "武陵派出所",
+				"address": "桃園市桃園區復興路135號",
+				"telephone": "03 3364224"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3121146, 24.9900362]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "同安派出所",
+				"address": "桃園市桃園區大興西路1段153號",
+				"telephone": "03 3568289"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3054061, 25.0144182]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龍安派出所",
+				"address": "桃園市桃園區國豐一街101號",
+				"telephone": "03 3601975"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2811322, 24.9909892]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大園分局",
+				"address": "桃園市大園區中正西路13號",
+				"telephone": "03 3862009"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.195741, 25.0634017]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "潮音派出所",
+				"address": "桃園市大園區北港里12鄰潮音北路473號",
+				"telephone": "03 3862314"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1714522, 25.0802757]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "觀音分駐所",
+				"address": "桃園市觀音區中山路14號",
+				"telephone": "03 4732025"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0821112, 25.0365542]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "草漯派出所",
+				"address": "桃園市觀音區草新里1鄰大觀路2段77號",
+				"telephone": "03 4831224"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1429548, 25.0471997]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "新坡派出所",
+				"address": "桃園市觀音區中山路2段668號",
+				"telephone": "03 4981001"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1362044, 25.0126598]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "竹圍派出所",
+				"address": "桃園市大園區竹圍街10號",
+				"telephone": "03 3835089"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2438005, 25.104005]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "埔心派出所",
+				"address": "桃園市大園區埔心里埔心街1號",
+				"telephone": "03 3811684"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2244021, 25.0542409]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大園派出所",
+				"address": "桃園市大園區中正西路13號",
+				"telephone": "03 3862804"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.195741, 25.0634017]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "三果派出所",
+				"address": "桃園市大園區三和路25號",
+				"telephone": "03 3936119"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.257167, 25.0732019]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "蘆竹分局",
+				"address": "桃園市蘆竹區南崁路175巷10-2號",
+				"telephone": "03 2220307"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2932774, 25.0471507]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "南崁派出所",
+				"address": "桃園市蘆竹區南崁路179號",
+				"telephone": "03-3223981"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2936949, 25.0473816]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大竹派出所",
+				"address": "桃園市蘆竹區大竹路540號",
+				"telephone": "03 3232704"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2594456, 25.0241944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "南竹派出所",
+				"address": "桃園市蘆竹區南竹路2段97號",
+				"telephone": "03 3121090"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2848687, 25.0413486]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "外社派出所",
+				"address": "桃園市蘆竹區山林路2段405號",
+				"telephone": "03 3241749"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3041719, 25.0834926]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大溪分局",
+				"address": "桃園市大溪區普濟路9號",
+				"telephone": "03 3887643"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2871061, 24.8803483]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "復興分駐所",
+				"address": "桃園市復興區中正路2號",
+				"telephone": "03 3822604"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.350961, 24.814182]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "羅浮派出所",
+				"address": "桃園市復興區羅浮里3鄰3號",
+				"telephone": "03 3822606"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3648552, 24.7975344]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "榮華派出所",
+				"address": "桃園市復興區高義里11鄰卡義蘭2號",
+				"telephone": "03 3821016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.347674, 24.7391911]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "巴陵派出所",
+				"address": "桃園市復興區華陵里9鄰44號",
+				"telephone": "03 3912180"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3985715, 24.6859473]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "奎輝派出所",
+				"address": "桃園市復興區奎輝里4鄰37號",
+				"telephone": "03 3822960"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3353273, 24.7961044]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "三光派出所",
+				"address": "桃園市復興區三光里7鄰武道能敢32號",
+				"telephone": "03 3912253"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3671854, 24.6720607]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "光華派出所",
+				"address": "桃園市復興區華陵里4鄰12號",
+				"telephone": "03 3912253"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3995747, 24.6553641]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "霞雲派出所",
+				"address": "桃園市復興區霞雲里6鄰21號",
+				"telephone": "03 3822607"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3839299, 24.816666]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "長興派出所",
+				"address": "桃園市復興區長興里16鄰29號",
+				"telephone": "03 3822961"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3071505, 24.7996404]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "溪內派出所",
+				"address": "桃園市復興區羅浮里河流2鄰51之2號",
+				"telephone": "03 3822958"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3680437, 24.8034094]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "三元派出所",
+				"address": "桃園市大溪區石園路53號",
+				"telephone": "03 3801040"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2652707, 24.8807248]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "圳頂派出所",
+				"address": "桃園市大溪區公園路46號",
+				"telephone": "03 3801287"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.283791, 24.9048559]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "內柵派出所",
+				"address": "桃園市大溪區內柵路1段56號",
+				"telephone": "03 3883849"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2812329, 24.8593448]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "中新派出所",
+				"address": "桃園市大溪區大鶯路1479號",
+				"telephone": "03 3801853"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3183889, 24.9301409]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "百吉派出所",
+				"address": "桃園市大溪區復興路2段209號",
+				"telephone": "03 3885884"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3092506, 24.8251006]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "三民派出所",
+				"address": "桃園市復興區三民里水流東路43號",
+				"telephone": "03 3825605"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3310843, 24.8321426]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "三層派出所",
+				"address": "桃園市大溪區復興路一段385號",
+				"telephone": "03 3882349"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.295029, 24.8578485]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "永福派出所",
+				"address": "桃園市大溪區信義路1127號",
+				"telephone": "03 3885802"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.324083, 24.8942399]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "南雅派出所",
+				"address": "桃園市大溪區康莊路181號",
+				"telephone": "03 3883720"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.288612, 24.8796775]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "福安派出所",
+				"address": "桃園市大溪區復興路一段890號",
+				"telephone": "03 3888767"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2865028, 24.8491756]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "慈湖分駐所",
+				"address": "桃園市大溪區復興路一段1268號",
+				"telephone": "03 3885891"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2928555, 24.8398361]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "中壢分局",
+				"address": "桃園市中壢區延平路607號",
+				"telephone": "03 4221460"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2223525, 24.9541224]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "文化派出所",
+				"address": "桃園市中壢區吉林路60號",
+				"telephone": "03 4528348"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2452712, 24.9790503]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "仁愛派出所",
+				"address": "桃園市中壢區華美一路101號",
+				"telephone": "03 4563524"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.26138, 24.9538299]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "興國派出所",
+				"address": "中壢區志廣路38號",
+				"telephone": "03 4258325"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.20873, 24.96036]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龍興派出所",
+				"address": "桃園市中壢區龍勇路139號",
+				"telephone": "03 4285776"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2344039, 24.9384239]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大崙派出所",
+				"address": "桃園市中壢區崇德路137號",
+				"telephone": "03 4982260"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1821021, 24.9895794]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "中福派出所",
+				"address": "桃園市中壢區南園二路86號",
+				"telephone": "03 4523093"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2334572, 24.9718093]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "內壢派出所",
+				"address": "桃園市中壢區中華路1段364號",
+				"telephone": "03 4553845"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2556332, 24.972119]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "普仁派出所",
+				"address": "桃園市中壢區日新路20號",
+				"telephone": "03 4562912"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2386621, 24.9540583]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "中壢派出所",
+				"address": "桃園市中壢區延平路607號",
+				"telephone": "03 4222030"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2223525, 24.9541224]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "自強派出所",
+				"address": "桃園市中壢區榮民路387號",
+				"telephone": "03 2854333"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2618322, 24.9615289]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "青埔派出所",
+				"address": "桃園市中壢區青埔路1段67號",
+				"telephone": "03 4531356"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2105349, 25.0138935]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "楊梅分局",
+				"address": "桃園市楊梅區中山路123號",
+				"telephone": "03 4755749"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.145824, 24.9068013]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "埔頂派出所",
+				"address": "桃園市新屋區中華南路2段445號",
+				"telephone": "03 4779178"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1186649, 24.9495557]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "幼獅派出所",
+				"address": "桃園市楊梅區幼獅路1段458號",
+				"telephone": "03 4643521"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1744487, 24.9255611]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "上湖派出所",
+				"address": "桃園市楊梅區楊湖路3段239號",
+				"telephone": "03 4727925"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0948147, 24.912721]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "新屋分駐所",
+				"address": "桃園市新屋區中山路241號",
+				"telephone": "03 4772014"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1064891, 24.9724687]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "永安派出所",
+				"address": "桃園市新屋區中山西路3段62號",
+				"telephone": "03 4861092"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0448349, 24.9875375]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大坡派出所",
+				"address": "桃園市新屋區大坡里三角堀94號",
+				"telephone": "03 4768410"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0385226, 24.9590618]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "富岡派出所",
+				"address": "桃園市楊梅區富源街22號",
+				"telephone": "03 4721794"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0819093, 24.9355439]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "草湳派出所",
+				"address": "桃園市楊梅區永美路237號",
+				"telephone": "03 4826278"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1835439, 24.9186968]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "楊梅派出所",
+				"address": "桃園市楊梅區中山路123號",
+				"telephone": "03 4782007"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1459165, 24.9068269]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "平鎮分局",
+				"address": "桃園市平鎮區中庸路123號",
+				"telephone": "03 4390218"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2075109, 24.9131511]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "北勢派出所",
+				"address": "桃園市平鎮區振平街228號",
+				"telephone": "03 4282206"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.22089, 24.9419408]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "宋屋派出所",
+				"address": "桃園市平鎮區延平路2段412號",
+				"telephone": "03 4938381"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2062592, 24.9426132]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "平鎮派出所",
+				"address": "桃園市平鎮區中庸路123號",
+				"telephone": "03 4391280"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2075109, 24.9131511]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "建安派出所",
+				"address": "桃園市平鎮區金陵路5段108號",
+				"telephone": "03 4502331"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2311813, 24.909153]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龍岡派出所",
+				"address": "桃園市平鎮區龍南路141號",
+				"telephone": "03 4503245"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2473221, 24.9238781]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龜山分局",
+				"address": "桃園市龜山區萬壽路2段931號",
+				"telephone": "03 3292701"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3386469, 24.9952636]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龜山派出所",
+				"address": "桃園市龜山區萬壽路2段931號",
+				"telephone": "03 3202554"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3386469, 24.9952636]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大林派出所",
+				"address": "桃園市龜山區中興路158號",
+				"telephone": "03 3500070"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3322449, 24.9890196]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大坑派出所",
+				"address": "桃園市龜山區大坑路一段851號",
+				"telephone": "03 3251310"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.31464, 25.0453057]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大埔派出所",
+				"address": "桃園市龜山區文德二路80號",
+				"telephone": "03 3186447"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3816201, 25.0533717]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "迴龍派出所",
+				"address": "桃園市龜山區萬壽路1段117號",
+				"telephone": "02 82006815"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4086217, 25.0188104]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大華派出所",
+				"address": "桃園市龜山區文化七路135號",
+				"telephone": "03 3975557"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3652284, 25.0517338]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "坪頂派出所",
+				"address": "桃園市龜山區大崗里大湖一路65號",
+				"telephone": "03 3282570"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.356967, 25.0555205]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "八德分局",
+				"address": "桃園市八德區興豐路1216號",
+				"telephone": "03 3731907"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3086214, 24.9382949]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "八德派出所",
+				"address": "桃園市八德區中山路23號",
+				"telephone": "03 3682802"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2848205, 24.9295865]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "廣興派出所",
+				"address": "桃園市八德區廣興路829號",
+				"telephone": "03 3775124"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2838266, 24.9501101]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "四維派出所",
+				"address": "桃園市八德區重慶街148號",
+				"telephone": "03 3662771"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3027551, 24.9559603]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "高明派出所",
+				"address": "桃園市八德區永豐路160號",
+				"telephone": "03 3771790"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2787061, 24.9647974]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大安派出所",
+				"address": "桃園市八德區和平路頂橋巷25號",
+				"telephone": "03 3644106"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3248208, 24.970419]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龍潭分局",
+				"address": "桃園市龍潭區干城路21號",
+				"telephone": "03 4890831"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2076131, 24.8686221]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "三和派出所",
+				"address": "桃園市龍潭區龍新路三和段1050號",
+				"telephone": "03 4794384"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1750467, 24.8504029]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "高平派出所",
+				"address": "桃園市龍潭區中豐路高平段281號",
+				"telephone": "03 4717204"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2069125, 24.8358128]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "石門派出所",
+				"address": "桃園市龍潭區文化路230號",
+				"telephone": "03 4712021"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2413061, 24.842766]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "中興派出所",
+				"address": "桃園市龍潭區武漢路45號",
+				"telephone": "03 4797497"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2343375, 24.8726634]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龍潭派出所",
+				"address": "桃園市龍潭區中山里大昌路1段277號",
+				"telephone": "03 4792002"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2203651, 24.8701615]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "聖亭派出所",
+				"address": "桃園市龍潭區干城路21號",
+				"telephone": "03 4891110"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.20766, 24.8686099]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "桃園市政府警察局",
+				"address": "桃園市縣府路3號",
+				"telephone": "03 3334400"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3019076, 24.9930441]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "警政大樓",
+				"address": "桃園市桃園區縣府路51號",
+				"telephone": "03 3325368"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2997995, 24.9933622]
+			}
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大文山衛星車隊",
+				"address": "330桃園市桃園區介新街79號",
+				"telephone": "800501666"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3079248, 24.97752421]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "55688代駕(台灣大車隊)",
+				"address": "320桃園市中壢區培英路169號",
+				"telephone": "手機直撥55688按8"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2245821, 24.97596375]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "亞洲衛星大車隊",
+				"address": "330桃園市桃園區宏昌六街119號",
+				"telephone": "(03)331-5555"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2954716, 24.98878956]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "新梅衛星車隊",
+				"address": "324桃園市平鎮區延平路三段39號",
+				"telephone": "(03)363-0033"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2050895, 24.94172037]
+			}
+		}
+	]
+}
