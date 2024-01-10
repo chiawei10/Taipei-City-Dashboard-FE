@@ -6073,6 +6073,243 @@
 				"林育緹",
 				"tuic"
 			]
+		},
+		
+		"166": {
+			"id": 166,
+			"index": "Drunk driving_men and women",
+			"history_data": true,
+			"map_config": [
+				{
+					"index": "Drunk driving_men and women",
+					"paint": {
+						"circle-color": [
+							"match",
+							[
+								"get",
+								"category"
+							],
+							"男",
+							"#ca0020",
+							"女",
+							"#e97c69",
+							"#797979"
+						],
+						"circle-stroke-color": "#888",
+						"circle-stroke-width": 1
+					},
+					"property": [
+						{
+							"key": "stop_name",
+							"name": "站點名稱"
+						},
+						{
+							"key": "category",
+							"name": "見車率"
+						}
+					],
+					"size": "big",
+					"title": "Youbike見車率",
+					"type": "circle"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "category"
+				}
+			},
+			"chart_config": {
+				"types": [
+					"BarChart",
+					"DonutChart"
+				],
+				"color": [
+					"#81C0C0",
+					"#B87070",
+					"#ca0020"
+				],
+				"unit": "人"
+			},
+			"name": "男女酒駕人數",
+			"source": "酒駕防範中心",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2021-12-31T00:00:00+08:00",
+			"short_desc": "",
+			"long_desc": "顯示2021年桃園市男女酒駕人數及總合。",
+			"use_case": "透過本組件您可以了解2021年桃園市的男女酒駕人數概況。",
+			"links": [
+				"https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=ae5d2d9b-59ad-4f15-a9d2-d0f5f3de2475"
+			],
+			"tags": [],
+			"contributors": [
+				"tuic"
+			]
+		},
+
+		"173": {
+			"id":173 ,
+			"index": "traffic",
+			"map_config": [
+				{
+					"index": "traffic_live_view",
+					"paint": {
+						"fill-color": [
+							"match",
+							[
+								"get",
+								"壅塞程度"
+							],
+							"壅塞",
+							"#EC4037",
+							"車多",
+							"#ff8c1a",
+							"順暢",
+							"#4dd97a",
+							"#ccc"
+						]
+					},
+					"property": [
+						{
+							"key": "snippet",
+							"name": "路段代號"
+						},
+						{
+							"key": "壅塞程度",
+							"name": "壅塞程度"
+						},
+						{
+							"key": "description",
+							"name": "描述"
+						},
+						{
+							"key": "update_at",
+							"name": "更新時間"
+						}
+					],
+					"type": "fill",
+					"title": "壅塞程度"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "壅塞程度"
+				}
+			},
+			"history_data_color": [
+				"#EC4037",
+				"#BBB"
+			],
+			"chart_config": {
+				"color": [
+					"#4dd97a",
+					"#ff8c1a",
+					"#EC4037"
+				],
+				"types": [
+					"DonutChart",
+					"BarChart"
+				],
+				"unit": "%"
+			},
+			"name": "代駕司機性別比例",
+			"source": "酒駕防範中心",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2021-12-31T00:00:00+08:00",
+			"update_freq": 10,
+			"update_freq_unit": "minute",
+			"long_desc": "顯示代駕男女司機的比例，每10分鐘更新。",
+			"use_case": "此組件的用途查看更新後的代駕性別",
+			"links": [
+				"https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=ae5d2d9b-59ad-4f15-a9d2-d0f5f3de2475"
+			],
+			"tags": [],
+			"contributors": [
+				"tuic"
+			]
+		},
+		"174": {
+			"id":174 ,
+			"index": "traffic",
+			"map_config": [
+				{
+					"index": "traffic_live_view",
+					"paint": {
+						"fill-color": [
+							"match",
+							[
+								"get",
+								"壅塞程度"
+							],
+							"壅塞",
+							"#EC4037",
+							"車多",
+							"#ff8c1a",
+							"順暢",
+							"#4dd97a",
+							"#ccc"
+						]
+					},
+					"property": [
+						{
+							"key": "snippet",
+							"name": "路段代號"
+						},
+						{
+							"key": "壅塞程度",
+							"name": "壅塞程度"
+						},
+						{
+							"key": "description",
+							"name": "描述"
+						},
+						{
+							"key": "update_at",
+							"name": "更新時間"
+						}
+					],
+					"type": "fill",
+					"title": "壅塞程度"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "壅塞程度"
+				}
+			},
+
+			"chart_config": {
+				"color": [
+					"#CDF5FD",
+					"#A0E9FF",
+					"#EC4037"
+				],
+				"types": [
+					"DonutChart",
+					"BarChart"
+				],
+				"unit": "%"
+			},
+			"name": "男女酒駕比例",
+			"source": "酒駕防範中心",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2021-12-31T00:00:00+08:00",
+			"update_freq": 10,
+			"update_freq_unit": "minute",
+			"long_desc": "顯示2021年桃園市男女酒駕比例。",
+			"use_case": "透過本組件您可以了解2021年桃園市的各自男女酒駕比例。",
+			"links": [
+				"https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=ae5d2d9b-59ad-4f15-a9d2-d0f5f3de2475"
+			],
+			"tags": [],
+			"contributors": [
+				"tuic"
+			]
 		}
 	}
+
+	
 }
+
