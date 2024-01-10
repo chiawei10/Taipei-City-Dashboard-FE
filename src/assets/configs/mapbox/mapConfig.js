@@ -2,13 +2,13 @@
 export const MapObjectConfig = {
 	antialias: true,
 	container: "mapboxBox",
-	center: [121.536609, 25.044808],
+	center: [121.241082, 24.957155],
 	maxBounds: [
-		[121.3870596781498, 24.95733863075891], // Southwest coordinates
-		[121.6998231749096, 25.21179993640203], // Northeast coordinates
+		[119.705347, 24.542565], // Southwest coordinates
+		[124.262592, 25.22517], // Northeast coordinates
 	],
-	zoom: 12.5,
-	minZoom: 11,
+	zoom: 12,
+	minZoom: 9.5,
 	maxZoom: 22,
 	projection: "globe", // display the map as a 3D globe
 };
@@ -320,6 +320,37 @@ export const maplayerCommonLayout = {
 			22,
 			1.4,
 		],
+	},
+	"symbol-taxi": {
+		"icon-image": "taxi",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.35,
+			14,
+			0.55,
+			22,
+			0.7,
+		],
+	},
+	"symbol-driver": {
+		"icon-image": "driver",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.35,
+			14,
+			0.55,
+			22,
+			0.7,
+		],
+	},
+	"symbol-police-station": {
+		"icon-image": "police-station",
 	},
 	"symbol-metro-density": {
 		"icon-image": "metro",

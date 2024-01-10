@@ -55,6 +55,12 @@
 			"icon": "handshake"
 		},
 		{
+			"name": "酒駕地圖",
+			"index": "drink",
+			"components": ["260", "270"],
+			"icon": "handshake"
+		},
+		{
 			"name": "收藏組件",
 			"index": "favorites",
 			"components": [],
