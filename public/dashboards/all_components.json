@@ -5275,7 +5275,7 @@
 			"long_desc": "顯示桃園市代駕司機的男女比例，資料會不定時做更新。",
 			"use_case": "透過此組件來查看更新後的代駕司機男女比列。",
 			"links": [
-				"https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=ae5d2d9b-59ad-4f15-a9d2-d0f5f3de2475"
+				""
 			],
 			"tags": [],
 			"contributors": [
@@ -5359,7 +5359,80 @@
 			"contributors": [
 				"tuic"
 			]
+		},
+
+		"178": {
+			"id": 178,
+			"index": "Passenger statistics",
+			"history_data": false,
+			"map_config": [
+				{
+					"index": "",
+					"paint": {
+						"fill-color": [
+							"match",
+							[
+								"get",
+								"壅塞程度"
+							],
+							"壅塞",
+							"#EC4037",
+							"車多",
+							"#ff8c1a",
+							"順暢",
+							"#4dd97a",
+							"#ccc"
+						]
+					},
+					"property": [
+						{
+							"key": "snippet",
+							"name": "路段代號"
+						},
+						{
+							"key": "壅塞程度",
+							"name": "壅塞程度"
+						},
+						{
+							"key": "description",
+							"name": "描述"
+						},
+						{
+							"key": "update_at",
+							"name": "更新時間"
+						}
+					],
+					"type": "fill",
+					"title": "壅塞程度"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "壅塞程度"
+				}
+			},
+			"chart_config": {
+				"color": ["#2e999b", "#C7C7E2"],
+				"types": ["TimelineStackedChart"],
+				"unit": "人"
+			},
+			"name": "載客人數統計",
+			"source": "酒駕防範中心",
+			"time_from": "2024-01-11 T23:59:59+08:00",
+			"time_to": "2024-01-12 T23:59:59+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "hour",
+			"long_desc": "顯示代駕司機每小時去各場所載客累積的總人數。每小時進行資料更新。",
+			"use_case": "藉由掌握代駕司機每小時去各場所載客的人數統計資訊，可以看出哪些時段是載客巔峰，有助於找到可能會發生酒駕事故的期間。",
+			"links": [
+				""
+			],
+			"tags": [],
+			"contributors": ["tuic"]
 		}
+	
+		
 	}
 
 	
