@@ -5132,7 +5132,7 @@
 				"tuic"
 			]
 		},
-		
+
 		"166": {
 			"id": 166,
 			"index": "Drunk driving_men and women",
@@ -5143,10 +5143,7 @@
 					"paint": {
 						"circle-color": [
 							"match",
-							[
-								"get",
-								"category"
-							],
+							["get", "category"],
 							"男",
 							"#ca0020",
 							"女",
@@ -5178,15 +5175,8 @@
 				}
 			},
 			"chart_config": {
-				"types": [
-					"BarChart",
-					"DonutChart"
-				],
-				"color": [
-					"#81C0C0",
-					"#B87070",
-					"#ca0020"
-				],
+				"types": ["BarChart", "DonutChart"],
+				"color": ["#81C0C0", "#B87070", "#ca0020"],
 				"unit": "人"
 			},
 			"name": "男女酒駕人數",
@@ -5200,13 +5190,11 @@
 				"https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=ae5d2d9b-59ad-4f15-a9d2-d0f5f3de2475"
 			],
 			"tags": [],
-			"contributors": [
-				"tuic"
-			]
+			"contributors": ["tuic"]
 		},
 
 		"173": {
-			"id":173 ,
+			"id": 173,
 			"index": "traffic",
 			"map_config": [
 				{
@@ -5214,10 +5202,7 @@
 					"paint": {
 						"fill-color": [
 							"match",
-							[
-								"get",
-								"壅塞程度"
-							],
+							["get", "壅塞程度"],
 							"壅塞",
 							"#EC4037",
 							"車多",
@@ -5255,20 +5240,10 @@
 					"xParam": "壅塞程度"
 				}
 			},
-			"history_data_color": [
-				"#EC4037",
-				"#BBB"
-			],
+			"history_data_color": ["#EC4037", "#BBB"],
 			"chart_config": {
-				"color": [
-					"#4dd97a",
-					"#ff8c1a",
-					"#EC4037"
-				],
-				"types": [
-					"DonutChart",
-					"BarChart"
-				],
+				"color": ["#4dd97a", "#ff8c1a", "#EC4037"],
+				"types": ["DonutChart", "BarChart"],
 				"unit": "%"
 			},
 			"name": "代駕司機性別比例",
@@ -5282,12 +5257,10 @@
 				"https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=ae5d2d9b-59ad-4f15-a9d2-d0f5f3de2475"
 			],
 			"tags": [],
-			"contributors": [
-				"tuic"
-			]
+			"contributors": ["tuic"]
 		},
 		"174": {
-			"id":174 ,
+			"id": 174,
 			"index": "traffic",
 			"map_config": [
 				{
@@ -5295,10 +5268,7 @@
 					"paint": {
 						"fill-color": [
 							"match",
-							[
-								"get",
-								"壅塞程度"
-							],
+							["get", "壅塞程度"],
 							"壅塞",
 							"#EC4037",
 							"車多",
@@ -5338,15 +5308,8 @@
 			},
 
 			"chart_config": {
-				"color": [
-					"#CDF5FD",
-					"#A0E9FF",
-					"#FFB5B5"
-				],
-				"types": [
-					"DonutChart",
-					"BarChart"
-				],
+				"color": ["#CDF5FD", "#A0E9FF", "#FFB5B5"],
+				"types": ["DonutChart", "BarChart"],
 				"unit": "%"
 			},
 			"name": "男女酒駕比例",
@@ -5360,12 +5323,157 @@
 				"https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=ae5d2d9b-59ad-4f15-a9d2-d0f5f3de2475"
 			],
 			"tags": [],
-			"contributors": [
-				"tuic"
-			]
+			"contributors": ["tuic"]
+		},
+		"260": {
+			"id": 260,
+			"index": "drink",
+			"map_config": [
+				{
+					"index": "Taoyuan_police_station",
+					"property": [
+						{
+							"key": "name",
+							"name": "所屬分局"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						},
+						{
+							"key": "telephone",
+							"name": "電話"
+						}
+					],
+					"type": "symbol",
+					"icon": "police-station",
+					"title": "派出所"
+				},
+				{
+					"index": "Taoyuan_patrol_district",
+					"paint": {
+						"line-color": "#009688"
+					},
+					"property": [
+						{
+							"key": "full",
+							"name": "轄區"
+						},
+						{
+							"key": "police_district_office_name",
+							"name": "所屬分局"
+						},
+						{
+							"key": "police_district_station_name",
+							"name": "所屬派出所"
+						},
+						{
+							"key": "area",
+							"name": "面積"
+						}
+					],
+					"type": "line",
+					"icon": "dash",
+					"title": "警局轄區"
+				}
+			],
+			"map_filter": {
+				"mode": "byLayer"
+			},
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "symbol",
+					"icon": "police-station",
+					"size": "small",
+					"name": "派出所"
+				},
+				{
+					"type": "line",
+					"color": "#009688",
+					"name": "派出所轄區"
+				}
+			],
+			"name": "派出所地點",
+			"source": "警察局",
+			"contributors": ["tuic"]
+		},
+		"270": {
+			"id": 270,
+			"index": "drink",
+			"map_config": [
+				{
+					"index": "taxi",
+					"property": [
+						{
+							"key": "company",
+							"name": "公司名稱"
+						},
+						{
+							"key": "simplified_address",
+							"name": "地址"
+						},
+						{
+							"key": "district",
+							"name": "區域"
+						}
+					],
+					"type": "symbol",
+					"title": "計程車",
+					"size": "big",
+					"icon": "taxi"
+				},
+				{
+					"index": "designated_driving",
+					"property": [
+						{
+							"key": "name",
+							"name": "公司名稱"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						},
+						{
+							"key": "telephone",
+							"name": "電話"
+						}
+					],
+					"type": "symbol",
+					"title": "代駕",
+					"size": "big",
+					"icon": "driver"
+				}
+			],
+			"map_filter": {
+				"mode": "byLayer"
+			},
+			"name": "酒後駕車選擇(分布)",
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "symbol",
+					"icon": "taxi",
+					"name": "計程車",
+					"value": 130
+				},
+				{
+					"type": "symbol",
+					"icon": "driver",
+					"name": "代駕",
+					"value": 5
+				}
+			],
+			"source": "消防局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"contributors": ["tuic"]
 		}
 	}
-
-	
 }
-
