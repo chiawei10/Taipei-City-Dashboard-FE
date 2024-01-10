@@ -5403,6 +5403,189 @@
 			"update_freq": null,
 			"update_freq_unit": null,
 			"contributors": ["tuic"]
+		},
+		"165": {
+			"id": 165,
+			"index": "drunk_driving",
+			"map_config": null,
+			"chart_config": {
+				"color": ["#9c7a3e", "#b7e28e", "#7febd0", "#8ce8ff"],
+				"types": ["BarPercentChart", "ColumnChart"],
+				"unit": "人數",
+				"categories": [
+					"中壢區",
+					"桃園區",
+					"平鎮區",
+					"八德區",
+					"楊梅區",
+					"蘆竹區",
+					"大溪區",
+					"龜山區",
+					"大園區",
+					"觀音區",
+					"新屋區",
+					"龍潭區",
+					"復興區"
+				]
+			},
+			"name": "酒駕白天晚上案件數",
+			"source": "都發局/警察局",
+			"time_from": "2023-06-02T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示當前全市酒駕情況",
+			"long_desc": "顯示當前全市酒駕分佈情況，資料來源為台桃園市警察局，不定期更新。",
+			"use_case": "這可以作為了解桃園市酒駕分佈情況的參考依據。",
+			"links": null,
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"168": {
+			"id": 168,
+			"index": "circular",
+			"map_config": null,
+			"history_data": true,
+			"chart_config": {
+				"color": [
+					"#C5E1A5",
+					"#ADED64",
+					"#7BB661",
+					"#479562",
+					"#357664",
+					"#00563F",
+					"#04432C"
+				],
+				"types": ["DonutChart", "BarChart"],
+				"unit": "件"
+			},
+			"name": "桃園市交通事故案件",
+			"source": "桃園市陳情系統",
+			"time_from": "2022-12-01T00:00:00+08:00",
+			"time_to": "2022-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "day",
+			"short_desc": "顯示近一週從週一起桃園市陳情系統所接收到的陳情案件",
+			"long_desc": "顯示近一週從週一起桃園市陳情系統所接收到的陳情案件，資料來源為桃園陳情系統內部資料，每天更新，並提供一年內每個月的陳情案件總數資料。",
+			"use_case": "透過陳情案件的統計資訊，我們可以追蹤近一週內桃園市各行政區收到的陳情案件，也可了解一年內每個月的陳情案件總數變化。",
+			"links": null,
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"169": {
+			"id": 169,
+			"index": "building_license",
+			"map_config": null,
+			"history_data": true,
+			"chart_config": {
+				"types": ["TimelineSeparateChart", "TimelineStackedChart"],
+				"color": ["#4dd97a", "#0a85f4"],
+				"unit": "件"
+			},
+			"name": "交通事故及酒駕比較",
+			"source": "桃園市交通局",
+			"time_from": "2011-01-01T00:00:00+08:00",
+			"time_to": "2022-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "month",
+			"short_desc": "顯示自民國103年開始到民國111年酒駕之於所有交通事故案件比較",
+			"long_desc": "顯示以年為單位的資料，資料來源為桃園市交通局建管處開放資料，每年更新",
+			"use_case": "藉由這些圖表數據，我們可以追蹤酒駕的變化趨勢，並進一步分析相關因素的影響",
+			"links": [
+				"https://data.taipei/dataset/detail?id=0816f991-e6c8-4da0-a789-d022fee1462b",
+				"https://data.taipei/dataset/detail?id=d8834353-ff8e-4a6c-9730-a4d3541f2669"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"175": {
+			"id": 175,
+			"index": "dispatch",
+			"history_data": null,
+			"map_config": null,
+			"chart_config": {
+				"types": ["RadarChart", "BarChart", "ColumnChart"],
+				"color": ["#fc9f0b", "#dac117", "#FDD79B", "#CA7F09"],
+				"unit": "件"
+			},
+			"name": "酒駕時間數量",
+			"source": "桃園市交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2022-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "week",
+			"short_desc": "顯示週五桃園市酒駕每小時的案件數",
+			"long_desc": "顯示週五桃園市酒駕每小時的案件數，資料來源為桃園市交通局內部資料，每週更新，並提供一天中每小時的酒駕總數資料。",
+			"use_case": "概覽桃園市近期哪些時間的酒駕案件數較高，可進一步查詢相關指標資料，如一年內案件數統計，以深入瞭解問題。",
+			"links": null,
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"176": {
+			"id": 176,
+			"index": "flood_simulate",
+			"map_config": null,
+			"chart_config": {
+				"color": ["#CDF5FD", "#A0E9FF", "#00A9FF"],
+				"types": ["ColumnChart"],
+				"unit": "件",
+				"categories": [
+					"2014",
+					"2015",
+					"2016",
+					"2017",
+					"2018",
+					"2019",
+					"2020",
+					"2021",
+					"2022"
+				]
+			},
+			"name": "酒駕導致受傷及死亡",
+			"source": "桃園市警察局",
+			"time_from": "2014-01-01T00:00:00+08:00",
+			"time_to": "2022-12-31T00:00:00+08:00",
+			"update_freq": null,
+			"update_freq_unit": "year",
+			"short_desc": "顯示全市依年度的受傷人數及死亡人數。",
+			"long_desc": "本圖表展示全市依年度的受傷人數及死亡人數，資料來源為桃園市警察局，每一年更新一次。",
+			"use_case": "本組件可展示全市依年度的受傷人數及死亡人數，以做酒駕防制規劃。",
+			"tags": [],
+			"links": [
+				"https://stat.motc.gov.tw/mocdb/stmain.jsp?sys=220&ym=10300&ymt=11100&kind=21&type=1&funid=b330701&cycle=4&outmode=0&compmode=0&outkind=1&fldlst=111&cod03=1&rdm=9eiWeaUe"
+			],
+			"contributors": ["tuic"]
+		},
+		"177": {
+			"id": 177,
+			"index": "circular",
+			"map_config": null,
+			"history_data": null,
+			"chart_config": {
+				"color": [
+					"#C5E1A5",
+					"#ADED64",
+					"#7BB661",
+					"#479562",
+					"#357664",
+					"#00563F",
+					"#04432C"
+				],
+				"types": ["DonutChart", "BarChart"],
+				"unit": "件"
+			},
+			"name": "桃園市酒駕車輛分析",
+			"source": "桃園市酒駕車輛分析",
+			"time_from": "2022-01-01T00:00:00+08:00",
+			"time_to": "2022-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示全市依年度按第一當事者駕乘車種分析",
+			"long_desc": "顯示近一年全市依年度按第一當事者駕乘車種分析，資料來源為桃園市內部資料，每年更新，並提供一年內的總數資料。",
+			"use_case": "透過統計資訊，我們可以追蹤近一年內桃園市各種車種發生酒駕的數量變化。",
+			"links": null,
+			"tags": [],
+			"contributors": ["tuic"]
 		}
 	}
 }
