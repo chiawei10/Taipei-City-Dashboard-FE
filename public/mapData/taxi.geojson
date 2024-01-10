@@ -1,0 +1,1565 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "彭運興自營計程車行",
+				"simplified_address": "桃園市新屋區石磊里石磊",
+				"district": "新屋區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.091134328199999, 24.9943796]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "彭永春個人車行",
+				"simplified_address": "桃園市桃園區福林里福安路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3111035, 24.9875368]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李傳城個人計程車行",
+				"simplified_address": "桃園市桃園區東門里東興路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "胡阿川個人計程車行",
+				"simplified_address": "桃園市桃園區新埔里南通路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.305304, 25.020259]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "官阿明個人計程車行",
+				"simplified_address": "桃園市桃園區大林里榮華街",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3026694, 24.9732116]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "許新日個人計程車行",
+				"simplified_address": "桃園市桃園區福林里介壽路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3111035, 24.9875368]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "詹益森個人計程車行",
+				"simplified_address": "桃園市蘆竹區中福里",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.259089245599995, 25.0039555]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "徐定源計程車個人行",
+				"simplified_address": "桃園市蘆竹區錦興里",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.289095562499995, 25.04755]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "黃棋號個人車行",
+				"simplified_address": "桃園市蘆竹區新興里大竹路",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "邱顯政個人計程車行",
+				"simplified_address": "桃園市桃園區成功里中山東路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3171893, 24.9966918]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "邱垂琳個人計程車行",
+				"simplified_address": "桃園市蘆竹區大竹里",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.255493091899993, 25.0253985]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李宏枝個人計程車客運",
+				"simplified_address": "桃園市蘆竹區中福里新興路",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "王德順個人計程車行",
+				"simplified_address": "桃園市蘆竹區蘆竹里蘆竹路",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.294484518199994, 25.04709725]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "黃大川個人計程車行",
+				"simplified_address": "桃園市桃園區福林里介壽路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3111035, 24.9875368]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "林榮祥自營計程車行",
+				"simplified_address": "桃園市桃園區玉山里玉山街",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "邱進春自營計程車行",
+				"simplified_address": "桃園市桃園區建國里大林路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.314594408900007, 24.9889832]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "游象忠自營計程車行",
+				"simplified_address": "桃園市蘆竹區山腳里",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2861245, 25.0860171]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "高庭改自營計程車行",
+				"simplified_address": "桃園市桃園區福林里介壽路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3111035, 24.9875368]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "林乾坤自營計程車行",
+				"simplified_address": "桃園市大園區大觀里壽山街",
+				"district": "大園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "王超弘自營計程車行",
+				"simplified_address": "桃園市桃園區成功里中興路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "簡宏元自營計程車行",
+				"simplified_address": "桃園市桃園區中埔里富國路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "林曾溪自營計程車行",
+				"simplified_address": "桃園市平鎮區北貴里關爺東路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2210927, 24.9286277]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "徐水光個人車行",
+				"simplified_address": "桃園市平鎮區廣興里廣平路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.208612916899995, 24.95231025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "劉家海個人計程車行",
+				"simplified_address": "桃園市平鎮區南勢里南平路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.210130773, 24.91444525]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "鄭貴鑾個人車行",
+				"simplified_address": "桃園市平鎮區雙連里",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.183368044199995, 24.95655985]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "邱盛彬自營計程車行",
+				"simplified_address": "桃園市平鎮區廣興里廣達路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.208612916899995, 24.95231025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "江富明自營計程車行",
+				"simplified_address": "桃園市平鎮區南勢里",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.217020938499999, 24.91587055]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "蔣國果自營計程車行",
+				"simplified_address": "桃園市平鎮區廣興里廣興路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.208612916899995, 24.95231025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "古紹松個人計程車行",
+				"simplified_address": "桃園市平鎮區廣興里義民路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2154841, 24.9532409]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "莊燕賢個人計程車行",
+				"simplified_address": "桃園市平鎮區湧光里中豐路山頂段",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2111936, 24.8958832]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "鍾庭寬個人計程車行",
+				"simplified_address": "桃園市平鎮區北貴里",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.223850471700004, 24.92856655]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "魏占海個人計程車行",
+				"simplified_address": "桃園市平鎮區平鎮里新光路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "林字郎個人計車行",
+				"simplified_address": "桃園市平鎮區南勢里南平路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.210130773, 24.91444525]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "張進添個人計程車行",
+				"simplified_address": "桃園市平鎮區南勢里南平路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.210130773, 24.91444525]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "姜仁雄個人計程車行",
+				"simplified_address": "桃園市平鎮區廣興里廣達路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.208612916899995, 24.95231025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "陳光鋒個人計程車行",
+				"simplified_address": "桃園市平鎮區平鎮里新光路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "黃文富個人計程車行",
+				"simplified_address": "桃園市平鎮區平鎮里南平路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.210130773, 24.91444525]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "蔡長發自營計程車行",
+				"simplified_address": "桃園市平鎮區湧光里湧光路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "王興隆個人計程車行",
+				"simplified_address": "桃園市平鎮區平鎮里陸橋南路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1875282, 24.9230395]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "傅祖眷個人計程車行",
+				"simplified_address": "桃園市中壢區忠福里延平路",
+				"district": "中壢區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "王年發個人計程車行",
+				"simplified_address": "桃園市平鎮區平鎮里陸橋南路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1875282, 24.9230395]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "梁坤芳個人車行",
+				"simplified_address": "桃園市平鎮區湧光里湧光路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "姜仁龍個人車行",
+				"simplified_address": "桃園市平鎮區湧光里湧光路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "呂芳金自營計程車行",
+				"simplified_address": "桃園市平鎮區北興里金興路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "陳欽鎮個人計程車行",
+				"simplified_address": "桃園市中壢區忠福里中福路",
+				"district": "中壢區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.248481865, 24.9747834]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "莊南華個人計程車行",
+				"simplified_address": "桃園市平鎮區湧光里湧光路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "王隆泉個人計程車行",
+				"simplified_address": "桃園市平鎮區湧光里湧光路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李長壽自營計程車行",
+				"simplified_address": "桃園市大溪區月眉里月眉",
+				"district": "大溪區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.301313763600007, 24.89746815]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "王祺龍個人車行",
+				"simplified_address": "桃園市中壢區中山里",
+				"district": "中壢區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.173139168399999, 25.0161029]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "曾長生個人車行",
+				"simplified_address": "桃園市大溪區興和里中正路",
+				"district": "大溪區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李傳成個人計程車行",
+				"simplified_address": "桃園市大溪區月眉里月眉",
+				"district": "大溪區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.301313763600007, 24.89746815]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李長燦個人計程車行",
+				"simplified_address": "桃園市大溪區月眉里月眉",
+				"district": "大溪區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.301313763600007, 24.89746815]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "陳該得自營計程車行",
+				"simplified_address": "桃園市桃園區南門里南豐街",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "王英俤個人計程車行",
+				"simplified_address": "桃園市桃園區福林里介壽路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3111035, 24.9875368]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "劉富田個人計程車行",
+				"simplified_address": "桃園市桃園區福林里介壽路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3111035, 24.9875368]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "呂金來個人計程車行",
+				"simplified_address": "桃園市桃園區慈文里慈文路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.290961977699993, 25.00115605]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "邱銘華個人計程車行",
+				"simplified_address": "桃園市桃園區忠義里大有路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "汪家發個人計程車行",
+				"simplified_address": "桃園市蘆竹區新興里大竹路",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "呂理鎌個人車行",
+				"simplified_address": "桃園市蘆竹區錦興里溪洲街",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "吳國耀個人計程車行",
+				"simplified_address": "桃園市平鎮區新勢里振興西路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2160986, 24.9456375]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "王日青個人計程車行",
+				"simplified_address": "桃園市中壢區普仁里",
+				"district": "中壢區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.23863915, 24.95400015]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "呂勝福個人計程車行",
+				"simplified_address": "桃園市中壢區東興里健行路",
+				"district": "中壢區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "呂發煥個人計程車行",
+				"simplified_address": "桃園市平鎮區新勢里北勢路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李增義個人計程車行",
+				"simplified_address": "桃園市大溪區福安里",
+				"district": "大溪區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.295131308099997, 24.85773265]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "小林汽車行",
+				"simplified_address": "桃園市桃園區福林里介壽路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3111035, 24.9875368]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "王德同車行",
+				"simplified_address": "桃園市桃園區新埔里南通路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.305304, 25.020259]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "林繼寶計程車行",
+				"simplified_address": "桃園市桃園區南門里南興街",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "山脚計程車行",
+				"simplified_address": "桃園市蘆竹區山腳里南山北路一段",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2838855, 25.0885018]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "郭在賜個人計程車行",
+				"simplified_address": "桃園市桃園區玉山里大同西路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "葉石德個人計程車行",
+				"simplified_address": "桃園市桃園區大林里大仁路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.283783107900007, 24.9050453]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "許調棟個人計程車行",
+				"simplified_address": "桃園市桃園區福林里介壽路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3111035, 24.9875368]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "黃清泉個人車行",
+				"simplified_address": "桃園市桃園區中正里壽星街",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李寶山個人車行",
+				"simplified_address": "桃園市桃園區新埔里南通路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.305304, 25.020259]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "陳觀通個人車行",
+				"simplified_address": "桃園市桃園區長安里永安路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2942045, 25.0062157]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "楊世英個人車行",
+				"simplified_address": "桃園市桃園區中興里中山北路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3030074, 24.995968]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "黃進文計程車行",
+				"simplified_address": "桃園市桃園區中正里延壽街",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李金宏個人車行",
+				"simplified_address": "桃園市蘆竹區中福里福興路",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "謝岡榮個人車行",
+				"simplified_address": "桃園市桃園區大林里大明路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.306695710599996, 24.9893417]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "廖學輝個人車行",
+				"simplified_address": "桃園市桃園區新埔里南通路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.305304, 25.020259]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "葉文得個人車行",
+				"simplified_address": "桃園市蘆竹區大竹里大華市場",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [115.8795243, 28.6484293]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "賴國芳個人車行",
+				"simplified_address": "桃園市蘆竹區大竹里",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.255493091899993, 25.0253985]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "蔡明忠個人計程車行",
+				"simplified_address": "桃園市桃園區民生里民生路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.309645531300006, 25.00290465]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "沈長輝個人車行",
+				"simplified_address": "桃園市桃園區中山里延壽街",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李川竹個車行",
+				"simplified_address": "桃園市蘆竹區大竹里",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.255493091899993, 25.0253985]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李衍源自營計程車行",
+				"simplified_address": "桃園市蘆竹區海湖里海湖",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.263088299800003, 25.10695995]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "楊有芳自營計程車行",
+				"simplified_address": "桃園市桃園區南門里文山街",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.306695710599996, 24.9893417]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "江支桐個人車行",
+				"simplified_address": "桃園市桃園區武陵里武昌街",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "林長春自營計程車行",
+				"simplified_address": "桃園市蘆竹區坑口里",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2861245, 25.0860171]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "邱文雄個人車行",
+				"simplified_address": "桃園市桃園區西埔里永安路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.306954530499993, 25.00023835]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "邱創益個人計車行",
+				"simplified_address": "桃園市蘆竹區蘆竹里",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.294484518199994, 25.04709725]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "江義雄個人計程車行",
+				"simplified_address": "桃園市平鎮區湧光里湧光路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "蔡崇寶自營計程車行",
+				"simplified_address": "桃園市桃園區民生里中山路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.4093496, 23.132962]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "錢忠啟自營計程車行",
+				"simplified_address": "桃園市蘆竹區外社里外社",
+				"district": "蘆竹區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.311882616700004, 25.0841685]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "張崇雄個人車行",
+				"simplified_address": "桃園市桃園區福林里介壽路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3111035, 24.9875368]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "郭敦山自營計程車行",
+				"simplified_address": "桃園市桃園區文化里中正路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0831104, 25.0331702]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "胡慶雲個人車行",
+				"simplified_address": "桃園市中壢區中山里",
+				"district": "中壢區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.173139168399999, 25.0161029]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "小龍汽車行",
+				"simplified_address": "桃園市桃園區福林里介壽路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3111035, 24.9875368]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "彭明爐自營計程車行",
+				"simplified_address": "桃園市平鎮區平鎮里新光路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "宏達汽車行",
+				"simplified_address": "桃園市桃園區南門里介壽路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "梁敬煌計程車行",
+				"simplified_address": "桃園市平鎮區義民里廣興路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2154841, 24.9532409]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "陳廣安個人車行",
+				"simplified_address": "桃園市平鎮區平鎮里陸橋南路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1875282, 24.9230395]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "曾正宗個人計程車行",
+				"simplified_address": "桃園市新屋區社子里",
+				"district": "新屋區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0819598028, 24.9562409]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "周租義個人計程車行",
+				"simplified_address": "桃園市新屋區社子里",
+				"district": "新屋區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0819598028, 24.9562409]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "黃添明個人車行",
+				"simplified_address": "桃園市平鎮區義民里義民路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2154841, 24.9532409]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "張金銅自營計程車行",
+				"simplified_address": "桃園市平鎮區東勢里",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.239930451, 24.89454035]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "趙文庭個人計程車行",
+				"simplified_address": "桃園市平鎮區莊敬里莊敬路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.219161511300001, 24.9018512]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "秦玉明個人計程車行",
+				"simplified_address": "桃園市平鎮區莊敬里莊敬路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.219161511300001, 24.9018512]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "楊堃榮自營計程車行",
+				"simplified_address": "桃園市平鎮區忠貞里",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2544407054, 24.92819445]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李浩然個人計程車行",
+				"simplified_address": "桃園市平鎮區平鎮里陸橋南路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1875282, 24.9230395]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "曾玉田個人計車行",
+				"simplified_address": "桃園市平鎮區南勢里南平路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.210130773, 24.91444525]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "徐肇業個人車行",
+				"simplified_address": "桃園市平鎮區莊敬里莊敬路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.219161511300001, 24.9018512]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "詹德城個人車行",
+				"simplified_address": "桃園市平鎮區湧光里中豐路山頂段",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2111936, 24.8958832]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "湯乾開個人計程車行",
+				"simplified_address": "桃園市中壢區忠福里延平路",
+				"district": "中壢區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.764902299999989, 34.9327856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "戴文品個人車行",
+				"simplified_address": "桃園市平鎮區湧光里中豐路山頂段",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2111936, 24.8958832]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "陳安雄自營計程行",
+				"simplified_address": "桃園市平鎮區北興里關爺東路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2210927, 24.9286277]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "黃銀椿個人車行",
+				"simplified_address": "桃園市平鎮區北勢里振興路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "朱財旺自營計程車行",
+				"simplified_address": "桃園市平鎮區義民里義民路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2154841, 24.9532409]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李宗興個人車行",
+				"simplified_address": "桃園市平鎮區南勢里新光路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186403875300002, 24.9150662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李振松自營計程車行",
+				"simplified_address": "桃園市中壢區忠福里中福路",
+				"district": "中壢區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.248481865, 24.9747834]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "彭福照個人計程車行",
+				"simplified_address": "桃園市中壢區龍昌里",
+				"district": "中壢區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.251785410699995, 24.93566585]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "李安志自營計程車行",
+				"simplified_address": "桃園市平鎮區東勢里平東路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.219161511300001, 24.9018512]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "徐能發自營計程車行",
+				"simplified_address": "桃園市平鎮區北貴里關爺東路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2210927, 24.9286277]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "盧國峯個人計程車行",
+				"simplified_address": "桃園市平鎮區義民里新興路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2154841, 24.9532409]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "謝盛弘個人計程車行",
+				"simplified_address": "桃園市新屋區石磊里",
+				"district": "新屋區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.091134328199999, 24.9943796]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "葉倫雄個人車行",
+				"simplified_address": "桃園市新屋區下田里",
+				"district": "新屋區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.056639195800003, 24.9905709]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "向煥生個人計程車行",
+				"simplified_address": "桃園市平鎮區新勢里新德路",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2154841, 24.9532409]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "黃招斌自營計程車行",
+				"simplified_address": "桃園市平鎮區湧光里",
+				"district": "平鎮區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.208073701100005, 24.89483195]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "楊長茂個人計程車行",
+				"simplified_address": "桃園市桃園區福林里福安路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3111035, 24.9875368]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "陳建明個人計程車行",
+				"simplified_address": "桃園市龜山區新路里萬壽路",
+				"district": "龜山區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.346260104600006, 24.99919215]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"company": "王和源個人計程車行",
+				"simplified_address": "桃園市桃園區慈文里慈文路",
+				"district": "桃園區"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.290961977699993, 25.00115605]
+			}
+		}
+	]
+}
