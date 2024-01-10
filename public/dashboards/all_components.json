@@ -5136,44 +5136,8 @@
 		"166": {
 			"id": 166,
 			"index": "Drunk driving_men and women",
-			"history_data": true,
-			"map_config": [
-				{
-					"index": "",
-					"paint": {
-						"circle-color": [
-							"match",
-							["get", "category"],
-							"男",
-							"#ca0020",
-							"女",
-							"#e97c69",
-							"#797979"
-						],
-						"circle-stroke-color": "#888",
-						"circle-stroke-width": 1
-					},
-					"property": [
-						{
-							"key": "stop_name",
-							"name": "站點名稱"
-						},
-						{
-							"key": "category",
-							"name": "見車率"
-						}
-					],
-					"size": "big",
-					"title": "Youbike見車率",
-					"type": "circle"
-				}
-			],
-			"map_filter": {
-				"mode": "byParam",
-				"byParam": {
-					"xParam": "category"
-				}
-			},
+			"history_data": false,
+			"map_config": null,
 			"chart_config": {
 				"types": ["BarChart", "DonutChart"],
 				"color": ["#81C0C0", "#B87070", "#ca0020"],
@@ -5195,24 +5159,7 @@
 		"170": {
 			"id": 170,
 			"index": "drink",
-			"map_config": [
-				{
-					"index": "Drunk_driving",
-
-					"property": [
-						{
-							"key": "dist",
-							"name": "行政區"
-						},
-
-						{
-							"key": "Number",
-							"name": "人數"
-						}
-					]
-				}
-			],
-
+			"map_config": null,
 			"chart_config": {
 				"types": ["TaoyuanChart", "ColumnChart"],
 				"color": ["#FFCA9C"],
@@ -5234,7 +5181,7 @@
 		"172": {
 			"id": 172,
 			"index": "periodic_distribution",
-			"map_config": true,
+			"map_config": null,
 			"history_data": null,
 			"chart_config": {
 				"color": [
@@ -5266,51 +5213,7 @@
 		"173": {
 			"id": 173,
 			"index": "traffic",
-			"map_config": [
-				{
-					"index": "traffic_live_view",
-					"paint": {
-						"fill-color": [
-							"match",
-							["get", "壅塞程度"],
-							"壅塞",
-							"#EC4037",
-							"車多",
-							"#ff8c1a",
-							"順暢",
-							"#4dd97a",
-							"#ccc"
-						]
-					},
-					"property": [
-						{
-							"key": "snippet",
-							"name": "路段代號"
-						},
-						{
-							"key": "壅塞程度",
-							"name": "壅塞程度"
-						},
-						{
-							"key": "description",
-							"name": "描述"
-						},
-						{
-							"key": "update_at",
-							"name": "更新時間"
-						}
-					],
-					"type": "fill",
-					"title": "壅塞程度"
-				}
-			],
-			"map_filter": {
-				"mode": "byParam",
-				"byParam": {
-					"xParam": "壅塞程度"
-				}
-			},
-			"history_data_color": ["#EC4037", "#BBB"],
+			"map_config": null,
 			"chart_config": {
 				"color": ["#4dd97a", "#ff8c1a", "#EC4037"],
 				"types": ["DonutChart", "BarChart"],
@@ -5332,51 +5235,7 @@
 		"174": {
 			"id": 174,
 			"index": "traffic",
-			"map_config": [
-				{
-					"index": "traffic_live_view",
-					"paint": {
-						"fill-color": [
-							"match",
-							["get", "壅塞程度"],
-							"壅塞",
-							"#EC4037",
-							"車多",
-							"#ff8c1a",
-							"順暢",
-							"#4dd97a",
-							"#ccc"
-						]
-					},
-					"property": [
-						{
-							"key": "snippet",
-							"name": "路段代號"
-						},
-						{
-							"key": "壅塞程度",
-							"name": "壅塞程度"
-						},
-						{
-							"key": "description",
-							"name": "描述"
-						},
-						{
-							"key": "update_at",
-							"name": "更新時間"
-						}
-					],
-					"type": "fill",
-					"title": "壅塞程度"
-				}
-			],
-			"map_filter": {
-				"mode": "byParam",
-				"byParam": {
-					"xParam": "壅塞程度"
-				}
-			},
-
+			"map_config": null,
 			"chart_config": {
 				"color": ["#CDF5FD", "#A0E9FF", "#FFB5B5"],
 				"types": ["DonutChart", "BarChart"],
