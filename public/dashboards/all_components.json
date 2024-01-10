@@ -1,5 +1,326 @@
 {
 	"data": {
+		"167": {
+			"id": 167,
+			"index": "Drink-testing-location",
+			"map_config": [
+				{
+					"index": "no_drunk",
+					"paint": {
+						"circle-color": "#F49F36"
+					},
+					"property": [
+						{
+							"key": "date",
+							"name": "日期"
+						},
+						{
+							"key": "time",
+							"name": "時間"
+						},
+						{
+							"key": "district",
+							"name": "區域"
+						},
+						{
+							"key": "drunk_driving",
+							"name": "酒測是否超標"
+						}
+					],
+					"title": "酒測地圖",
+					"type": "circle",
+					"size": "small",
+					"icon": null
+				},
+				{
+					"index": "drunk",
+					"paint": {
+						"circle-color": "#A25FAD"
+					},
+					"property": [
+						{
+							"key": "date",
+							"name": "日期"
+						},
+						{
+							"key": "time",
+							"name": "時間"
+						},
+						{
+							"key": "district",
+							"name": "區域"
+						},
+						{
+							"key": "drunk_driving",
+							"name": "酒測是否超標"
+						}
+					],
+					"title": "酒測地圖",
+					"type": "circle",
+					"size": "big",
+					"icon": null
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "district"
+				}
+			},
+			"chart_config": {
+				"color": ["#A25FAD", "#F49F36"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "",
+				"categories": [
+					"桃園區",
+					"中壢區",
+					"平鎮區",
+					"八德區",
+					"楊梅區",
+					"蘆竹區",
+					"大溪區",
+					"龜山區",
+					"大園區",
+					"觀音區",
+					"新屋區",
+					"龍潭區",
+					"復興區"
+				]
+			},
+			"name": "酒測(未)超標地點",
+			"source": "政府資料開放平台",
+			"time_from": "2022-01-01 00:00:22+08:00",
+			"time_to": "2022-12-31 23:50:18+08:00",
+			"short_desc": "顯示各行政區酒測及酒駕人數多寡。",
+			"long_desc": "顯示各行政區酒測及酒駕人數多寡。於地圖交叉比對中以點方式呈現。",
+			"use_case": "藉由各行政區酒測及酒駕分佈可觀察酒駕分布高以及較少進行酒測的地區，並搭配地圖交叉比對以評估各區內之區域情形及需求。"
+		},
+		"171": {
+			"id": 171,
+			"index": "Drink-testing-location",
+			"map_config": [
+				{
+					"index": "dead24",
+					"paint": {
+						"circle-color": "#e56b6f"
+					},
+					"property": [
+						{
+							"key": "date",
+							"name": "日期"
+						},
+						{
+							"key": "time",
+							"name": "時間"
+						},
+						{
+							"key": "district",
+							"name": "區域"
+						},
+						{
+							"key": "dead24",
+							"name": "24小時內死亡人數"
+						},
+						{
+							"key": "drive",
+							"name": "交通類型"
+						},
+						{
+							"key": "driving_license",
+							"name": "駕照"
+						}
+					],
+					"title": "交通事故",
+					"type": "circle",
+					"size": "big",
+					"icon": null
+				},
+				{
+					"index": "dead30",
+					"paint": {
+						"circle-color": "#184e77"
+					},
+					"property": [
+						{
+							"key": "date",
+							"name": "日期"
+						},
+						{
+							"key": "time",
+							"name": "時間"
+						},
+						{
+							"key": "district",
+							"name": "區域"
+						},
+						{
+							"key": "dead30",
+							"name": "30小時內死亡人數"
+						},
+						{
+							"key": "drive",
+							"name": "交通類型"
+						},
+						{
+							"key": "driving_license",
+							"name": "駕照"
+						}
+					],
+					"title": "交通事故",
+					"type": "circle",
+					"size": "big",
+					"icon": null
+				},
+				{
+					"index": "hurt",
+					"paint": {
+						"circle-color": "#bfb5af"
+					},
+					"property": [
+						{
+							"key": "date",
+							"name": "日期"
+						},
+						{
+							"key": "time",
+							"name": "時間"
+						},
+						{
+							"key": "district",
+							"name": "區域"
+						},
+						{
+							"key": "hurt",
+							"name": "受傷人數"
+						},
+						{
+							"key": "drive",
+							"name": "交通類型"
+						},
+						{
+							"key": "driving_license",
+							"name": "駕照"
+						}
+					],
+					"title": "交通事故",
+					"type": "circle",
+					"size": "small",
+					"icon": null
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "district"
+				}
+			},
+			"chart_config": {
+				"color": ["#bfb5af", "#184e77", "#e56b6f"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "",
+				"categories": [
+					"八德區",
+					"大園區",
+					"大溪區",
+					"中壢區",
+					"平鎮區",
+					"桃園區",
+					"復興區",
+					"新屋區",
+					"楊梅區",
+					"龍潭區",
+					"龜山區",
+					"蘆竹區",
+					"觀音區"
+				]
+			},
+			"name": "酒駕造成的交通事故地點(次數)",
+			"source": "政府資料開放平台",
+			"time_from": "2022-01-01 00:00:22+08:00",
+			"time_to": "2022-12-31 23:50:18+08:00",
+			"short_desc": "顯示各行政區發生交通事故之分布。",
+			"long_desc": "顯示各行政區發生交通事故之分布。於地圖交叉比對中以點方式呈現。",
+			"use_case": "藉由各行政區發生交通事故之分佈可觀察需輔助之地區，並搭配地圖交叉比對以評估各區內之區域情形及需求。"
+		},
+		"152": {
+			"id": 152,
+			"index": "residential_safety",
+			"map_config": [
+				{
+					"index": "bld_2d_in_renew",
+					"paint": {
+						"fill-color": "#F49F36"
+					},
+					"title": "已在都更範圍",
+					"type": "fill"
+				},
+				{
+					"index": "bld_2d_in_soil_liquid",
+					"paint": {
+						"fill-color": "#A25FAD"
+					},
+					"title": "高液化且大於20年",
+					"type": "fill"
+				},
+				{
+					"index": "bld_2d_no_renew",
+					"paint": {
+						"fill-color": "#7D7D7D"
+					},
+					"title": "無都更需求",
+					"type": "fill"
+				},
+				{
+					"index": "bld_2d_older_than_30",
+					"paint": {
+						"fill-color": "#E06666"
+					},
+					"title": "大於30年",
+					"type": "fill"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"yParam": "都更機會"
+				}
+			},
+			"chart_config": {
+				"color": ["#A25FAD", "#E06666", "#F49F36", "#7D7D7D"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "",
+				"categories": [
+					"桃園區",
+					"中壢區",
+					"平鎮區",
+					"八德區",
+					"楊梅區",
+					"蘆竹區",
+					"大溪區",
+					"龜山區",
+					"大園區",
+					"觀音區",
+					"新屋區",
+					"龍潭區",
+					"復興區"
+				]
+			},
+			"name": "居住安全性",
+			"source": "都發局/工務局",
+			"time_from": "2022-01-01 00:00:22+08:00",
+			"time_to": "2022-12-31 23:50:18+08:00",
+			"short_desc": "顯示各行政區居住安全分佈之狀況。",
+			"long_desc": "顯示各行政區居住安全分佈之狀況。於地圖交叉比對中以3D建築方式呈現。",
+			"use_case": "藉由各行政區居住安全性分佈可觀察需輔助之地區，並搭配地圖交叉比對以評估各區內之區域情形及需求。",
+			"contributors": [
+				"weewin",
+				"林柔安",
+				"陳宇修",
+				"黃亘立",
+				"卓易霆",
+				"tuic"
+			]
+		},
 		"5": {
 			"id": 5,
 			"index": "circular",
@@ -4102,324 +4423,6 @@
 				"徐慶怡",
 				"林昭宏",
 				"蔡宜秀",
-				"tuic"
-			]
-		},
-		"167": {
-			"id": 167,
-			"index": "Drink-testing-location",
-			"map_config": [
-				{
-					"index": "no_drunk",
-					"paint": {
-						"circle-color": "#F49F36"
-					},
-					"property": [
-						{
-							"key": "date",
-							"name": "日期"
-						},
-						{
-							"key": "time",
-							"name": "時間"
-						},
-						{
-							"key": "district",
-							"name": "區域"
-						},
-						{
-							"key": "drunk_driving",
-							"name": "酒測是否超標"
-						}
-					],
-					"title": "酒測地圖",
-					"type": "circle",
-					"size": "small",
-					"icon": null
-				},
-				{
-					"index": "drunk",
-					"paint": {
-						"circle-color": "#A25FAD"
-					},
-					"property": [
-						{
-							"key": "date",
-							"name": "日期"
-						},
-						{
-							"key": "time",
-							"name": "時間"
-						},
-						{
-							"key": "district",
-							"name": "區域"
-						},
-						{
-							"key": "drunk_driving",
-							"name": "酒測是否超標"
-						}
-					],
-					"title": "酒測地圖",
-					"type": "circle",
-					"size": "big",
-					"icon": null
-				}
-			],
-			"map_filter": {
-				"mode": "byParam",
-				"byParam": {
-					"yParam": "都更機會"
-				}
-			},
-			"chart_config": {
-				"color": ["#A25FAD", "#F49F36"],
-				"types": ["ColumnChart", "BarPercentChart"],
-				"unit": "",
-				"categories": [
-					"桃園區",
-					"中壢區",
-					"平鎮區",
-					"八德區",
-					"楊梅區",
-					"蘆竹區",
-					"大溪區",
-					"龜山區",
-					"大園區",
-					"觀音區",
-					"新屋區",
-					"龍潭區",
-					"復興區"
-				]
-			},
-			"name": "酒測(未)超標地點",
-			"source": "都發局/工務局",
-			"time_from": "2022-01-01 00:00:22+08:00",
-			"time_to": "2022-12-31 23:50:18+08:00",
-			"short_desc": "顯示各行政區居住安全分佈之狀況。",
-			"long_desc": "顯示各行政區居住安全分佈之狀況。於地圖交叉比對中以3D建築方式呈現。",
-			"use_case": "藉由各行政區居住安全性分佈可觀察需輔助之地區，並搭配地圖交叉比對以評估各區內之區域情形及需求。"
-		},
-		"171": {
-			"id": 171,
-			"index": "Drink-testing-location",
-			"map_config": [
-				{
-					"index": "dead24",
-					"paint": {
-						"circle-color": "#e56b6f"
-					},
-					"property": [
-						{
-							"key": "date",
-							"name": "日期"
-						},
-						{
-							"key": "time",
-							"name": "時間"
-						},
-						{
-							"key": "district",
-							"name": "區域"
-						},
-						{
-							"key": "dead24",
-							"name": "24小時內死亡人數"
-						},
-						{
-							"key": "drive",
-							"name": "交通類型"
-						},
-						{
-							"key": "driving_license",
-							"name": "駕照"
-						}
-					],
-					"title": "交通事故",
-					"type": "circle",
-					"size": "big",
-					"icon": null
-				},
-				{
-					"index": "dead30",
-					"paint": {
-						"circle-color": "#184e77"
-					},
-					"property": [
-						{
-							"key": "date",
-							"name": "日期"
-						},
-						{
-							"key": "time",
-							"name": "時間"
-						},
-						{
-							"key": "district",
-							"name": "區域"
-						},
-						{
-							"key": "dead30",
-							"name": "30小時內死亡人數"
-						},
-						{
-							"key": "drive",
-							"name": "交通類型"
-						},
-						{
-							"key": "driving_license",
-							"name": "駕照"
-						}
-					],
-					"title": "交通事故",
-					"type": "circle",
-					"size": "big",
-					"icon": null
-				},
-				{
-					"index": "hurt",
-					"paint": {
-						"circle-color": "#bfb5af"
-					},
-					"property": [
-						{
-							"key": "date",
-							"name": "日期"
-						},
-						{
-							"key": "time",
-							"name": "時間"
-						},
-						{
-							"key": "district",
-							"name": "區域"
-						},
-						{
-							"key": "hurt",
-							"name": "受傷人數"
-						},
-						{
-							"key": "drive",
-							"name": "交通類型"
-						},
-						{
-							"key": "driving_license",
-							"name": "駕照"
-						}
-					],
-					"title": "交通事故",
-					"type": "circle",
-					"size": "small",
-					"icon": null
-				}
-			],
-			"map_filter": {
-				"mode": "byParam"
-			},
-			"chart_config": {
-				"color": ["#bfb5af", "#184e77", "#e56b6f"],
-				"types": ["ColumnChart", "BarPercentChart"],
-				"unit": "",
-				"categories": [
-					"八德區",
-					"大園區",
-					"大溪區",
-					"中壢區",
-					"平鎮區",
-					"桃園區",
-					"復興區",
-					"新屋區",
-					"楊梅區",
-					"龍潭區",
-					"龜山區",
-					"蘆竹區",
-					"觀音區"
-				]
-			},
-			"name": "酒駕造成的交通事故地點(次數)",
-			"source": "都發局/工務局",
-			"time_from": "2022-01-01 00:00:22+08:00",
-			"time_to": "2022-12-31 23:50:18+08:00",
-			"short_desc": "顯示各行政區居住安全分佈之狀況。",
-			"long_desc": "顯示各行政區居住安全分佈之狀況。於地圖交叉比對中以3D建築方式呈現。",
-			"use_case": "藉由各行政區居住安全性分佈可觀察需輔助之地區，並搭配地圖交叉比對以評估各區內之區域情形及需求。"
-		},
-		"152": {
-			"id": 152,
-			"index": "residential_safety",
-			"map_config": [
-				{
-					"index": "bld_2d_in_renew",
-					"paint": {
-						"fill-color": "#F49F36"
-					},
-					"title": "已在都更範圍",
-					"type": "fill"
-				},
-				{
-					"index": "bld_2d_in_soil_liquid",
-					"paint": {
-						"fill-color": "#A25FAD"
-					},
-					"title": "高液化且大於20年",
-					"type": "fill"
-				},
-				{
-					"index": "bld_2d_no_renew",
-					"paint": {
-						"fill-color": "#7D7D7D"
-					},
-					"title": "無都更需求",
-					"type": "fill"
-				},
-				{
-					"index": "bld_2d_older_than_30",
-					"paint": {
-						"fill-color": "#E06666"
-					},
-					"title": "大於30年",
-					"type": "fill"
-				}
-			],
-			"map_filter": {
-				"mode": "byParam",
-				"byParam": {
-					"yParam": "都更機會"
-				}
-			},
-			"chart_config": {
-				"color": ["#A25FAD", "#E06666", "#F49F36", "#7D7D7D"],
-				"types": ["ColumnChart", "BarPercentChart"],
-				"unit": "",
-				"categories": [
-					"桃園區",
-					"中壢區",
-					"平鎮區",
-					"八德區",
-					"楊梅區",
-					"蘆竹區",
-					"大溪區",
-					"龜山區",
-					"大園區",
-					"觀音區",
-					"新屋區",
-					"龍潭區",
-					"復興區"
-				]
-			},
-			"name": "居住安全性",
-			"source": "都發局/工務局",
-			"time_from": "2022-01-01 00:00:22+08:00",
-			"time_to": "2022-12-31 23:50:18+08:00",
-			"short_desc": "顯示各行政區居住安全分佈之狀況。",
-			"long_desc": "顯示各行政區居住安全分佈之狀況。於地圖交叉比對中以3D建築方式呈現。",
-			"use_case": "藉由各行政區居住安全性分佈可觀察需輔助之地區，並搭配地圖交叉比對以評估各區內之區域情形及需求。",
-			"contributors": [
-				"weewin",
-				"林柔安",
-				"陳宇修",
-				"黃亘立",
-				"卓易霆",
 				"tuic"
 			]
 		},
