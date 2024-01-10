@@ -5192,7 +5192,77 @@
 			"tags": [],
 			"contributors": ["tuic"]
 		},
+		"170": {
+			"id": 170,
+			"index": "drink",
+			"map_config": [
+				{
+					"index": "Drunk_driving",
 
+					"property": [
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+
+						{
+							"key": "Number",
+							"name": "人數"
+						}
+					]
+				}
+			],
+
+			"chart_config": {
+				"types": ["TaoyuanChart", "ColumnChart"],
+				"color": ["#FFCA9C"],
+				"unit": "人"
+			},
+			"name": "桃園酒駕區域計數",
+			"source": "交通部",
+			"time_from": "2022-01-01T00:00:00+08:00",
+			"time_to": "2022-12-31T00:00:00+08:00",
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示桃園市各區域的酒駕計數",
+			"long_desc": "顯示桃園市各區域的酒駕計數，資料來源為交通部資料，不定期更新。",
+			"use_case": "顯示桃園市各區域的酒駕計數資訊，對於了解各區域的酒駕狀況提供了重要參考，有助於提高交通安全意識並制定相應的交通管理策略。",
+			"links": ["https://stat.motc.gov.tw/mocdb/stmain.jsp?sys=100"],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"172": {
+			"id": 172,
+			"index": "periodic_distribution",
+			"map_config": true,
+			"history_data": null,
+			"chart_config": {
+				"color": [
+					"#5A5AAD",
+					"#D8D8EB",
+					"#E6E6F2",
+					"#C7C7E2",
+					"#7373B9",
+					"#8080C0",
+					"#8080D7"
+				],
+				"types": ["ColumnChart", "DonutChart"],
+				"unit": "件"
+			},
+
+			"name": "酒駕週期分布趨勢",
+			"source": "交通部",
+			"time_from": "2022-01-01T00:00:00+08:00",
+			"time_to": "2022-12-31T00:00:00+08:00",
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示酒駕案件在一星期內的分布趨勢",
+			"long_desc": "顯示酒駕案件在一星期內的分布趨勢，資料來源為交通部資料，不定期更新。",
+			"use_case": "根據酒駕案件的分佈情況，了解桃園市內酒駕事件的週期變化，為執法機關和政府制定更有效的交通管控策略提供參考。",
+			"links": ["https://stat.motc.gov.tw/mocdb/stmain.jsp?sys=100"],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
 		"173": {
 			"id": 173,
 			"index": "traffic",

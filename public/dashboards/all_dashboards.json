@@ -1,12 +1,6 @@
 {
 	"data": [
 		{
-			"name": "酒駕防範",
-			"index": "Drunk-driving ",
-			"components": ["170", "172"],
-			"icon": "star"
-		},
-		{
 			"name": "YouBike研究",
 			"index": "youbike",
 			"components": ["60", "142", "143", "144", "145", "146", "147"],
@@ -75,7 +69,7 @@
 		{
 			"name": "酒駕地圖",
 			"index": "drink",
-			"components": ["166", "173", "174", "260", "270"],
+			"components": ["166", "170", "172", "173", "174", "260", "270"],
 			"icon": "handshake"
 		},
 		{
