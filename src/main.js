@@ -38,6 +38,7 @@ import PolarAreaChart from "./components/charts/PolarAreaChart.vue";
 import ColumnLineChart from "./components/charts/ColumnLineChart.vue";
 import BarChartWithGoal from "./components/charts/BarChartWithGoal.vue";
 import IconPercentChart from "./components/charts/IconPercentChart.vue";
+import TaoyuanChart from "./components/charts/TaoyuanChart.vue";
 
 const app = createApp(App);
 
@@ -64,5 +65,6 @@ app.component("PolarAreaChart", PolarAreaChart);
 app.component("ColumnLineChart", ColumnLineChart);
 app.component("BarChartWithGoal", BarChartWithGoal);
 app.component("IconPercentChart", IconPercentChart);
+app.component("TaoyuanChart", TaoyuanChart);
 
 app.mount("#app");
