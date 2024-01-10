@@ -5162,7 +5162,7 @@
 			"map_config": null,
 			"chart_config": {
 				"types": ["TaoyuanChart", "ColumnChart"],
-				"color": ["#FFCA9C"],
+				"color": ["#4DFFFF"],
 				"unit": "人"
 			},
 			"name": "桃園酒駕區域計數",

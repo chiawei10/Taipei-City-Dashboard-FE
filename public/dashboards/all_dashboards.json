@@ -1,74 +1,8 @@
 {
 	"data": [
 		{
-			"name": "YouBike研究",
-			"index": "youbike",
-			"components": ["60", "142", "143", "144", "145", "146", "147"],
-			"icon": "pedal_bike"
-		},
-		{
-			"name": "祝您好孕",
-			"index": "childcare",
-			"components": ["150", "151", "152", "153", "154", "155", "156"],
-			"icon": "child_friendly"
-		},
-		{
-			"name": "韌性城市",
-			"index": "urban-resiliance",
-			"components": ["160", "161", "162", "163", "164"],
-			"icon": "grass"
-		},
-		{
-			"name": "民情熱議",
-			"index": "public-opinion",
-			"components": ["5", "72"],
-			"icon": "mic"
-		},
-		{
-			"name": "社會安全",
-			"index": "security",
-			"components": ["8", "7", "83", "22", "107"],
-			"icon": "security"
-		},
-		{
-			"name": "交通運輸",
-			"index": "transport",
-			"components": [
-				"73",
-				"116",
-				"114",
-				"79",
-				"60",
-				"57",
-				"26",
-				"166",
-				"173",
-				"174"
-			],
-			"icon": "train"
-		},
-		{
-			"name": "城市建設",
-			"index": "construction",
-			"components": ["140", "34", "42", "108", "20", "28", "33"],
-			"icon": "construction"
-		},
-		{
-			"name": "生態環境",
-			"index": "environment",
-			"components": ["141", "110", "103", "104", "111", "43", "59"],
-			"icon": "forest"
-		},
-		{
-			"name": "社會福利",
-			"index": "welfare",
-			"components": ["90", "82", "29"],
-			"icon": "handshake"
-		},
-
-		{
-			"name": "酒駕地圖",
-			"index": "drink",
+			"name": "酒駕防範",
+			"index": "drunk",
 			"components": [
 				"166",
 				"170",
@@ -80,9 +14,7 @@
 				"169",
 				"175",
 				"176",
-				"177",
-				"260",
-				"270"
+				"177"
 			],
 			"icon": "handshake"
 		},
@@ -95,20 +27,7 @@
 		{
 			"name": "圖資資訊",
 			"index": "map-layers",
-			"components": [
-				"32",
-				"15",
-				"105",
-				"109",
-				"91",
-				"11",
-				"14",
-				"115",
-				"9",
-				"16",
-				"30",
-				"106"
-			],
+			"components": ["260", "270"],
 			"icon": "public"
 		}
 	]
