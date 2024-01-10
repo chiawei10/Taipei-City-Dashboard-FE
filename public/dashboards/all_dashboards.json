@@ -57,7 +57,7 @@
 		{
 			"name": "酒駕地圖",
 			"index": "drink",
-			"components": ["250", "260", "270"],
+			"components": ["170", "172", "260", "270"],
 			"icon": "handshake"
 		},
 		{

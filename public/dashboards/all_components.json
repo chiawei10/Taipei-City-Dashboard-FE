@@ -5132,80 +5132,6 @@
 				"tuic"
 			]
 		},
-		"250": {
-			"id": 250,
-			"index": "drink",
-			"map_config": [
-				{
-					"index": "road",
-					"paint": {
-						"circle-color": [
-							"match",
-							["get", "light1"],
-							"鈉光燈",
-							"#FF8C00",
-							"LED燈",
-							"#FFE677",
-							"#fff"
-						]
-					},
-					"property": [
-						{
-							"key": "dist",
-							"name": "行政區"
-						},
-						{
-							"key": "light1",
-							"name": "類型"
-						},
-						{
-							"key": "watt1",
-							"name": "瓦數"
-						},
-						{
-							"key": "light_count",
-							"name": "數量"
-						},
-						{
-							"key": "height",
-							"name": "高度"
-						},
-						{
-							"key": "enable_year",
-							"name": "啟動年份"
-						}
-					],
-					"type": "circle",
-					"size": "small",
-					"title": "路燈"
-				}
-			],
-			"map_filter": {
-				"mode": "byParam",
-				"byParam": {
-					"xParam": "dist"
-				}
-			},
-			"chart_config": {
-				"types": ["TaoyuanChart"],
-				"color": ["#FFE677"],
-				"unit": "盞"
-			},
-			"name": "桃園行政區域圖",
-			"source": "工務局公燈處",
-			"time_from": null,
-			"time_to": null,
-			"update_freq": null,
-			"update_freq_unit": null,
-			"short_desc": "顯示全市路燈的數量和點位",
-			"long_desc": "顯示全市路燈的數量和點位，資料來源為台北市工務局，不定期更新。",
-			"use_case": "顯示工務局路燈處掌握的公有路燈資訊，對於了解台北市路燈數量與點位情況提供了重要參考，但不包含私人設立的路燈或夜間照明。",
-			"links": [
-				"https://data.taipei/dataset/detail?id=262e80cf-579c-4bfb-ba73-31621bc84616"
-			],
-			"tags": [],
-			"contributors": ["tuic"]
-		},
 		"260": {
 			"id": 260,
 			"index": "drink",
@@ -5354,6 +5280,60 @@
 			"time_to": null,
 			"update_freq": null,
 			"update_freq_unit": null,
+			"contributors": ["tuic"]
+		},
+		"170": {
+			"id": 170,
+			"index": "drink",
+			"map_config": null,
+			"chart_config": {
+				"types": ["TaoyuanChart", "ColumnChart"],
+				"color": ["#FFCA9C"],
+				"unit": "人"
+			},
+			"name": "桃園酒駕區域計數",
+			"source": "交通部",
+			"time_from": "2022-01-01T00:00:00+08:00",
+			"time_to": "2022-12-31T00:00:00+08:00",
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示桃園市各區域的酒駕計數",
+			"long_desc": "顯示桃園市各區域的酒駕計數，資料來源為交通部資料，不定期更新。",
+			"use_case": "顯示桃園市各區域的酒駕計數資訊，對於了解各區域的酒駕狀況提供了重要參考，有助於提高交通安全意識並制定相應的交通管理策略。",
+			"links": ["https://stat.motc.gov.tw/mocdb/stmain.jsp?sys=100"],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"172": {
+			"id": 172,
+			"index": "periodic_distribution",
+			"map_config": null,
+			"history_data": null,
+			"chart_config": {
+				"color": [
+					"#5A5AAD",
+					"#D8D8EB",
+					"#E6E6F2",
+					"#C7C7E2",
+					"#7373B9",
+					"#8080C0",
+					"#8080D7"
+				],
+				"types": ["ColumnChart", "DonutChart"],
+				"unit": "件"
+			},
+
+			"name": "酒駕週期分布趨勢",
+			"source": "交通部",
+			"time_from": "2022-01-01T00:00:00+08:00",
+			"time_to": "2022-12-31T00:00:00+08:00",
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示酒駕案件在一星期內的分布趨勢",
+			"long_desc": "顯示酒駕案件在一星期內的分布趨勢，資料來源為交通部資料，不定期更新。",
+			"use_case": "根據酒駕案件的分佈情況，了解桃園市內酒駕事件的週期變化，為執法機關和政府制定更有效的交通管控策略提供參考。",
+			"links": ["https://stat.motc.gov.tw/mocdb/stmain.jsp?sys=100"],
+			"tags": [],
 			"contributors": ["tuic"]
 		}
 	}
