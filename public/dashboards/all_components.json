@@ -5830,50 +5830,7 @@
 			"id": 178,
 			"index": "Passenger statistics",
 			"history_data": false,
-			"map_config": [
-				{
-					"index": "",
-					"paint": {
-						"fill-color": [
-							"match",
-							["get", "壅塞程度"],
-							"壅塞",
-							"#EC4037",
-							"車多",
-							"#ff8c1a",
-							"順暢",
-							"#4dd97a",
-							"#ccc"
-						]
-					},
-					"property": [
-						{
-							"key": "snippet",
-							"name": "路段代號"
-						},
-						{
-							"key": "壅塞程度",
-							"name": "壅塞程度"
-						},
-						{
-							"key": "description",
-							"name": "描述"
-						},
-						{
-							"key": "update_at",
-							"name": "更新時間"
-						}
-					],
-					"type": "fill",
-					"title": "壅塞程度"
-				}
-			],
-			"map_filter": {
-				"mode": "byParam",
-				"byParam": {
-					"xParam": "壅塞程度"
-				}
-			},
+			"map_config": null,
 			"chart_config": {
 				"color": ["#2e999b", "#C7C7E2"],
 				"types": ["TimelineStackedChart"],
