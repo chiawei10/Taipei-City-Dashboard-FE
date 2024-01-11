@@ -1,0 +1,245 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [ 121.2835633,24.9329557 ]
+    },
+    "properties": {
+    "location":"鄉村平價快炒",
+    "district":"八德區",
+    "address":"桃園市八德區建國路105號",
+    "type":"小吃店",
+    "date":"2024/1/11",
+    "time":"12:53:38",
+    "people":1,
+    "street":"建國路",
+    "simplified_address":"桃園市八德區建國路",
+    "datetime":"2024-01-11 12:53:38+08:00",
+    "coordinates":"(24.9329557,121.2835633)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [ 121.2441624,24.9627042 ]
+    },
+    "properties": {
+    "location":"樂食煮義",
+    "district":"中壢區",
+    "address":"桃園市中壢區普忠路407號",
+    "type":"小吃店",
+    "date":"2024/1/11",
+    "time":"07:17:08",
+    "people":2,
+    "street":"普忠路",
+    "simplified_address":"桃園市中壢區普忠路",
+    "datetime":"2024-01-11 07:17:08+08:00",
+    "coordinates":"(24.9627042, 121.2441624)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [ 121.3042925,24.9620586 ]
+    },
+    "properties": {
+    "location":"佳賓熱炒",
+    "district":"八德區",
+    "address":"桃園市八德區東勇街232號",
+    "type":"小吃店",
+    "date":"2024/1/11",
+    "time":"17:10:51",
+    "people":5,
+    "street":"東勇街",
+    "simplified_address":"桃園市八德區東勇街",
+    "datetime":"2024-01-11 17:10:51+08:00",
+    "coordinates":"(24.9620586,121.3042925)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [ 121.3199492,24.9954013 ]
+    },
+    "properties": {
+    "location":"田季發爺燒肉 桃園成功店",
+    "district":"桃園區",
+    "address":"桃園市桃園區成功路二段1號",
+    "type":"小吃店",
+    "date":"2024/1/11",
+    "time":"00:14:01",
+    "people":5,
+    "street":"成功路二段",
+    "simplified_address":"桃園市桃園區成功路二段",
+    "datetime":"2024-01-11 00:14:01+08:00",
+    "coordinates":"(24.9954013, 121.31994920239907)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [ 121.2152436,24.8621404 ]
+    },
+    "properties": {
+    "location":"醬國無雙",
+    "district":"龍潭區",
+    "address":"桃園市龍潭區東龍路200巷1號",
+    "type":"小吃店",
+    "date":"2024/1/11",
+    "time":"15:08:21",
+    "people":5,
+    "street":"東龍路",
+    "simplified_address":"桃園市龍潭區東龍路",
+    "datetime":"2024-01-11 15:08:21+08:00",
+    "coordinates":"(24.8621404, 121.2152436)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [ 121.1088093,24.9698717 ]
+    },
+    "properties": {
+    "location":"金門炭烤",
+    "district":"新屋區",
+    "address":"桃園市新屋區中華路589號",
+    "type":"小吃店",
+    "date":"2024/1/11",
+    "time":"15:08:03",
+    "people":5,
+    "street":"中華路",
+    "simplified_address":"桃園市新屋區中華路",
+    "datetime":"2024-01-11 15:08:03+08:00",
+    "coordinates":"(24.9698717, 121.1088093)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [ 121.1674978,24.9074089 ]
+    },
+    "properties": {
+    "location":"一燒十味-昭和園",
+    "district":"楊梅區",
+    "address":"桃園市楊梅區三民路34號",
+    "type":"小吃店",
+    "date":"2024/1/11",
+    "time":"11:38:34",
+    "people":1,
+    "street":"三民路",
+    "simplified_address":"桃園市楊梅區三民路",
+    "datetime":"2024-01-11 11:38:34+08:00",
+    "coordinates":"(24.9074089,121.1674978)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [ 121.1674978,24.9074089 ]
+    },
+    "properties": {
+    "location":"一燒十味-昭和園",
+    "district":"楊梅區",
+    "address":"桃園市楊梅區三民路34號",
+    "type":"小吃店",
+    "date":"2024/1/11",
+    "time":"10:22:51",
+    "people":2,
+    "street":"三民路",
+    "simplified_address":"桃園市楊梅區三民路",
+    "datetime":"2024-01-11 10:22:51+08:00",
+    "coordinates":"(24.9074089,121.1674978)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [ 121.2986694,24.9575815 ]
+    },
+    "properties": {
+    "location":"熊麻吉快炒",
+    "district":"八德區",
+    "address":"桃園市八德區和平路82號",
+    "type":"小吃店",
+    "date":"2024/1/12",
+    "time":"03:57:21",
+    "people":4,
+    "street":"和平路",
+    "simplified_address":"桃園市八德區和平路",
+    "datetime":"2024-01-12 03:57:21+08:00",
+    "coordinates":"(24.9575815,121.2986694)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [ 121.2906354,24.99703795 ]
+    },
+    "properties": {
+    "location":"星星水產 桃園店",
+    "district":"桃園區",
+    "address":"桃園市桃園區文中路688號",
+    "type":"小吃店",
+    "date":"2024/1/12",
+    "time":"04:50:09",
+    "people":2,
+    "street":"文中路",
+    "simplified_address":"桃園市桃園區文中路",
+    "datetime":"2024-01-12 04:50:09+08:00",
+    "coordinates":"(24.99703795, 121.29063537813141)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [ 121.1088093,24.9698717 ]
+    },
+    "properties": {
+    "location":"金門炭烤",
+    "district":"新屋區",
+    "address":"桃園市新屋區中華路589號",
+    "type":"小吃店",
+    "date":"2024/1/12",
+    "time":"02:34:28",
+    "people":2,
+    "street":"中華路",
+    "simplified_address":"桃園市新屋區中華路",
+    "datetime":"2024-01-12 02:34:28+08:00",
+    "coordinates":"(24.9698717, 121.1088093)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [ 121.2947591,25.0466598 ]
+    },
+    "properties": {
+    "location":"醉豪吃海鮮熱炒",
+    "district":"蘆竹區",
+    "address":"桃園市蘆竹區南祥路10號",
+    "type":"小吃店",
+    "date":"2024/1/12",
+    "time":"00:26:09",
+    "people":3,
+    "street":"南祥路",
+    "simplified_address":"桃園市蘆竹區南祥路",
+    "datetime":"2024-01-12 00:26:09+08:00",
+    "coordinates":"(25.0466598, 121.2947591)"
+    }
+  }
+]
+}

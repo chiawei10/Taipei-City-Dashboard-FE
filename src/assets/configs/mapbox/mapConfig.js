@@ -280,6 +280,18 @@ export const maplayerCommonLayout = {
 			0.9,
 		],
 	},
+	"symbol-entertainment": {
+		"icon-image": "entertainment",
+	},
+	"symbol-hotel": {
+		"icon-image": "hotel",
+	},
+	"symbol-restaurant": {
+		"icon-image": "restaurant",
+	},
+	"symbol-foodcart": {
+		"icon-image": "foodcart",
+	},
 	"symbol-triangle_green": {
 		"icon-image": "triangle_green",
 	},

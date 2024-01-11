@@ -1,0 +1,225 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2625928,24.966643 ]
+    },
+    "properties": {
+    "location":"規矩‧餐酒館‧咖啡",
+    "district":"八德區",
+    "address":"桃園市八德區東泰街660巷142號",
+    "type":"餐廳",
+    "date":"2024/1/11",
+    "time":"18:35:25",
+    "people":2,
+    "street":"東泰街",
+    "simplified_address":"桃園市八德區東泰街",
+    "datetime":"2024-01-11 18:35:25+08:00",
+    "coordinates":"(24.966643,121.2625928)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0623255,24.982302 ]
+    },
+    "properties": {
+    "location":"尚品雅宴農莊",
+    "district":"新屋區",
+    "address":"桃園市新屋區中山西路二段915號",
+    "type":"餐廳",
+    "date":"2024/1/11",
+    "time":"19:23:09",
+    "people":2,
+    "street":"中山西路二段",
+    "simplified_address":"桃園市新屋區中山西路二段",
+    "datetime":"2024-01-11 19:23:09+08:00",
+    "coordinates":"(24.982302, 121.0623255)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0623255,24.982302 ]
+    },
+    "properties": {
+    "location":"尚品雅宴農莊",
+    "district":"新屋區",
+    "address":"桃園市新屋區中山西路二段915號",
+    "type":"餐廳",
+    "date":"2024/1/11",
+    "time":"19:43:36",
+    "people":3,
+    "street":"中山西路二段",
+    "simplified_address":"桃園市新屋區中山西路二段",
+    "datetime":"2024-01-11 19:43:36+08:00",
+    "coordinates":"(24.982302, 121.0623255)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1046329,25.0319032 ]
+    },
+    "properties": {
+    "location":"來來牛家莊",
+    "district":"觀音區",
+    "address":"桃園市觀音區成功路二段1538號",
+    "type":"餐廳",
+    "date":"2024/1/11",
+    "time":"21:38:18",
+    "people":4,
+    "street":"成功路二段",
+    "simplified_address":"桃園市觀音區成功路二段",
+    "datetime":"2024-01-11 21:38:18+08:00",
+    "coordinates":"(25.0319032, 121.1046329)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1046329,25.0319032 ]
+    },
+    "properties": {
+    "location":"來來牛家莊",
+    "district":"觀音區",
+    "address":"桃園市觀音區成功路二段1538號",
+    "type":"餐廳",
+    "date":"2024/1/11",
+    "time":"17:53:35",
+    "people":4,
+    "street":"成功路二段",
+    "simplified_address":"桃園市觀音區成功路二段",
+    "datetime":"2024-01-11 17:53:35+08:00",
+    "coordinates":"(25.0319032, 121.1046329)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0623255,24.982302 ]
+    },
+    "properties": {
+    "location":"尚品雅宴農莊",
+    "district":"新屋區",
+    "address":"桃園市新屋區中山西路二段915號",
+    "type":"餐廳",
+    "date":"2024/1/11",
+    "time":"23:35:55",
+    "people":3,
+    "street":"中山西路二段",
+    "simplified_address":"桃園市新屋區中山西路二段",
+    "datetime":"2024-01-11 23:35:55+08:00",
+    "coordinates":"(24.982302, 121.0623255)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2957154,25.0456666 ]
+    },
+    "properties": {
+    "location":"唐伯虎 餐酒館",
+    "district":"蘆竹區",
+    "address":"桃園市蘆竹區忠孝東路17-5號1樓",
+    "type":"餐廳",
+    "date":"2024/1/11",
+    "time":"23:42:14",
+    "people":3,
+    "street":"忠孝東路",
+    "simplified_address":"桃園市蘆竹區忠孝東路",
+    "datetime":"2024-01-11 23:42:14+08:00",
+    "coordinates":"(25.0456666, 121.2957154)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2106976,25.0012156 ]
+    },
+    "properties": {
+    "location":"正麥德國啤酒主題餐廳",
+    "district":"中壢區",
+    "address":"桃園市中壢區領航南路一段1號",
+    "type":"餐廳",
+    "date":"2024/1/12",
+    "time":"00:09:09",
+    "people":1,
+    "street":"領航南路一段",
+    "simplified_address":"桃園市中壢區領航南路一段",
+    "datetime":"2024-01-12 00:09:09+08:00",
+    "coordinates":"(25.0012156, 121.2106976)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2931737,24.9909997 ]
+    },
+    "properties": {
+    "location":"太夯泰料理-中山店",
+    "district":"桃園區",
+    "address":"桃園市桃園區中山路558號2F",
+    "type":"餐廳",
+    "date":"2024/1/12",
+    "time":"02:08:01",
+    "people":4,
+    "street":"中山路",
+    "simplified_address":"桃園市桃園區中山路",
+    "datetime":"2024-01-12 02:08:01+08:00",
+    "coordinates":"(24.9909997, 121.29317370000001)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3080174,24.9913871 ]
+    },
+    "properties": {
+    "location":"藝奇新日本料理桃園南華店",
+    "district":"桃園區",
+    "address":"桃園市桃園區南華街60號",
+    "type":"餐廳",
+    "date":"2024/1/12",
+    "time":"02:27:01",
+    "people":1,
+    "street":"南華街",
+    "simplified_address":"桃園市桃園區南華街",
+    "datetime":"2024-01-12 02:27:01+08:00",
+    "coordinates":"(24.9913871, 121.3080174)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.296624,25.0438891 ]
+    },
+    "properties": {
+    "location":"Old vibe bistro & bar 老舊氛圍餐酒館",
+    "district":"蘆竹區",
+    "address":"桃園市蘆竹區南華一街30號",
+    "type":"餐廳",
+    "date":"2024/1/12",
+    "time":"01:29:27",
+    "people":3,
+    "street":"南華一街",
+    "simplified_address":"桃園市蘆竹區南華一街",
+    "datetime":"2024-01-12 01:29:27+08:00",
+    "coordinates":"(25.0438891, 121.296624)"
+    }
+  }
+]
+}

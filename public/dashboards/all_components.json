@@ -5847,6 +5847,223 @@
 			"links": [""],
 			"tags": [],
 			"contributors": ["tuic"]
+		},
+		"290": {
+			"id": 290,
+			"index": "entertainment_street",
+			"map_config": [
+				{
+					"index": "p_entertainment_street",
+					"paint": {
+						"line-color": "#B5C9FF"
+					},
+					"property": [
+						{
+							"key": "name",
+							"name": "名稱"
+						}
+					],
+					"type": "line",
+					"title": "娛樂場所路段"
+				}
+			],
+			"map_filter": {
+				"mode": "byLayer"
+			},
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"color": "#B5C9FF",
+					"type": "fill",
+					"name": "娛樂場所路段"
+				}
+			],
+			"name": "娛樂場所路段",
+			"short_desc": "顯示全市防洪與雨水設備的面積和分佈位置。",
+			"long_desc": "顯示全市防洪與雨水設備的面積和分佈位置。「水資源與水利設施」是指管理、保護和有效利用水源的相關設備及基礎建設，包括水庫、水壩、灌溉系統等，為確保水源永續利用扮演關鍵角色。",
+			"use_case": "圖表顯示防洪與雨水設備分別為何，能夠幫助我們更加了解有哪些水資源與水利設施，並透過圖表了解分佈各項分佈位置。",
+			"tags": [],
+			"links": [
+				"https://data.taipei/dataset/detail?id=5b277432-f534-4d09-a24c-d3f6b514e042"
+			],
+			"source": "工務局",
+			"contributors": ["tuic"]
+		},
+		"300": {
+			"id": 300,
+			"index": "designated_driving",
+			"map_config": [
+				{
+					"index": "p_entertainment",
+					"property": [
+						{
+							"key": "location",
+							"name": "地點名稱"
+						},
+						{
+							"key": "district",
+							"name": "行政區"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						},
+						{
+							"key": "type",
+							"name": "地點類型"
+						},
+						{
+							"key": "datetime",
+							"name": "日期及時間"
+						},
+						{
+							"key": "people",
+							"name": "載客人數"
+						}
+					],
+					"type": "symbol",
+					"icon": "entertainment",
+					"title": "娛樂場所"
+				},
+				{
+					"index": "p_hotel",
+					"property": [
+						{
+							"key": "location",
+							"name": "地點名稱"
+						},
+						{
+							"key": "district",
+							"name": "行政區"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						},
+						{
+							"key": "type",
+							"name": "地點類型"
+						},
+						{
+							"key": "datetime",
+							"name": "日期及時間"
+						},
+						{
+							"key": "people",
+							"name": "載客人數"
+						}
+					],
+					"type": "symbol",
+					"icon": "hotel",
+					"title": "Hotel"
+				},
+				{
+					"index": "p_restaurant",
+					"property": [
+						{
+							"key": "location",
+							"name": "地點名稱"
+						},
+						{
+							"key": "district",
+							"name": "行政區"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						},
+						{
+							"key": "type",
+							"name": "地點類型"
+						},
+						{
+							"key": "datetime",
+							"name": "日期及時間"
+						},
+						{
+							"key": "people",
+							"name": "載客人數"
+						}
+					],
+					"type": "symbol",
+					"icon": "restaurant",
+					"title": "餐廳"
+				},
+				{
+					"index": "p_foodcart",
+					"property": [
+						{
+							"key": "location",
+							"name": "地點名稱"
+						},
+						{
+							"key": "district",
+							"name": "行政區"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						},
+						{
+							"key": "type",
+							"name": "地點類型"
+						},
+						{
+							"key": "datetime",
+							"name": "日期及時間"
+						},
+						{
+							"key": "people",
+							"name": "載客人數"
+						}
+					],
+					"type": "symbol",
+					"icon": "foodcart",
+					"title": "小吃店"
+				}
+			],
+			"name": "呼叫代駕地點",
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "symbol",
+					"color": null,
+					"name": "娛樂場所",
+					"value": null,
+					"icon": "entertainment"
+				},
+				{
+					"type": "symbol",
+					"color": null,
+					"name": "餐廳",
+					"value": null,
+					"icon": "restaurant"
+				},
+				{
+					"type": "symbol",
+					"color": null,
+					"name": "Hotel",
+					"value": null,
+					"icon": "hotel"
+				},
+				{
+					"type": "symbol",
+					"color": null,
+					"name": "小吃店",
+					"value": null,
+					"icon": "foodcart"
+				}
+			],
+			"source": "代駕公司",
+			"time_from": "2024-01-11T00:00:00+08:00",
+			"time_to": "2024-01-12T08:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "minute",
+			"contributors": ["tuic"]
 		}
 	}
 }

@@ -129,6 +129,10 @@ export const useMapStore = defineStore("map", {
 				"taxi",
 				"driver",
 				"police-station",
+				"entertainment",
+				"hotel",
+				"restaurant",
+				"foodcart",
 			];
 			images.forEach((element) => {
 				this.map.loadImage(
