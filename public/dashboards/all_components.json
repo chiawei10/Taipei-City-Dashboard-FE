@@ -5479,7 +5479,7 @@
 				"color": ["#4dd97a", "#0a85f4"],
 				"unit": "件"
 			},
-			"name": "交通事故及酒駕比較",
+			"name": "全台及桃園酒駕致死傷",
 			"source": "桃園市交通局",
 			"time_from": "2011-01-01T00:00:00+08:00",
 			"time_to": "2022-12-31T00:00:00+08:00",
@@ -5523,7 +5523,7 @@
 			"index": "flood_simulate",
 			"map_config": null,
 			"chart_config": {
-				"color": ["#CDF5FD", "#A0E9FF", "#00A9FF"],
+				"color": ["#CDF5FD", "#A0E9FF"],
 				"types": ["ColumnChart"],
 				"unit": "件",
 				"categories": [
@@ -5878,6 +5878,48 @@
 					],
 					"type": "line",
 					"title": "娛樂場所路段"
+				},
+				{
+					"index": "p_foodcart_street",
+					"paint": {
+						"line-color": "#7BB661"
+					},
+					"property": [
+						{
+							"key": "name",
+							"name": "名稱"
+						}
+					],
+					"type": "line",
+					"title": "小吃店路段"
+				},
+				{
+					"index": "p_restaurant_street",
+					"paint": {
+						"line-color": "#ADED64"
+					},
+					"property": [
+						{
+							"key": "name",
+							"name": "名稱"
+						}
+					],
+					"type": "line",
+					"title": "餐廳路段"
+				},
+				{
+					"index": "p_hotel_street",
+					"paint": {
+						"line-color": "#C5E1A5"
+					},
+					"property": [
+						{
+							"key": "name",
+							"name": "名稱"
+						}
+					],
+					"type": "line",
+					"title": "Hotel路段"
 				}
 			],
 			"map_filter": {
@@ -5890,10 +5932,26 @@
 				{
 					"color": "#B5C9FF",
 					"type": "fill",
-					"name": "娛樂場所路段"
+					"name": "娛樂場所建議酒測路段"
+				},
+				{
+					"color": "#7BB661",
+					"type": "fill",
+					"name": "小吃店建議酒測路段"
+				},
+				{
+					"color": "#ADED64",
+					"type": "fill",
+					"name": "餐廳建議酒測路段"
+				},
+				{
+					"color": "#C5E1A5",
+					"type": "fill",
+					"name": "Hotel建議酒測路段"
 				}
 			],
-			"name": "娛樂場所路段",
+
+			"name": "建議酒測路段",
 			"short_desc": "顯示全市防洪與雨水設備的面積和分佈位置。",
 			"long_desc": "顯示全市防洪與雨水設備的面積和分佈位置。「水資源與水利設施」是指管理、保護和有效利用水源的相關設備及基礎建設，包括水庫、水壩、灌溉系統等，為確保水源永續利用扮演關鍵角色。",
 			"use_case": "圖表顯示防洪與雨水設備分別為何，能夠幫助我們更加了解有哪些水資源與水利設施，並透過圖表了解分佈各項分佈位置。",
