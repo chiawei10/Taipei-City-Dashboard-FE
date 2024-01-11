@@ -12,316 +12,12 @@
     "time":"20:34:06",
     "week":"一",
     "district":"八德區",
-    "dead24":2,
+    "dead":2,
     "day_and_night":"夜晚",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.30273,25.007778 ]
-    },
-    "properties": {
-    "date":"2022/11/9",
-    "time":"12:14:00",
-    "week":"三",
-    "district":"桃園區",
-    "dead24":2,
-    "day_and_night":"白天",
-    "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.12067,24.942567 ]
-    },
-    "properties": {
-    "date":"2022/1/2",
-    "time":"18:30:00",
-    "week":"日",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.242182,24.892017 ]
-    },
-    "properties": {
-    "date":"2022/1/3",
-    "time":"15:28:00",
-    "week":"一",
-    "district":"平鎮區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.299793,25.042555 ]
-    },
-    "properties": {
-    "date":"2022/1/5",
-    "time":"08:10:00",
-    "week":"三",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.308659,25.018669 ]
-    },
-    "properties": {
-    "date":"2022/1/5",
-    "time":"16:32:00",
-    "week":"三",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.250965,24.862166 ]
-    },
-    "properties": {
-    "date":"2022/1/5",
-    "time":"19:16:00",
-    "week":"三",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.225152,24.934913 ]
-    },
-    "properties": {
-    "date":"2022/1/9",
-    "time":"13:39:00",
-    "week":"日",
-    "district":"平鎮區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.145862,24.913241 ]
-    },
-    "properties": {
-    "date":"2022/1/10",
-    "time":"04:43:00",
-    "week":"一",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.354685,25.037148 ]
-    },
-    "properties": {
-    "date":"2022/1/10",
-    "time":"16:04:00",
-    "week":"一",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"駕照被吊(註)銷"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.262437,24.957655 ]
-    },
-    "properties": {
-    "date":"2022/1/15",
-    "time":"15:58:00",
-    "week":"六",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"駕照被吊(註)銷"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.286085,24.982225 ]
-    },
-    "properties": {
-    "date":"2022/1/15",
-    "time":"19:18:00",
-    "week":"六",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"慢車",
-    "driving_license":"非汽(機)車駕駛人"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.221923,24.988848 ]
-    },
-    "properties": {
-    "date":"2022/1/17",
-    "time":"17:34:00",
-    "week":"一",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.177783,24.922864 ]
-    },
-    "properties": {
-    "date":"2022/1/20",
-    "time":"15:58:00",
-    "week":"四",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.31254,24.991684 ]
-    },
-    "properties": {
-    "date":"2022/1/21",
-    "time":"20:45:00",
-    "week":"五",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.277736,25.057675 ]
-    },
-    "properties": {
-    "date":"2022/1/26",
-    "time":"09:50:00",
-    "week":"三",
-    "district":"蘆竹區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"慢車",
-    "driving_license":"非汽(機)車駕駛人"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.124343,24.915126 ]
-    },
-    "properties": {
-    "date":"2022/1/29",
-    "time":"11:43:00",
-    "week":"六",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.164073,24.909299 ]
-    },
-    "properties": {
-    "date":"2022/1/31",
-    "time":"06:18:00",
-    "week":"一",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.348309,25.017473 ]
-    },
-    "properties": {
-    "date":"2022/1/31",
-    "time":"15:53:00",
-    "week":"一",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":16
     }
   },
   {
@@ -335,95 +31,12 @@
     "time":"19:13:00",
     "week":"六",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"夜晚",
     "drive":"機車",
-    "driving_license":"無照(未達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.228696,25.02706 ]
-    },
-    "properties": {
-    "date":"2022/2/6",
-    "time":"10:26:00",
-    "week":"日",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.212395,24.949509 ]
-    },
-    "properties": {
-    "date":"2022/2/10",
-    "time":"01:35:00",
-    "week":"四",
-    "district":"平鎮區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.177059,25.005687 ]
-    },
-    "properties": {
-    "date":"2022/2/16",
-    "time":"11:50:00",
-    "week":"三",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"駕照被吊(註)銷"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.199998,25.06462 ]
-    },
-    "properties": {
-    "date":"2022/2/17",
-    "time":"13:25:00",
-    "week":"四",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.2261,24.895662 ]
-    },
-    "properties": {
-    "date":"2022/2/18",
-    "time":"18:04:00",
-    "week":"五",
-    "district":"平鎮區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"無照(未達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -437,214 +50,12 @@
     "time":"16:23:13",
     "week":"一",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.284859,24.995321 ]
-    },
-    "properties": {
-    "date":"2022/2/22",
-    "time":"21:23:00",
-    "week":"二",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.216449,24.942222 ]
-    },
-    "properties": {
-    "date":"2022/2/24",
-    "time":"01:30:00",
-    "week":"四",
-    "district":"平鎮區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.212542,24.890519 ]
-    },
-    "properties": {
-    "date":"2022/2/25",
-    "time":"00:45:00",
-    "week":"五",
-    "district":"龍潭區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.310532,24.999997 ]
-    },
-    "properties": {
-    "date":"2022/3/2",
-    "time":"09:49:00",
-    "week":"三",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.36601,25.058068 ]
-    },
-    "properties": {
-    "date":"2022/3/2",
-    "time":"13:50:00",
-    "week":"三",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.207885,24.96157 ]
-    },
-    "properties": {
-    "date":"2022/3/6",
-    "time":"02:14:00",
-    "week":"日",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.10803,24.98887 ]
-    },
-    "properties": {
-    "date":"2022/3/7",
-    "time":"05:04:00",
-    "week":"一",
-    "district":"觀音區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.10455,24.902898 ]
-    },
-    "properties": {
-    "date":"2022/3/10",
-    "time":"07:35:00",
-    "week":"四",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.21337,24.974868 ]
-    },
-    "properties": {
-    "date":"2022/3/15",
-    "time":"12:37:00",
-    "week":"二",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.229192,24.909303 ]
-    },
-    "properties": {
-    "date":"2022/3/23",
-    "time":"09:27:00",
-    "week":"三",
-    "district":"平鎮區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.227684,25.012016 ]
-    },
-    "properties": {
-    "date":"2022/3/23",
-    "time":"11:36:00",
-    "week":"三",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.206133,24.830477 ]
-    },
-    "properties": {
-    "date":"2022/3/26",
-    "time":"22:29:40",
-    "week":"六",
-    "district":"龍潭區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -658,316 +69,12 @@
     "time":"18:27:00",
     "week":"二",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"夜晚",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.310085,25.055441 ]
-    },
-    "properties": {
-    "date":"2022/4/2",
-    "time":"11:42:00",
-    "week":"六",
-    "district":"蘆竹區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.303024,25.013442 ]
-    },
-    "properties": {
-    "date":"2022/4/2",
-    "time":"18:11:00",
-    "week":"六",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.209409,24.928406 ]
-    },
-    "properties": {
-    "date":"2022/4/3",
-    "time":"01:15:00",
-    "week":"日",
-    "district":"平鎮區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.271942,24.919473 ]
-    },
-    "properties": {
-    "date":"2022/4/4",
-    "time":"06:29:27",
-    "week":"一",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.197781,24.887171 ]
-    },
-    "properties": {
-    "date":"2022/4/7",
-    "time":"22:25:00",
-    "week":"四",
-    "district":"龍潭區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"越級駕駛"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.17031,25.018556 ]
-    },
-    "properties": {
-    "date":"2022/4/8",
-    "time":"08:54:00",
-    "week":"五",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.382562,25.047032 ]
-    },
-    "properties": {
-    "date":"2022/4/12",
-    "time":"13:22:00",
-    "week":"二",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"大貨車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.242241,25.107848 ]
-    },
-    "properties": {
-    "date":"2022/4/13",
-    "time":"10:33:33",
-    "week":"三",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.26524,25.032086 ]
-    },
-    "properties": {
-    "date":"2022/4/15",
-    "time":"21:43:00",
-    "week":"五",
-    "district":"蘆竹區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"無照(未達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.291229,24.917861 ]
-    },
-    "properties": {
-    "date":"2022/4/23",
-    "time":"19:16:00",
-    "week":"六",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.054174,25.029176 ]
-    },
-    "properties": {
-    "date":"2022/4/26",
-    "time":"06:34:10",
-    "week":"二",
-    "district":"觀音區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"大貨車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.209178,25.074136 ]
-    },
-    "properties": {
-    "date":"2022/4/26",
-    "time":"08:51:00",
-    "week":"二",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.12336,25.000805 ]
-    },
-    "properties": {
-    "date":"2022/4/28",
-    "time":"05:03:00",
-    "week":"四",
-    "district":"觀音區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.216269,24.938353 ]
-    },
-    "properties": {
-    "date":"2022/5/5",
-    "time":"05:36:57",
-    "week":"四",
-    "district":"平鎮區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.272291,25.057342 ]
-    },
-    "properties": {
-    "date":"2022/5/6",
-    "time":"08:19:00",
-    "week":"五",
-    "district":"蘆竹區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.349322,24.849807 ]
-    },
-    "properties": {
-    "date":"2022/5/6",
-    "time":"14:58:57",
-    "week":"五",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.272559,25.031681 ]
-    },
-    "properties": {
-    "date":"2022/5/11",
-    "time":"07:43:16",
-    "week":"三",
-    "district":"蘆竹區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"大貨車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.178853,24.907988 ]
-    },
-    "properties": {
-    "date":"2022/5/11",
-    "time":"14:10:00",
-    "week":"三",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"慢車",
-    "driving_license":"非汽(機)車駕駛人"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -981,350 +88,12 @@
     "time":"20:39:00",
     "week":"六",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"夜晚",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.211171,24.961538 ]
-    },
-    "properties": {
-    "date":"2022/5/22",
-    "time":"08:18:00",
-    "week":"日",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.225825,24.964942 ]
-    },
-    "properties": {
-    "date":"2022/5/24",
-    "time":"06:14:00",
-    "week":"二",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.332156,24.989229 ]
-    },
-    "properties": {
-    "date":"2022/5/27",
-    "time":"19:18:00",
-    "week":"五",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.353354,24.82244 ]
-    },
-    "properties": {
-    "date":"2022/6/1",
-    "time":"00:53:00",
-    "week":"三",
-    "district":"復興區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.197656,24.97444 ]
-    },
-    "properties": {
-    "date":"2022/6/2",
-    "time":"14:39:00",
-    "week":"四",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"大貨車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.100168,25.031867 ]
-    },
-    "properties": {
-    "date":"2022/6/2",
-    "time":"20:57:00",
-    "week":"四",
-    "district":"觀音區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.173788,25.023345 ]
-    },
-    "properties": {
-    "date":"2022/6/6",
-    "time":"17:12:00",
-    "week":"一",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.354243,25.046737 ]
-    },
-    "properties": {
-    "date":"2022/6/9",
-    "time":"17:16:00",
-    "week":"四",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.145294,24.962687 ]
-    },
-    "properties": {
-    "date":"2022/6/10",
-    "time":"18:11:00",
-    "week":"五",
-    "district":"新屋區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.410412,25.021179 ]
-    },
-    "properties": {
-    "date":"2022/6/15",
-    "time":"09:46:00",
-    "week":"三",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.072866,24.978968 ]
-    },
-    "properties": {
-    "date":"2022/6/16",
-    "time":"07:46:00",
-    "week":"四",
-    "district":"新屋區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.298912,25.007696 ]
-    },
-    "properties": {
-    "date":"2022/6/17",
-    "time":"10:55:00",
-    "week":"五",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.213281,24.822223 ]
-    },
-    "properties": {
-    "date":"2022/6/19",
-    "time":"10:44:00",
-    "week":"日",
-    "district":"龍潭區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.336288,24.829395 ]
-    },
-    "properties": {
-    "date":"2022/6/23",
-    "time":"11:03:30",
-    "week":"四",
-    "district":"復興區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.322239,25.004857 ]
-    },
-    "properties": {
-    "date":"2022/6/24",
-    "time":"05:30:00",
-    "week":"五",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.263032,24.893009 ]
-    },
-    "properties": {
-    "date":"2022/6/28",
-    "time":"00:13:00",
-    "week":"二",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.323986,24.992442 ]
-    },
-    "properties": {
-    "date":"2022/6/28",
-    "time":"08:55:00",
-    "week":"二",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"其他車",
-    "driving_license":"不明"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.177059,25.005687 ]
-    },
-    "properties": {
-    "date":"2022/6/30",
-    "time":"10:22:32",
-    "week":"四",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.259156,25.078913 ]
-    },
-    "properties": {
-    "date":"2022/6/30",
-    "time":"18:07:00",
-    "week":"四",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.197433,24.957212 ]
-    },
-    "properties": {
-    "date":"2022/7/1",
-    "time":"12:22:27",
-    "week":"五",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -1338,129 +107,12 @@
     "time":"08:47:00",
     "week":"六",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.169578,24.935018 ]
-    },
-    "properties": {
-    "date":"2022/7/11",
-    "time":"05:40:00",
-    "week":"一",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.290528,25.005633 ]
-    },
-    "properties": {
-    "date":"2022/7/20",
-    "time":"09:26:00",
-    "week":"三",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.263041,24.876332 ]
-    },
-    "properties": {
-    "date":"2022/7/25",
-    "time":"10:12:00",
-    "week":"一",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.224216,25.050388 ]
-    },
-    "properties": {
-    "date":"2022/7/28",
-    "time":"18:45:00",
-    "week":"四",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.191237,25.000677 ]
-    },
-    "properties": {
-    "date":"2022/7/29",
-    "time":"20:08:31",
-    "week":"五",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"無照(未達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.192834,24.829709 ]
-    },
-    "properties": {
-    "date":"2022/8/4",
-    "time":"19:43:00",
-    "week":"四",
-    "district":"龍潭區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.178158,24.917846 ]
-    },
-    "properties": {
-    "date":"2022/8/8",
-    "time":"08:53:23",
-    "week":"一",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"其他車",
-    "driving_license":"無照(已達考照年齡)"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -1474,197 +126,12 @@
     "time":"17:08:00",
     "week":"三",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.138605,24.984347 ]
-    },
-    "properties": {
-    "date":"2022/8/10",
-    "time":"23:23:00",
-    "week":"三",
-    "district":"觀音區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.211288,24.896168 ]
-    },
-    "properties": {
-    "date":"2022/8/11",
-    "time":"11:13:00",
-    "week":"四",
-    "district":"平鎮區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.173989,24.874215 ]
-    },
-    "properties": {
-    "date":"2022/8/11",
-    "time":"22:10:00",
-    "week":"四",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"無照(未達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.119208,24.991291 ]
-    },
-    "properties": {
-    "date":"2022/8/12",
-    "time":"08:01:00",
-    "week":"五",
-    "district":"新屋區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.212057,25.059169 ]
-    },
-    "properties": {
-    "date":"2022/8/17",
-    "time":"08:20:00",
-    "week":"三",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.376304,25.054967 ]
-    },
-    "properties": {
-    "date":"2022/8/19",
-    "time":"22:02:00",
-    "week":"五",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.154658,24.95433 ]
-    },
-    "properties": {
-    "date":"2022/8/25",
-    "time":"15:48:31",
-    "week":"四",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"大貨車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.246827,25.107435 ]
-    },
-    "properties": {
-    "date":"2022/9/6",
-    "time":"12:04:16",
-    "week":"二",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.29113,24.917879 ]
-    },
-    "properties": {
-    "date":"2022/9/8",
-    "time":"06:47:00",
-    "week":"四",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"曳引車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.282824,24.895214 ]
-    },
-    "properties": {
-    "date":"2022/9/8",
-    "time":"11:18:00",
-    "week":"四",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.179071,25.082923 ]
-    },
-    "properties": {
-    "date":"2022/9/8",
-    "time":"12:43:00",
-    "week":"四",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"曳引車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -1678,61 +145,12 @@
     "time":"15:52:00",
     "week":"六",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.280005,24.911309 ]
-    },
-    "properties": {
-    "date":"2022/9/10",
-    "time":"21:49:00",
-    "week":"六",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.354023,25.008453 ]
-    },
-    "properties": {
-    "date":"2022/9/12",
-    "time":"12:52:00",
-    "week":"一",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.198354,24.84582 ]
-    },
-    "properties": {
-    "date":"2022/9/14",
-    "time":"06:40:00",
-    "week":"三",
-    "district":"龍潭區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -1746,44 +164,12 @@
     "time":"19:53:24",
     "week":"四",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"夜晚",
     "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.297467,24.98078 ]
-    },
-    "properties": {
-    "date":"2022/9/16",
-    "time":"14:20:00",
-    "week":"五",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.254898,24.92999 ]
-    },
-    "properties": {
-    "date":"2022/9/17",
-    "time":"07:59:00",
-    "week":"六",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -1797,146 +183,12 @@
     "time":"07:01:00",
     "week":"四",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.314758,24.974088 ]
-    },
-    "properties": {
-    "date":"2022/9/22",
-    "time":"09:27:00",
-    "week":"四",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.218821,24.955058 ]
-    },
-    "properties": {
-    "date":"2022/9/22",
-    "time":"09:55:00",
-    "week":"四",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.330195,24.832084 ]
-    },
-    "properties": {
-    "date":"2022/9/22",
-    "time":"18:21:00",
-    "week":"四",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.211727,24.907677 ]
-    },
-    "properties": {
-    "date":"2022/9/23",
-    "time":"13:20:53",
-    "week":"五",
-    "district":"平鎮區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.311024,25.009147 ]
-    },
-    "properties": {
-    "date":"2022/9/23",
-    "time":"13:42:03",
-    "week":"五",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.280183,24.885637 ]
-    },
-    "properties": {
-    "date":"2022/9/25",
-    "time":"18:14:00",
-    "week":"日",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.363438,25.040718 ]
-    },
-    "properties": {
-    "date":"2022/9/26",
-    "time":"10:14:00",
-    "week":"一",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"全聯結車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.051528,25.027469 ]
-    },
-    "properties": {
-    "date":"2022/9/29",
-    "time":"02:22:00",
-    "week":"四",
-    "district":"觀音區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -1950,78 +202,12 @@
     "time":"10:39:00",
     "week":"四",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.365408,25.055846 ]
-    },
-    "properties": {
-    "date":"2022/10/1",
-    "time":"17:22:13",
-    "week":"六",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.242367,25.067052 ]
-    },
-    "properties": {
-    "date":"2022/10/2",
-    "time":"03:46:22",
-    "week":"日",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.059998,24.966407 ]
-    },
-    "properties": {
-    "date":"2022/10/2",
-    "time":"08:49:00",
-    "week":"日",
-    "district":"新屋區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.111761,24.993124 ]
-    },
-    "properties": {
-    "date":"2022/10/5",
-    "time":"18:25:00",
-    "week":"三",
-    "district":"觀音區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -2035,78 +221,12 @@
     "time":"23:17:00",
     "week":"三",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"夜晚",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.106538,24.996328 ]
-    },
-    "properties": {
-    "date":"2022/10/12",
-    "time":"18:58:00",
-    "week":"三",
-    "district":"觀音區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.212627,25.003248 ]
-    },
-    "properties": {
-    "date":"2022/10/14",
-    "time":"23:06:00",
-    "week":"五",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.303862,25.020312 ]
-    },
-    "properties": {
-    "date":"2022/10/19",
-    "time":"22:53:17",
-    "week":"三",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.193038,24.830574 ]
-    },
-    "properties": {
-    "date":"2022/10/22",
-    "time":"10:39:35",
-    "week":"六",
-    "district":"龍潭區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"慢車",
-    "driving_license":"非汽(機)車駕駛人"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -2120,163 +240,12 @@
     "time":"08:55:00",
     "week":"一",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.133334,24.919071 ]
-    },
-    "properties": {
-    "date":"2022/11/3",
-    "time":"17:58:00",
-    "week":"四",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"越級駕駛"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.21052,25.014954 ]
-    },
-    "properties": {
-    "date":"2022/11/4",
-    "time":"09:49:59",
-    "week":"五",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"大貨車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.292168,25.047347 ]
-    },
-    "properties": {
-    "date":"2022/11/6",
-    "time":"22:25:00",
-    "week":"日",
-    "district":"蘆竹區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.368106,25.026771 ]
-    },
-    "properties": {
-    "date":"2022/11/7",
-    "time":"14:20:00",
-    "week":"一",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"大貨車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.368293,25.024911 ]
-    },
-    "properties": {
-    "date":"2022/11/8",
-    "time":"08:31:00",
-    "week":"二",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.122823,24.987643 ]
-    },
-    "properties": {
-    "date":"2022/11/8",
-    "time":"11:55:00",
-    "week":"二",
-    "district":"新屋區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"曳引車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.222808,25.007389 ]
-    },
-    "properties": {
-    "date":"2022/11/8",
-    "time":"19:02:00",
-    "week":"二",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.314999,24.991059 ]
-    },
-    "properties": {
-    "date":"2022/11/12",
-    "time":"01:55:00",
-    "week":"六",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.359678,25.012977 ]
-    },
-    "properties": {
-    "date":"2022/11/12",
-    "time":"13:44:00",
-    "week":"六",
-    "district":"龜山區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"越級駕駛"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -2290,265 +259,12 @@
     "time":"05:11:00",
     "week":"一",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"夜晚",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.299305,25.083215 ]
-    },
-    "properties": {
-    "date":"2022/11/15",
-    "time":"08:42:00",
-    "week":"二",
-    "district":"蘆竹區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.245591,24.98137 ]
-    },
-    "properties": {
-    "date":"2022/11/16",
-    "time":"06:05:00",
-    "week":"三",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.214849,24.940209 ]
-    },
-    "properties": {
-    "date":"2022/11/22",
-    "time":"02:31:23",
-    "week":"二",
-    "district":"平鎮區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"小客車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.190328,24.942254 ]
-    },
-    "properties": {
-    "date":"2022/11/26",
-    "time":"15:36:24",
-    "week":"六",
-    "district":"平鎮區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.070477,25.019928 ]
-    },
-    "properties": {
-    "date":"2022/11/27",
-    "time":"15:52:00",
-    "week":"日",
-    "district":"觀音區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"大貨車",
-    "driving_license":"駕照被吊(註)銷"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.148285,24.907339 ]
-    },
-    "properties": {
-    "date":"2022/12/2",
-    "time":"05:50:50",
-    "week":"五",
-    "district":"楊梅區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.249739,24.989114 ]
-    },
-    "properties": {
-    "date":"2022/12/2",
-    "time":"17:45:48",
-    "week":"五",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"大客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.221424,24.952966 ]
-    },
-    "properties": {
-    "date":"2022/12/6",
-    "time":"15:43:44",
-    "week":"二",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"大客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.126186,25.002979 ]
-    },
-    "properties": {
-    "date":"2022/12/8",
-    "time":"19:11:00",
-    "week":"四",
-    "district":"觀音區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.320819,24.998682 ]
-    },
-    "properties": {
-    "date":"2022/12/9",
-    "time":"04:47:00",
-    "week":"五",
-    "district":"桃園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.212626,25.103638 ]
-    },
-    "properties": {
-    "date":"2022/12/10",
-    "time":"06:10:58",
-    "week":"六",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"夜晚",
-    "drive":"大貨車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.267359,24.991246 ]
-    },
-    "properties": {
-    "date":"2022/12/10",
-    "time":"13:57:47",
-    "week":"六",
-    "district":"蘆竹區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.259111,24.973282 ]
-    },
-    "properties": {
-    "date":"2022/12/11",
-    "time":"06:19:41",
-    "week":"日",
-    "district":"中壢區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.233191,25.093947 ]
-    },
-    "properties": {
-    "date":"2022/12/11",
-    "time":"10:56:31",
-    "week":"日",
-    "district":"大園區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.278407,24.892132 ]
-    },
-    "properties": {
-    "date":"2022/12/15",
-    "time":"08:54:57",
-    "week":"四",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -2562,78 +278,259 @@
     "time":"18:36:00",
     "week":"四",
     "district":"八德區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"夜晚",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 121.378362,25.052678 ]
+       "coordinates":  [ 121.228696,25.02706 ]
     },
     "properties": {
-    "date":"2022/12/20",
-    "time":"02:37:00",
+    "date":"2022/2/6",
+    "time":"10:26:00",
+    "week":"日",
+    "district":"大園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.199998,25.06462 ]
+    },
+    "properties": {
+    "date":"2022/2/17",
+    "time":"13:25:00",
+    "week":"四",
+    "district":"大園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.227684,25.012016 ]
+    },
+    "properties": {
+    "date":"2022/3/23",
+    "time":"11:36:00",
+    "week":"三",
+    "district":"大園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.242241,25.107848 ]
+    },
+    "properties": {
+    "date":"2022/4/13",
+    "time":"10:33:33",
+    "week":"三",
+    "district":"大園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.209178,25.074136 ]
+    },
+    "properties": {
+    "date":"2022/4/26",
+    "time":"08:51:00",
     "week":"二",
-    "district":"龜山區",
-    "dead24":1,
+    "district":"大園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.259156,25.078913 ]
+    },
+    "properties": {
+    "date":"2022/6/30",
+    "time":"18:07:00",
+    "week":"四",
+    "district":"大園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.224216,25.050388 ]
+    },
+    "properties": {
+    "date":"2022/7/28",
+    "time":"18:45:00",
+    "week":"四",
+    "district":"大園區",
+    "dead":1,
     "day_and_night":"夜晚",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 121.26323,24.824915 ]
+       "coordinates":  [ 121.212057,25.059169 ]
     },
     "properties": {
-    "date":"2022/12/22",
-    "time":"15:18:00",
+    "date":"2022/8/17",
+    "time":"08:20:00",
+    "week":"三",
+    "district":"大園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.246827,25.107435 ]
+    },
+    "properties": {
+    "date":"2022/9/6",
+    "time":"12:04:16",
+    "week":"二",
+    "district":"大園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.179071,25.082923 ]
+    },
+    "properties": {
+    "date":"2022/9/8",
+    "time":"12:43:00",
     "week":"四",
-    "district":"大溪區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小客車",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.260708,25.023022 ]
-    },
-    "properties": {
-    "date":"2022/12/23",
-    "time":"13:10:00",
-    "week":"五",
-    "district":"蘆竹區",
-    "dead24":1,
-    "day_and_night":"白天",
-    "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 121.249749,24.988996 ]
-    },
-    "properties": {
-    "date":"2022/12/24",
-    "time":"12:40:06",
-    "week":"六",
-    "district":"中壢區",
-    "dead24":1,
+    "district":"大園區",
+    "dead":1,
     "day_and_night":"白天",
     "drive":"曳引車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.242367,25.067052 ]
+    },
+    "properties": {
+    "date":"2022/10/2",
+    "time":"03:46:22",
+    "week":"日",
+    "district":"大園區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.212626,25.103638 ]
+    },
+    "properties": {
+    "date":"2022/12/10",
+    "time":"06:10:58",
+    "week":"六",
+    "district":"大園區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"大貨車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.233191,25.093947 ]
+    },
+    "properties": {
+    "date":"2022/12/11",
+    "time":"10:56:31",
+    "week":"日",
+    "district":"大園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -2647,10 +544,696 @@
     "time":"10:45:31",
     "week":"二",
     "district":"大園區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.250965,24.862166 ]
+    },
+    "properties": {
+    "date":"2022/1/5",
+    "time":"19:16:00",
+    "week":"三",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":" ",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.271942,24.919473 ]
+    },
+    "properties": {
+    "date":"2022/4/4",
+    "time":"06:29:27",
+    "week":"一",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.291229,24.917861 ]
+    },
+    "properties": {
+    "date":"2022/4/23",
+    "time":"19:16:00",
+    "week":"六",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.349322,24.849807 ]
+    },
+    "properties": {
+    "date":"2022/5/6",
+    "time":"14:58:57",
+    "week":"五",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.263032,24.893009 ]
+    },
+    "properties": {
+    "date":"2022/6/28",
+    "time":"00:13:00",
+    "week":"二",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.263041,24.876332 ]
+    },
+    "properties": {
+    "date":"2022/7/25",
+    "time":"10:12:00",
+    "week":"一",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小貨車(含客、貨兩用)",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29113,24.917879 ]
+    },
+    "properties": {
+    "date":"2022/9/8",
+    "time":"06:47:00",
+    "week":"四",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"曳引車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.282824,24.895214 ]
+    },
+    "properties": {
+    "date":"2022/9/8",
+    "time":"11:18:00",
+    "week":"四",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.280005,24.911309 ]
+    },
+    "properties": {
+    "date":"2022/9/10",
+    "time":"21:49:00",
+    "week":"六",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.330195,24.832084 ]
+    },
+    "properties": {
+    "date":"2022/9/22",
+    "time":"18:21:00",
+    "week":"四",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":" ",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.280183,24.885637 ]
+    },
+    "properties": {
+    "date":"2022/9/25",
+    "time":"18:14:00",
+    "week":"日",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":" ",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.278407,24.892132 ]
+    },
+    "properties": {
+    "date":"2022/12/15",
+    "time":"08:54:57",
+    "week":"四",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.26323,24.824915 ]
+    },
+    "properties": {
+    "date":"2022/12/22",
+    "time":"15:18:00",
+    "week":"四",
+    "district":"大溪區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.262437,24.957655 ]
+    },
+    "properties": {
+    "date":"2022/1/15",
+    "time":"15:58:00",
+    "week":"六",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"駕照被吊(註)銷",
+    "FIELD11":"",
+    "FIELD12":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.221923,24.988848 ]
+    },
+    "properties": {
+    "date":"2022/1/17",
+    "time":"17:34:00",
+    "week":"一",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.177059,25.005687 ]
+    },
+    "properties": {
+    "date":"2022/2/16",
+    "time":"11:50:00",
+    "week":"三",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"駕照被吊(註)銷",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.207885,24.96157 ]
+    },
+    "properties": {
+    "date":"2022/3/6",
+    "time":"02:14:00",
+    "week":"日",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21337,24.974868 ]
+    },
+    "properties": {
+    "date":"2022/3/15",
+    "time":"12:37:00",
+    "week":"二",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.17031,25.018556 ]
+    },
+    "properties": {
+    "date":"2022/4/8",
+    "time":"08:54:00",
+    "week":"五",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小貨車(含客、貨兩用)",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.211171,24.961538 ]
+    },
+    "properties": {
+    "date":"2022/5/22",
+    "time":"08:18:00",
+    "week":"日",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小貨車(含客、貨兩用)",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.225825,24.964942 ]
+    },
+    "properties": {
+    "date":"2022/5/24",
+    "time":"06:14:00",
+    "week":"二",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.197656,24.97444 ]
+    },
+    "properties": {
+    "date":"2022/6/2",
+    "time":"14:39:00",
+    "week":"四",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"大貨車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.173788,25.023345 ]
+    },
+    "properties": {
+    "date":"2022/6/6",
+    "time":"17:12:00",
+    "week":"一",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.177059,25.005687 ]
+    },
+    "properties": {
+    "date":"2022/6/30",
+    "time":"10:22:32",
+    "week":"四",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.197433,24.957212 ]
+    },
+    "properties": {
+    "date":"2022/7/1",
+    "time":"12:22:27",
+    "week":"五",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.191237,25.000677 ]
+    },
+    "properties": {
+    "date":"2022/7/29",
+    "time":"20:08:31",
+    "week":"五",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"無照(未達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.254898,24.92999 ]
+    },
+    "properties": {
+    "date":"2022/9/17",
+    "time":"07:59:00",
+    "week":"六",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.218821,24.955058 ]
+    },
+    "properties": {
+    "date":"2022/9/22",
+    "time":"09:55:00",
+    "week":"四",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小貨車(含客、貨兩用)",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.212627,25.003248 ]
+    },
+    "properties": {
+    "date":"2022/10/14",
+    "time":"23:06:00",
+    "week":"五",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21052,25.014954 ]
+    },
+    "properties": {
+    "date":"2022/11/4",
+    "time":"09:49:59",
+    "week":"五",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"大貨車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.222808,25.007389 ]
+    },
+    "properties": {
+    "date":"2022/11/8",
+    "time":"19:02:00",
+    "week":"二",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.245591,24.98137 ]
+    },
+    "properties": {
+    "date":"2022/11/16",
+    "time":"06:05:00",
+    "week":"三",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.249739,24.989114 ]
+    },
+    "properties": {
+    "date":"2022/12/2",
+    "time":"17:45:48",
+    "week":"五",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"大客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.221424,24.952966 ]
+    },
+    "properties": {
+    "date":"2022/12/6",
+    "time":"15:43:44",
+    "week":"二",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"大客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.259111,24.973282 ]
+    },
+    "properties": {
+    "date":"2022/12/11",
+    "time":"06:19:41",
+    "week":"日",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.249749,24.988996 ]
+    },
+    "properties": {
+    "date":"2022/12/24",
+    "time":"12:40:06",
+    "week":"六",
+    "district":"中壢區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"曳引車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
     }
   },
   {
@@ -2664,10 +1247,1741 @@
     "time":"16:19:48",
     "week":"二",
     "district":"中壢區",
-    "dead24":1,
+    "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.242182,24.892017 ]
+    },
+    "properties": {
+    "date":"2022/1/3",
+    "time":"15:28:00",
+    "week":"一",
+    "district":"平鎮區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.225152,24.934913 ]
+    },
+    "properties": {
+    "date":"2022/1/9",
+    "time":"13:39:00",
+    "week":"日",
+    "district":"平鎮區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.212395,24.949509 ]
+    },
+    "properties": {
+    "date":"2022/2/10",
+    "time":"01:35:00",
+    "week":"四",
+    "district":"平鎮區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2261,24.895662 ]
+    },
+    "properties": {
+    "date":"2022/2/18",
+    "time":"18:04:00",
+    "week":"五",
+    "district":"平鎮區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.216449,24.942222 ]
+    },
+    "properties": {
+    "date":"2022/2/24",
+    "time":"01:30:00",
+    "week":"四",
+    "district":"平鎮區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.229192,24.909303 ]
+    },
+    "properties": {
+    "date":"2022/3/23",
+    "time":"09:27:00",
+    "week":"三",
+    "district":"平鎮區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.209409,24.928406 ]
+    },
+    "properties": {
+    "date":"2022/4/3",
+    "time":"01:15:00",
+    "week":"日",
+    "district":"平鎮區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.216269,24.938353 ]
+    },
+    "properties": {
+    "date":"2022/5/5",
+    "time":"05:36:57",
+    "week":"四",
+    "district":"平鎮區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.211288,24.896168 ]
+    },
+    "properties": {
+    "date":"2022/8/11",
+    "time":"11:13:00",
+    "week":"四",
+    "district":"平鎮區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.211727,24.907677 ]
+    },
+    "properties": {
+    "date":"2022/9/23",
+    "time":"13:20:53",
+    "week":"五",
+    "district":"平鎮區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小貨車(含客、貨兩用)",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.214849,24.940209 ]
+    },
+    "properties": {
+    "date":"2022/11/22",
+    "time":"02:31:23",
+    "week":"二",
+    "district":"平鎮區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.190328,24.942254 ]
+    },
+    "properties": {
+    "date":"2022/11/26",
+    "time":"15:36:24",
+    "week":"六",
+    "district":"平鎮區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小貨車(含客、貨兩用)",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30273,25.007778 ]
+    },
+    "properties": {
+    "date":"2022/11/9",
+    "time":"12:14:00",
+    "week":"三",
+    "district":"桃園區",
+    "dead":2,
+    "day_and_night":"白天",
+    "drive":"小貨車(含客、貨兩用)",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.308659,25.018669 ]
+    },
+    "properties": {
+    "date":"2022/1/5",
+    "time":"16:32:00",
+    "week":"三",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.286085,24.982225 ]
+    },
+    "properties": {
+    "date":"2022/1/15",
+    "time":"19:18:00",
+    "week":"六",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"慢車",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31254,24.991684 ]
+    },
+    "properties": {
+    "date":"2022/1/21",
+    "time":"20:45:00",
+    "week":"五",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":" ",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.284859,24.995321 ]
+    },
+    "properties": {
+    "date":"2022/2/22",
+    "time":"21:23:00",
+    "week":"二",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.310532,24.999997 ]
+    },
+    "properties": {
+    "date":"2022/3/2",
+    "time":"09:49:00",
+    "week":"三",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.303024,25.013442 ]
+    },
+    "properties": {
+    "date":"2022/4/2",
+    "time":"18:11:00",
+    "week":"六",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.298912,25.007696 ]
+    },
+    "properties": {
+    "date":"2022/6/17",
+    "time":"10:55:00",
+    "week":"五",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.322239,25.004857 ]
+    },
+    "properties": {
+    "date":"2022/6/24",
+    "time":"05:30:00",
+    "week":"五",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.323986,24.992442 ]
+    },
+    "properties": {
+    "date":"2022/6/28",
+    "time":"08:55:00",
+    "week":"二",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"其他車",
+    "driving_license":"不明",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.290528,25.005633 ]
+    },
+    "properties": {
+    "date":"2022/7/20",
+    "time":"09:26:00",
+    "week":"三",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.297467,24.98078 ]
+    },
+    "properties": {
+    "date":"2022/9/16",
+    "time":"14:20:00",
+    "week":"五",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.314758,24.974088 ]
+    },
+    "properties": {
+    "date":"2022/9/22",
+    "time":"09:27:00",
+    "week":"四",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.311024,25.009147 ]
+    },
+    "properties": {
+    "date":"2022/9/23",
+    "time":"13:42:03",
+    "week":"五",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.303862,25.020312 ]
+    },
+    "properties": {
+    "date":"2022/10/19",
+    "time":"22:53:17",
+    "week":"三",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.314999,24.991059 ]
+    },
+    "properties": {
+    "date":"2022/11/12",
+    "time":"01:55:00",
+    "week":"六",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":" ",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.320819,24.998682 ]
+    },
+    "properties": {
+    "date":"2022/12/9",
+    "time":"04:47:00",
+    "week":"五",
+    "district":"桃園區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.353354,24.82244 ]
+    },
+    "properties": {
+    "date":"2022/6/1",
+    "time":"00:53:00",
+    "week":"三",
+    "district":"復興區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.336288,24.829395 ]
+    },
+    "properties": {
+    "date":"2022/6/23",
+    "time":"11:03:30",
+    "week":"四",
+    "district":"復興區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.145294,24.962687 ]
+    },
+    "properties": {
+    "date":"2022/6/10",
+    "time":"18:11:00",
+    "week":"五",
+    "district":"新屋區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.072866,24.978968 ]
+    },
+    "properties": {
+    "date":"2022/6/16",
+    "time":"07:46:00",
+    "week":"四",
+    "district":"新屋區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.119208,24.991291 ]
+    },
+    "properties": {
+    "date":"2022/8/12",
+    "time":"08:01:00",
+    "week":"五",
+    "district":"新屋區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.059998,24.966407 ]
+    },
+    "properties": {
+    "date":"2022/10/2",
+    "time":"08:49:00",
+    "week":"日",
+    "district":"新屋區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.122823,24.987643 ]
+    },
+    "properties": {
+    "date":"2022/11/8",
+    "time":"11:55:00",
+    "week":"二",
+    "district":"新屋區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"曳引車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.12067,24.942567 ]
+    },
+    "properties": {
+    "date":"2022/1/2",
+    "time":"18:30:00",
+    "week":"日",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.145862,24.913241 ]
+    },
+    "properties": {
+    "date":"2022/1/10",
+    "time":"04:43:00",
+    "week":"一",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.177783,24.922864 ]
+    },
+    "properties": {
+    "date":"2022/1/20",
+    "time":"15:58:00",
+    "week":"四",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.124343,24.915126 ]
+    },
+    "properties": {
+    "date":"2022/1/29",
+    "time":"11:43:00",
+    "week":"六",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.164073,24.909299 ]
+    },
+    "properties": {
+    "date":"2022/1/31",
+    "time":"06:18:00",
+    "week":"一",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.10455,24.902898 ]
+    },
+    "properties": {
+    "date":"2022/3/10",
+    "time":"07:35:00",
+    "week":"四",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.178853,24.907988 ]
+    },
+    "properties": {
+    "date":"2022/5/11",
+    "time":"14:10:00",
+    "week":"三",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"慢車",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.169578,24.935018 ]
+    },
+    "properties": {
+    "date":"2022/7/11",
+    "time":"05:40:00",
+    "week":"一",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.178158,24.917846 ]
+    },
+    "properties": {
+    "date":"2022/8/8",
+    "time":"08:53:23",
+    "week":"一",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"其他車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.173989,24.874215 ]
+    },
+    "properties": {
+    "date":"2022/8/11",
+    "time":"22:10:00",
+    "week":"四",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"無照(未達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.154658,24.95433 ]
+    },
+    "properties": {
+    "date":"2022/8/25",
+    "time":"15:48:31",
+    "week":"四",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"大貨車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.133334,24.919071 ]
+    },
+    "properties": {
+    "date":"2022/11/3",
+    "time":"17:58:00",
+    "week":"四",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"越級駕駛",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.148285,24.907339 ]
+    },
+    "properties": {
+    "date":"2022/12/2",
+    "time":"05:50:50",
+    "week":"五",
+    "district":"楊梅區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":" ",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.212542,24.890519 ]
+    },
+    "properties": {
+    "date":"2022/2/25",
+    "time":"00:45:00",
+    "week":"五",
+    "district":"龍潭區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.206133,24.830477 ]
+    },
+    "properties": {
+    "date":"2022/3/26",
+    "time":"22:29:40",
+    "week":"六",
+    "district":"龍潭區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.197781,24.887171 ]
+    },
+    "properties": {
+    "date":"2022/4/7",
+    "time":"22:25:00",
+    "week":"四",
+    "district":"龍潭區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"越級駕駛",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.213281,24.822223 ]
+    },
+    "properties": {
+    "date":"2022/6/19",
+    "time":"10:44:00",
+    "week":"日",
+    "district":"龍潭區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.192834,24.829709 ]
+    },
+    "properties": {
+    "date":"2022/8/4",
+    "time":"19:43:00",
+    "week":"四",
+    "district":"龍潭區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.198354,24.84582 ]
+    },
+    "properties": {
+    "date":"2022/9/14",
+    "time":"06:40:00",
+    "week":"三",
+    "district":"龍潭區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.193038,24.830574 ]
+    },
+    "properties": {
+    "date":"2022/10/22",
+    "time":"10:39:35",
+    "week":"六",
+    "district":"龍潭區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"慢車",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.299793,25.042555 ]
+    },
+    "properties": {
+    "date":"2022/1/5",
+    "time":"08:10:00",
+    "week":"三",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.354685,25.037148 ]
+    },
+    "properties": {
+    "date":"2022/1/10",
+    "time":"16:04:00",
+    "week":"一",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"駕照被吊(註)銷",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.348309,25.017473 ]
+    },
+    "properties": {
+    "date":"2022/1/31",
+    "time":"15:53:00",
+    "week":"一",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.36601,25.058068 ]
+    },
+    "properties": {
+    "date":"2022/3/2",
+    "time":"13:50:00",
+    "week":"三",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.382562,25.047032 ]
+    },
+    "properties": {
+    "date":"2022/4/12",
+    "time":"13:22:00",
+    "week":"二",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"大貨車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.332156,24.989229 ]
+    },
+    "properties": {
+    "date":"2022/5/27",
+    "time":"19:18:00",
+    "week":"五",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":" ",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.354243,25.046737 ]
+    },
+    "properties": {
+    "date":"2022/6/9",
+    "time":"17:16:00",
+    "week":"四",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.410412,25.021179 ]
+    },
+    "properties": {
+    "date":"2022/6/15",
+    "time":"09:46:00",
+    "week":"三",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小貨車(含客、貨兩用)",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.376304,25.054967 ]
+    },
+    "properties": {
+    "date":"2022/8/19",
+    "time":"22:02:00",
+    "week":"五",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":" ",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.354023,25.008453 ]
+    },
+    "properties": {
+    "date":"2022/9/12",
+    "time":"12:52:00",
+    "week":"一",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.363438,25.040718 ]
+    },
+    "properties": {
+    "date":"2022/9/26",
+    "time":"10:14:00",
+    "week":"一",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"全聯結車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.365408,25.055846 ]
+    },
+    "properties": {
+    "date":"2022/10/1",
+    "time":"17:22:13",
+    "week":"六",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.368106,25.026771 ]
+    },
+    "properties": {
+    "date":"2022/11/7",
+    "time":"14:20:00",
+    "week":"一",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"大貨車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.368293,25.024911 ]
+    },
+    "properties": {
+    "date":"2022/11/8",
+    "time":"08:31:00",
+    "week":"二",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.359678,25.012977 ]
+    },
+    "properties": {
+    "date":"2022/11/12",
+    "time":"13:44:00",
+    "week":"六",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"越級駕駛",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.378362,25.052678 ]
+    },
+    "properties": {
+    "date":"2022/12/20",
+    "time":"02:37:00",
+    "week":"二",
+    "district":"龜山區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.277736,25.057675 ]
+    },
+    "properties": {
+    "date":"2022/1/26",
+    "time":"09:50:00",
+    "week":"三",
+    "district":"蘆竹區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"慢車",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.310085,25.055441 ]
+    },
+    "properties": {
+    "date":"2022/4/2",
+    "time":"11:42:00",
+    "week":"六",
+    "district":"蘆竹區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小貨車(含客、貨兩用)",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.26524,25.032086 ]
+    },
+    "properties": {
+    "date":"2022/4/15",
+    "time":"21:43:00",
+    "week":"五",
+    "district":"蘆竹區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"無照(未達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.272291,25.057342 ]
+    },
+    "properties": {
+    "date":"2022/5/6",
+    "time":"08:19:00",
+    "week":"五",
+    "district":"蘆竹區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.272559,25.031681 ]
+    },
+    "properties": {
+    "date":"2022/5/11",
+    "time":"07:43:16",
+    "week":"三",
+    "district":"蘆竹區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"大貨車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.292168,25.047347 ]
+    },
+    "properties": {
+    "date":"2022/11/6",
+    "time":"22:25:00",
+    "week":"日",
+    "district":"蘆竹區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":" ",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.299305,25.083215 ]
+    },
+    "properties": {
+    "date":"2022/11/15",
+    "time":"08:42:00",
+    "week":"二",
+    "district":"蘆竹區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.267359,24.991246 ]
+    },
+    "properties": {
+    "date":"2022/12/10",
+    "time":"13:57:47",
+    "week":"六",
+    "district":"蘆竹區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小貨車(含客、貨兩用)",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.260708,25.023022 ]
+    },
+    "properties": {
+    "date":"2022/12/23",
+    "time":"13:10:00",
+    "week":"五",
+    "district":"蘆竹區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"小貨車(含客、貨兩用)",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.10803,24.98887 ]
+    },
+    "properties": {
+    "date":"2022/3/7",
+    "time":"05:04:00",
+    "week":"一",
+    "district":"觀音區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":" ",
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "FIELD12":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.054174,25.029176 ]
+    },
+    "properties": {
+    "date":"2022/4/26",
+    "time":"06:34:10",
+    "week":"二",
+    "district":"觀音區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"大貨車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.12336,25.000805 ]
+    },
+    "properties": {
+    "date":"2022/4/28",
+    "time":"05:03:00",
+    "week":"四",
+    "district":"觀音區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.100168,25.031867 ]
+    },
+    "properties": {
+    "date":"2022/6/2",
+    "time":"20:57:00",
+    "week":"四",
+    "district":"觀音區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"小客車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.138605,24.984347 ]
+    },
+    "properties": {
+    "date":"2022/8/10",
+    "time":"23:23:00",
+    "week":"三",
+    "district":"觀音區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.051528,25.027469 ]
+    },
+    "properties": {
+    "date":"2022/9/29",
+    "time":"02:22:00",
+    "week":"四",
+    "district":"觀音區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.111761,24.993124 ]
+    },
+    "properties": {
+    "date":"2022/10/5",
+    "time":"18:25:00",
+    "week":"三",
+    "district":"觀音區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.106538,24.996328 ]
+    },
+    "properties": {
+    "date":"2022/10/12",
+    "time":"18:58:00",
+    "week":"三",
+    "district":"觀音區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"機車",
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.070477,25.019928 ]
+    },
+    "properties": {
+    "date":"2022/11/27",
+    "time":"15:52:00",
+    "week":"日",
+    "district":"觀音區",
+    "dead":1,
+    "day_and_night":"白天",
+    "drive":"大貨車",
+    "driving_license":"駕照被吊(註)銷",
+    "FIELD11":"",
+    "FIELD12":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.126186,25.002979 ]
+    },
+    "properties": {
+    "date":"2022/12/8",
+    "time":"19:11:00",
+    "week":"四",
+    "district":"觀音區",
+    "dead":1,
+    "day_and_night":"夜晚",
+    "drive":"機車",
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "FIELD12":null
     }
   }
 ]

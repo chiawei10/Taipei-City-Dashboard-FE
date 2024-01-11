@@ -64,7 +64,7 @@
 			"map_filter": {
 				"mode": "byParam",
 				"byParam": {
-					"xParam": "district"
+					"yParam": "drunk_driving"
 				}
 			},
 			"chart_config": {
@@ -118,7 +118,7 @@
 							"name": "區域"
 						},
 						{
-							"key": "dead24",
+							"key": "dead",
 							"name": "24小時內死亡人數"
 						},
 						{
@@ -154,7 +154,7 @@
 							"name": "區域"
 						},
 						{
-							"key": "dead30",
+							"key": "dead",
 							"name": "30小時內死亡人數"
 						},
 						{
@@ -190,7 +190,7 @@
 							"name": "區域"
 						},
 						{
-							"key": "hurt",
+							"key": "dead",
 							"name": "受傷人數"
 						},
 						{
@@ -209,10 +209,7 @@
 				}
 			],
 			"map_filter": {
-				"mode": "byParam",
-				"byParam": {
-					"xParam": "district"
-				}
+				"mode": "byLayer"
 			},
 			"chart_config": {
 				"color": ["#bfb5af", "#184e77", "#e56b6f"],
