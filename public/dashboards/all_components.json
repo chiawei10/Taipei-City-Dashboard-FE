@@ -142,7 +142,7 @@
 				{
 					"index": "dead30",
 					"paint": {
-						"circle-color": "#184e77"
+						"circle-color": "#f24c00"
 					},
 					"property": [
 						{
@@ -182,7 +182,7 @@
 				{
 					"index": "hurt",
 					"paint": {
-						"circle-color": "#bfb5af"
+						"circle-color": "#8b8c89"
 					},
 					"property": [
 						{
@@ -223,12 +223,12 @@
 			"map_filter": {
 				"mode": "byParam",
 				"byParam": {
-					"yParam": "how"
+					"xParam": "district"
 				}
 			},
 
 			"chart_config": {
-				"color": ["#bfb5af", "#184e77", "#e56b6f"],
+				"color": ["#8b8c89", "#f24c00", "#e56b6f"],
 				"types": ["ColumnChart", "BarPercentChart"],
 				"unit": "",
 				"categories": [
