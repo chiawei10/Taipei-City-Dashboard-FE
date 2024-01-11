@@ -5254,7 +5254,7 @@
 		},
 		"260": {
 			"id": 260,
-			"index": "drink",
+			"index": "police_facility",
 			"map_config": [
 				{
 					"index": "Taoyuan_police_station",
@@ -5314,13 +5314,12 @@
 				{
 					"type": "symbol",
 					"icon": "police-station",
-					"size": "small",
 					"name": "派出所"
 				},
 				{
 					"type": "line",
 					"color": "#009688",
-					"name": "派出所轄區"
+					"name": "警局轄區"
 				}
 			],
 			"name": "派出所地點",
