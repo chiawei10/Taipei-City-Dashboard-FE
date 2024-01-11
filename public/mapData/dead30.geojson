@@ -15,7 +15,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -32,7 +34,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -49,7 +53,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -66,7 +72,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -83,7 +91,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -100,7 +110,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -117,7 +129,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -134,7 +148,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -151,7 +167,9 @@
     "dead":2,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -168,7 +186,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -185,7 +205,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -202,7 +224,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":" ",
-    "driving_license":" "
+    "driving_license":" ",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -219,7 +243,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -236,7 +262,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -253,7 +281,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -270,7 +300,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -287,7 +319,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"曳引車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -304,7 +338,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -321,7 +357,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -338,7 +376,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -355,7 +395,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -372,7 +414,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -389,7 +433,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -406,7 +452,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -423,7 +471,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -440,7 +490,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -457,7 +509,9 @@
     "dead":2,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -474,7 +528,9 @@
     "dead":2,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -491,7 +547,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -508,7 +566,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"慢車",
-    "driving_license":"非汽(機)車駕駛人"
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -525,7 +585,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -542,7 +604,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -559,7 +623,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -576,7 +642,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -593,7 +661,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -610,7 +680,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"無照(未達考照年齡)"
+    "driving_license":"無照(未達考照年齡)",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -627,7 +699,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -644,7 +718,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -661,7 +737,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -678,7 +756,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -695,7 +775,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"駕照被吊(註)銷"
+    "driving_license":"駕照被吊(註)銷",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -712,7 +794,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -729,7 +813,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -746,7 +832,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -763,7 +851,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -780,7 +870,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -797,7 +889,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -814,7 +908,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -831,7 +927,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -848,7 +946,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"越級駕駛"
+    "driving_license":"越級駕駛",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -865,7 +965,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -882,7 +984,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -899,7 +1003,9 @@
     "dead":2,
     "day_and_night":"夜晚",
     "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -916,7 +1022,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"慢車",
-    "driving_license":"非汽(機)車駕駛人"
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -933,7 +1041,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":" ",
-    "driving_license":"非汽(機)車駕駛人"
+    "driving_license":"非汽(機)車駕駛人",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -950,7 +1060,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -967,7 +1079,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -984,7 +1098,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小貨車(含客、貨兩用)",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -1001,7 +1117,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -1018,7 +1136,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"無照(已達考照年齡)"
+    "driving_license":"無照(已達考照年齡)",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -1035,7 +1155,9 @@
     "dead":1,
     "day_and_night":"夜晚",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -1052,7 +1174,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -1069,7 +1193,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"小客車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   },
   {
@@ -1086,7 +1212,9 @@
     "dead":1,
     "day_and_night":"白天",
     "drive":"機車",
-    "driving_license":"有適當之駕照"
+    "driving_license":"有適當之駕照",
+    "FIELD11":"",
+    "how":"三十"
     }
   }
 ]

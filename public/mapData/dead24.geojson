@@ -17,7 +17,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":16
+    "how":"二四"
     }
   },
   {
@@ -36,7 +36,7 @@
     "drive":"機車",
     "driving_license":"無照(未達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -55,7 +55,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -74,7 +74,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -93,7 +93,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -112,7 +112,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -131,7 +131,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -150,7 +150,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -169,7 +169,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -188,7 +188,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -207,7 +207,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -226,7 +226,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -245,7 +245,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -264,7 +264,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -283,7 +283,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -302,7 +302,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":14
+    "how":"二四"
     }
   },
   {
@@ -321,7 +321,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -340,7 +340,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -359,7 +359,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -378,7 +378,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -397,7 +397,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -416,7 +416,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -435,7 +435,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -454,7 +454,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -473,7 +473,7 @@
     "drive":"曳引車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -492,7 +492,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -511,7 +511,7 @@
     "drive":"大貨車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -530,7 +530,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -549,7 +549,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -568,7 +568,7 @@
     "drive":" ",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":13
+    "how":"二四"
     }
   },
   {
@@ -587,7 +587,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -606,7 +606,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -625,7 +625,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -644,7 +644,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -663,7 +663,7 @@
     "drive":"小貨車(含客、貨兩用)",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -682,7 +682,7 @@
     "drive":"曳引車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -701,7 +701,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -720,7 +720,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -739,7 +739,7 @@
     "drive":" ",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -758,7 +758,7 @@
     "drive":" ",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -777,7 +777,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -796,7 +796,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -815,7 +815,7 @@
     "drive":"機車",
     "driving_license":"駕照被吊(註)銷",
     "FIELD11":"",
-    "FIELD12":24
+    "how":"二四"
     }
   },
   {
@@ -834,7 +834,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -853,7 +853,7 @@
     "drive":"小客車",
     "driving_license":"駕照被吊(註)銷",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -872,7 +872,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -891,7 +891,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -910,7 +910,7 @@
     "drive":"小貨車(含客、貨兩用)",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -929,7 +929,7 @@
     "drive":"小貨車(含客、貨兩用)",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -948,7 +948,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -967,7 +967,7 @@
     "drive":"大貨車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -986,7 +986,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1005,7 +1005,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1024,7 +1024,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1043,7 +1043,7 @@
     "drive":"機車",
     "driving_license":"無照(未達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1062,7 +1062,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1081,7 +1081,7 @@
     "drive":"小貨車(含客、貨兩用)",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1100,7 +1100,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1119,7 +1119,7 @@
     "drive":"大貨車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1138,7 +1138,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1176,7 +1176,7 @@
     "drive":"大客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1195,7 +1195,7 @@
     "drive":"大客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1214,7 +1214,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1233,7 +1233,7 @@
     "drive":"曳引車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1252,7 +1252,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1271,7 +1271,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":12
+    "how":"二四"
     }
   },
   {
@@ -1290,7 +1290,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1309,7 +1309,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1328,7 +1328,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1347,7 +1347,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1366,7 +1366,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1385,7 +1385,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1404,7 +1404,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1423,7 +1423,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1442,7 +1442,7 @@
     "drive":"小貨車(含客、貨兩用)",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1461,7 +1461,7 @@
     "drive":"小客車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1480,7 +1480,7 @@
     "drive":"小貨車(含客、貨兩用)",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1499,7 +1499,7 @@
     "drive":"小貨車(含客、貨兩用)",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":18
+    "how":"二四"
     }
   },
   {
@@ -1518,7 +1518,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1537,7 +1537,7 @@
     "drive":"慢車",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1556,7 +1556,7 @@
     "drive":" ",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1575,7 +1575,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1594,7 +1594,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1613,7 +1613,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1632,7 +1632,7 @@
     "drive":"小客車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1651,7 +1651,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1670,7 +1670,7 @@
     "drive":"其他車",
     "driving_license":"不明",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1689,7 +1689,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1708,7 +1708,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1727,7 +1727,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1746,7 +1746,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1765,7 +1765,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1784,7 +1784,7 @@
     "drive":" ",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1803,7 +1803,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1822,7 +1822,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":2
+    "how":"二四"
     }
   },
   {
@@ -1841,7 +1841,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1860,7 +1860,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":5
+    "how":"二四"
     }
   },
   {
@@ -1879,7 +1879,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1898,7 +1898,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1917,7 +1917,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1936,7 +1936,7 @@
     "drive":"曳引車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1955,7 +1955,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":13
+    "how":"二四"
     }
   },
   {
@@ -1974,7 +1974,7 @@
     "drive":"小客車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -1993,7 +1993,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2012,7 +2012,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2031,7 +2031,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2050,7 +2050,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2069,7 +2069,7 @@
     "drive":"慢車",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2088,7 +2088,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2107,7 +2107,7 @@
     "drive":"其他車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2126,7 +2126,7 @@
     "drive":"機車",
     "driving_license":"無照(未達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2145,7 +2145,7 @@
     "drive":"大貨車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2164,7 +2164,7 @@
     "drive":"機車",
     "driving_license":"越級駕駛",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2183,7 +2183,7 @@
     "drive":" ",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2202,7 +2202,7 @@
     "drive":"小客車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":6
+    "how":"二四"
     }
   },
   {
@@ -2221,7 +2221,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2240,7 +2240,7 @@
     "drive":"機車",
     "driving_license":"越級駕駛",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2259,7 +2259,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2278,7 +2278,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2297,7 +2297,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2316,7 +2316,7 @@
     "drive":"慢車",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2335,7 +2335,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":16
+    "how":"二四"
     }
   },
   {
@@ -2354,7 +2354,7 @@
     "drive":"機車",
     "driving_license":"駕照被吊(註)銷",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2373,7 +2373,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2392,7 +2392,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2411,7 +2411,7 @@
     "drive":"大貨車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2430,7 +2430,7 @@
     "drive":" ",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2449,7 +2449,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2468,7 +2468,7 @@
     "drive":"小貨車(含客、貨兩用)",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2487,7 +2487,7 @@
     "drive":" ",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2506,7 +2506,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2525,7 +2525,7 @@
     "drive":"全聯結車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2544,7 +2544,7 @@
     "drive":"小客車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2563,7 +2563,7 @@
     "drive":"大貨車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2582,7 +2582,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2601,7 +2601,7 @@
     "drive":"機車",
     "driving_license":"越級駕駛",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2620,7 +2620,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2639,7 +2639,7 @@
     "drive":"慢車",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":9
+    "how":"二四"
     }
   },
   {
@@ -2658,7 +2658,7 @@
     "drive":"小貨車(含客、貨兩用)",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2677,7 +2677,7 @@
     "drive":"機車",
     "driving_license":"無照(未達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2696,7 +2696,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2715,7 +2715,7 @@
     "drive":"大貨車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2734,7 +2734,7 @@
     "drive":" ",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2753,7 +2753,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2772,7 +2772,7 @@
     "drive":"小貨車(含客、貨兩用)",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2791,7 +2791,7 @@
     "drive":"小貨車(含客、貨兩用)",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2810,7 +2810,7 @@
     "drive":" ",
     "driving_license":"非汽(機)車駕駛人",
     "FIELD11":"",
-    "FIELD12":10
+    "how":"二四"
     }
   },
   {
@@ -2829,7 +2829,7 @@
     "drive":"大貨車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2848,7 +2848,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2867,7 +2867,7 @@
     "drive":"小客車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2886,7 +2886,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2905,7 +2905,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2924,7 +2924,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2943,7 +2943,7 @@
     "drive":"機車",
     "driving_license":"有適當之駕照",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2962,7 +2962,7 @@
     "drive":"大貨車",
     "driving_license":"駕照被吊(註)銷",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   },
   {
@@ -2981,7 +2981,7 @@
     "drive":"機車",
     "driving_license":"無照(已達考照年齡)",
     "FIELD11":"",
-    "FIELD12":null
+    "how":"二四"
     }
   }
 ]

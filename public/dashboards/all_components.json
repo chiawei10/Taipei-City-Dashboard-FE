@@ -128,6 +128,10 @@
 						{
 							"key": "driving_license",
 							"name": "駕照"
+						},
+						{
+							"key": "how",
+							"name": "事故"
 						}
 					],
 					"title": "交通事故",
@@ -164,6 +168,10 @@
 						{
 							"key": "driving_license",
 							"name": "駕照"
+						},
+						{
+							"key": "how",
+							"name": "事故"
 						}
 					],
 					"title": "交通事故",
@@ -200,6 +208,10 @@
 						{
 							"key": "driving_license",
 							"name": "駕照"
+						},
+						{
+							"key": "how",
+							"name": "事故"
 						}
 					],
 					"title": "交通事故",
@@ -209,8 +221,12 @@
 				}
 			],
 			"map_filter": {
-				"mode": "byLayer"
+				"mode": "byParam",
+				"byParam": {
+					"yParam": "how"
+				}
 			},
+
 			"chart_config": {
 				"color": ["#bfb5af", "#184e77", "#e56b6f"],
 				"types": ["ColumnChart", "BarPercentChart"],
