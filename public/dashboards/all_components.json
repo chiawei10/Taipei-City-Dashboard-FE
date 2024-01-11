@@ -5702,7 +5702,7 @@
 							"name": "區域"
 						},
 						{
-							"key": "dead24",
+							"key": "dead",
 							"name": "24小時內死亡人數"
 						},
 						{
@@ -5712,6 +5712,10 @@
 						{
 							"key": "driving_license",
 							"name": "駕照"
+						},
+						{
+							"key": "how",
+							"name": "事故"
 						}
 					],
 					"title": "交通事故",
@@ -5722,7 +5726,7 @@
 				{
 					"index": "dead30",
 					"paint": {
-						"circle-color": "#184e77"
+						"circle-color": "#f24c00"
 					},
 					"property": [
 						{
@@ -5738,7 +5742,7 @@
 							"name": "區域"
 						},
 						{
-							"key": "dead30",
+							"key": "dead",
 							"name": "30小時內死亡人數"
 						},
 						{
@@ -5748,6 +5752,10 @@
 						{
 							"key": "driving_license",
 							"name": "駕照"
+						},
+						{
+							"key": "how",
+							"name": "事故"
 						}
 					],
 					"title": "交通事故",
@@ -5758,7 +5766,7 @@
 				{
 					"index": "hurt",
 					"paint": {
-						"circle-color": "#bfb5af"
+						"circle-color": "#8b8c89"
 					},
 					"property": [
 						{
@@ -5774,7 +5782,7 @@
 							"name": "區域"
 						},
 						{
-							"key": "hurt",
+							"key": "dead",
 							"name": "受傷人數"
 						},
 						{
@@ -5784,6 +5792,10 @@
 						{
 							"key": "driving_license",
 							"name": "駕照"
+						},
+						{
+							"key": "how",
+							"name": "事故"
 						}
 					],
 					"title": "交通事故",
@@ -5798,8 +5810,9 @@
 					"xParam": "district"
 				}
 			},
+
 			"chart_config": {
-				"color": ["#bfb5af", "#184e77", "#e56b6f"],
+				"color": ["#8b8c89", "#f24c00", "#e56b6f"],
 				"types": ["ColumnChart", "BarPercentChart"],
 				"unit": "",
 				"categories": [
