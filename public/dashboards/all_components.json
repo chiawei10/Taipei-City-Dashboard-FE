@@ -5407,7 +5407,7 @@
 			"map_config": null,
 			"chart_config": {
 				"color": ["#9c7a3e", "#b7e28e", "#7febd0", "#8ce8ff"],
-				"types": ["BarPercentChart", "ColumnChart"],
+				"types": ["ColumnChart", "BarPercentChart"],
 				"unit": "人數",
 				"categories": [
 					"中壢區",
