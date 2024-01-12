@@ -6095,7 +6095,7 @@
 					"title": "小吃店"
 				}
 			],
-			"name": "呼叫代駕地點",
+			"name": "代駕地點",
 			"chart_config": {
 				"types": ["MapLegend"]
 			},
