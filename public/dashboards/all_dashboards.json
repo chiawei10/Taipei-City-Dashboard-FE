@@ -37,7 +37,7 @@
 		{
 			"name": "圖資資訊",
 			"index": "map-layers",
-			"components": ["260", "270", "290", "300"],
+			"components": ["260", "270", "290", "300", "351"],
 			"icon": "public"
 		}
 	]

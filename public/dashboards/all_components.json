@@ -5619,7 +5619,7 @@
 				{
 					"index": "drunk",
 					"paint": {
-						"circle-color": "#FF8000"
+						"circle-color": "#EA0000"
 					},
 					"property": [
 						{
@@ -5652,7 +5652,7 @@
 				}
 			},
 			"chart_config": {
-				"color": ["#FF8000", "#BBFFBB"],
+				"color": ["#EA0000", "#BBFFBB"],
 				"types": ["ColumnChart", "BarPercentChart"],
 				"unit": "",
 				"categories": [
@@ -5671,7 +5671,7 @@
 					"復興區"
 				]
 			},
-			"name": "酒測(未)超標地點",
+			"name": "歷史酒測(未)超標地點",
 			"source": "政府資料開放平台",
 			"time_from": "2022-01-01 00:00:22+08:00",
 			"time_to": "2022-12-31 23:50:18+08:00",
@@ -6159,12 +6159,67 @@
 			"time_from": "2022-12-01T00:00:00+08:00",
 			"time_to": "2022-12-31T00:00:00+08:00",
 			"update_freq": 1,
-			"update_freq_unit": "day",
+			"update_freq_unit": "month",
 			"short_desc": "顯示近一個月全台警察系統所接收到的酒駕案件",
 			"long_desc": "顯示近一個月全台警察系統所接收到的酒駕案件，資料來源為桃園陳情系統內部資料，每天更新，並提供一年內每個月的陳情案件總數資料。",
 			"use_case": "透過陳情案件的統計資訊，我們可以追蹤近一個月內全台各行政區收到的陳情案件，也可了解一年內每個月的陳情案件總數變化。",
 			"links": null,
 			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"351": {
+			"id": 351,
+			"index": "new_Drink-testing-location",
+			"map_config": [
+				{
+					"index": "new_drunk",
+					"paint": {
+						"circle-color": "#E0E0E0",
+						"circle-radius": ["/", ["get", "radius"], 1.5],
+						"circle-opacity": 0.7
+					},
+					"property": [
+						{
+							"key": "date",
+							"name": "日期"
+						},
+						{
+							"key": "time",
+							"name": "時間"
+						},
+						{
+							"key": "district",
+							"name": "區域"
+						},
+						{
+							"key": "drunk_driving",
+							"name": "酒測是否超標"
+						}
+					],
+					"title": "酒測地圖",
+					"type": "circle",
+					"size": "big",
+					"icon": null
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"yParam": "drunk_driving"
+				}
+			},
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "circle",
+					"color": ["#E0E0E0"],
+					"name": "超標範圍"
+				}
+			],
+			"name": "即時更新酒測(未)超標地點",
+			"source": "政府資料開放平台",
 			"contributors": ["tuic"]
 		}
 	}
