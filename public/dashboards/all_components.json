@@ -5442,7 +5442,7 @@
 			"id": 168,
 			"index": "circular",
 			"map_config": null,
-			"history_data": true,
+			"history_data": false,
 			"chart_config": {
 				"color": [
 					"#C5E1A5",
@@ -5453,7 +5453,7 @@
 					"#00563F",
 					"#04432C"
 				],
-				"types": ["DonutChart", "BarChart"],
+				"types": ["BarChart", "DonutChart"],
 				"unit": "件"
 			},
 			"name": "桃園市交通事故案件",
@@ -5473,7 +5473,7 @@
 			"id": 169,
 			"index": "building_license",
 			"map_config": null,
-			"history_data": true,
+			"history_data": false,
 			"chart_config": {
 				"types": ["TimelineSeparateChart", "TimelineStackedChart"],
 				"color": ["#4dd97a", "#0a85f4"],
@@ -6134,6 +6134,37 @@
 			"time_to": "2024-01-12T08:00:00+08:00",
 			"update_freq": 1,
 			"update_freq_unit": "minute",
+			"contributors": ["tuic"]
+		},
+		"350": {
+			"id": 350,
+			"index": "circular",
+			"map_config": null,
+			"history_data": true,
+			"chart_config": {
+				"color": [
+					"#C5E1A5",
+					"#ADED64",
+					"#7BB661",
+					"#479562",
+					"#357664",
+					"#00563F",
+					"#04432C"
+				],
+				"types": ["DonutChart", "BarChart"],
+				"unit": "件"
+			},
+			"name": "各縣市酒駕案件占比",
+			"source": "桃園市陳情系統",
+			"time_from": "2022-12-01T00:00:00+08:00",
+			"time_to": "2022-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "day",
+			"short_desc": "顯示近一個月全台警察系統所接收到的酒駕案件",
+			"long_desc": "顯示近一個月全台警察系統所接收到的酒駕案件，資料來源為桃園陳情系統內部資料，每天更新，並提供一年內每個月的陳情案件總數資料。",
+			"use_case": "透過陳情案件的統計資訊，我們可以追蹤近一個月內全台各行政區收到的陳情案件，也可了解一年內每個月的陳情案件總數變化。",
+			"links": null,
+			"tags": [],
 			"contributors": ["tuic"]
 		}
 	}
