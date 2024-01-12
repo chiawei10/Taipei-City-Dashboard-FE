@@ -5591,7 +5591,7 @@
 				{
 					"index": "no_drunk",
 					"paint": {
-						"circle-color": "#F49F36"
+						"circle-color": "#BBFFBB"
 					},
 					"property": [
 						{
@@ -5619,7 +5619,7 @@
 				{
 					"index": "drunk",
 					"paint": {
-						"circle-color": "#A25FAD"
+						"circle-color": "#FF8000"
 					},
 					"property": [
 						{
@@ -5652,7 +5652,7 @@
 				}
 			},
 			"chart_config": {
-				"color": ["#A25FAD", "#F49F36"],
+				"color": ["#FF8000", "#BBFFBB"],
 				"types": ["ColumnChart", "BarPercentChart"],
 				"unit": "",
 				"categories": [
