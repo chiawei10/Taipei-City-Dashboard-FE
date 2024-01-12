@@ -5440,7 +5440,7 @@
 		},
 		"168": {
 			"id": 168,
-			"index": "circular",
+			"index": "ta",
 			"map_config": null,
 			"history_data": false,
 			"chart_config": {
