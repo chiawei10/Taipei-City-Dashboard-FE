@@ -6154,10 +6154,10 @@
 				"types": ["DonutChart", "BarChart"],
 				"unit": "件"
 			},
-			"name": "各縣市酒駕案件占比",
+			"name": "六都直轄市酒駕案件占比",
 			"source": "桃園市陳情系統",
-			"time_from": "2022-12-01T00:00:00+08:00",
-			"time_to": "2022-12-31T00:00:00+08:00",
+			"time_from": "2023-12-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
 			"update_freq": 1,
 			"update_freq_unit": "month",
 			"short_desc": "顯示近一個月全台警察系統所接收到的酒駕案件",
