@@ -1,0 +1,325 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1679794,25.0589043 ]
+    },
+    "properties": {
+    "location":"桃園喜來登酒店",
+    "district":"大園區",
+    "address":"桃園市大園區大觀路777號",
+    "type":"hotel",
+    "date":"2024/1/11",
+    "time":"10:05:07",
+    "people":2,
+    "street":"大觀路",
+    "simplified_address":"桃園市大園區大觀路",
+    "datetime":"2024-01-11 10:05:07+08:00",
+    "coordinates":"(25.0589043, 121.1679794)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1679794,25.0589043 ]
+    },
+    "properties": {
+    "location":"桃園喜來登酒店",
+    "district":"大園區",
+    "address":"桃園市大園區大觀路777號",
+    "type":"hotel",
+    "date":"2024/1/11",
+    "time":"11:23:15",
+    "people":2,
+    "street":"大觀路",
+    "simplified_address":"桃園市大園區大觀路",
+    "datetime":"2024-01-11 11:23:15+08:00",
+    "coordinates":"(25.0589043, 121.1679794)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1766437,25.0543902 ]
+    },
+    "properties": {
+    "location":"桃禧航空城酒店-新館",
+    "district":"大園區",
+    "address":"桃園市大園區園航路28號",
+    "type":"hotel",
+    "date":"2024/1/11",
+    "time":"09:44:11",
+    "people":2,
+    "street":"園航路",
+    "simplified_address":"桃園市大園區園航路",
+    "datetime":"2024-01-11 09:44:11+08:00",
+    "coordinates":"(25.0543902, 121.1766437)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3225339,24.8869491 ]
+    },
+    "properties": {
+    "location":"威斯汀度假酒店",
+    "district":"大溪區",
+    "address":"桃園市大溪區日新路166號",
+    "type":"hotel",
+    "date":"2024/1/11",
+    "time":"00:23:19",
+    "people":4,
+    "street":"日新路",
+    "simplified_address":"桃園市大溪區日新路",
+    "datetime":"2024-01-11 00:23:19+08:00",
+    "coordinates":"(24.8869491, 121.3225339)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.315738,24.992566 ]
+    },
+    "properties": {
+    "location":"仙履奇緣酒店",
+    "district":"桃園區",
+    "address":"桃園市桃園區安樂街6號",
+    "type":"hotel",
+    "date":"2024/1/11",
+    "time":"01:01:13",
+    "people":4,
+    "street":"安樂街",
+    "simplified_address":"桃園市桃園區安樂街",
+    "datetime":"2024-01-11 01:01:13+08:00",
+    "coordinates":"(24.992566, 121.315738)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3096455,25.00290465 ]
+    },
+    "properties": {
+    "location":"智醫康寓 公寓式酒店",
+    "district":"桃園區",
+    "address":"桃園市桃園區民生路107號",
+    "type":"hotel",
+    "date":"2024/1/11",
+    "time":"09:37:52",
+    "people":2,
+    "street":"民生路",
+    "simplified_address":"桃園市桃園區民生路",
+    "datetime":"2024-01-11 09:37:52+08:00",
+    "coordinates":"(25.002904649999998, 121.30964553133845)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1766437,25.0543902 ]
+    },
+    "properties": {
+    "location":"桃禧航空城酒店-新館",
+    "district":"大園區",
+    "address":"桃園市大園區園航路28號",
+    "type":"hotel",
+    "date":"2024/1/12",
+    "time":"00:46:09",
+    "people":2,
+    "street":"園航路",
+    "simplified_address":"桃園市大園區園航路",
+    "datetime":"2024-01-12 00:46:09+08:00",
+    "coordinates":"(25.0543902, 121.1766437)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1679794,25.0589043 ]
+    },
+    "properties": {
+    "location":"桃園喜來登酒店",
+    "district":"大園區",
+    "address":"桃園市大園區大觀路777號",
+    "type":"hotel",
+    "date":"2024/1/12",
+    "time":"06:49:33",
+    "people":2,
+    "street":"大觀路",
+    "simplified_address":"桃園市大園區大觀路",
+    "datetime":"2024-01-12 06:49:33+08:00",
+    "coordinates":"(25.0589043, 121.1679794)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3225339,24.8869491 ]
+    },
+    "properties": {
+    "location":"大溪笠復威斯汀度假酒店",
+    "district":"大溪區",
+    "address":"桃園市大溪區日新路166號",
+    "type":"hotel",
+    "date":"2024/1/12",
+    "time":"01:20:55",
+    "people":2,
+    "street":"日新路",
+    "simplified_address":"桃園市大溪區日新路",
+    "datetime":"2024-01-12 01:20:55+08:00",
+    "coordinates":"(24.8869491, 121.3225339)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1773494,24.9676845 ]
+    },
+    "properties": {
+    "location":"南方莊園渡假飯店",
+    "district":"中壢區",
+    "address":"桃園市中壢區樹籽路８號",
+    "type":"hotel",
+    "date":"2024/1/12",
+    "time":"03:15:14",
+    "people":2,
+    "street":"樹籽路",
+    "simplified_address":"桃園市中壢區樹籽路",
+    "datetime":"2024-01-12 03:15:14+08:00",
+    "coordinates":"(24.9676845, 121.1773494)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3080174,24.9913871 ]
+    },
+    "properties": {
+    "location":"美麗華KTV酒店",
+    "district":"桃園區",
+    "address":"桃園市桃園區南華街93巷3號3樓",
+    "type":"hotel",
+    "date":"2024/1/12",
+    "time":"02:39:15",
+    "people":2,
+    "street":"南華街",
+    "simplified_address":"桃園市桃園區南華街",
+    "datetime":"2024-01-12 02:39:15+08:00",
+    "coordinates":"(24.9913871, 121.3080174)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2931737,24.9909997 ]
+    },
+    "properties": {
+    "location":"蜜桃香時尚酒店",
+    "district":"桃園區",
+    "address":"桃園市桃園區中山路206號",
+    "type":"hotel",
+    "date":"2024/1/12",
+    "time":"02:17:17",
+    "people":3,
+    "street":"中山路",
+    "simplified_address":"桃園市桃園區中山路",
+    "datetime":"2024-01-12 02:17:17+08:00",
+    "coordinates":"(24.9909997, 121.29317370000001)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3096455,25.00290465 ]
+    },
+    "properties": {
+    "location":"智醫康寓 公寓式酒店 Healthy",
+    "district":"桃園區",
+    "address":"桃園市桃園區民生路107號",
+    "type":"hotel",
+    "date":"2024/1/12",
+    "time":"01:55:07",
+    "people":2,
+    "street":"民生路",
+    "simplified_address":"桃園市桃園區民生路",
+    "datetime":"2024-01-12 01:55:07+08:00",
+    "coordinates":"(25.002904649999998, 121.30964553133845)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.315738,24.992566 ]
+    },
+    "properties": {
+    "location":"仙履奇緣酒店",
+    "district":"桃園區",
+    "address":"桃園市桃園區安樂街6號",
+    "type":"hotel",
+    "date":"2024/1/12",
+    "time":"03:44:03",
+    "people":4,
+    "street":"安樂街",
+    "simplified_address":"桃園市桃園區安樂街",
+    "datetime":"2024-01-12 03:44:03+08:00",
+    "coordinates":"(24.992566, 121.315738)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.212531,24.8583117 ]
+    },
+    "properties": {
+    "location":"萊茵汽車旅館",
+    "district":"龍潭區",
+    "address":"桃園市龍潭區金龍路79巷21號",
+    "type":"hotel",
+    "date":"2024/1/12",
+    "time":"03:40:22",
+    "people":4,
+    "street":"金龍路",
+    "simplified_address":"桃園市龍潭區金龍路",
+    "datetime":"2024-01-12 03:40:22+08:00",
+    "coordinates":"(24.8583117, 121.212531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1806314,24.8427187 ]
+    },
+    "properties": {
+    "location":"渴望會館",
+    "district":"龍潭區",
+    "address":"桃園市龍潭區渴望路428號",
+    "type":"hotel",
+    "date":"2024/1/12",
+    "time":"03:12:18",
+    "people":2,
+    "street":"渴望路",
+    "simplified_address":"桃園市龍潭區渴望路",
+    "datetime":"2024-01-12 03:12:18+08:00",
+    "coordinates":"(24.8427187, 121.1806314)"
+    }
+  }
+]
+}

@@ -72,6 +72,9 @@ const chartOptions = ref({
 		},
 		type: "datetime",
 	},
+	yaxis: {
+		max: 23000,
+	},
 });
 
 function parseTime(time) {

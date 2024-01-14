@@ -1,0 +1,1245 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2249424,24.9567624 ]
+    },
+    "properties": {
+    "location":"中壢錢櫃 中央店",
+    "district":"中壢區",
+    "address":"桃園市中壢區中央東路88號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"05:40:43",
+    "people":2,
+    "street":"中央東路",
+    "simplified_address":"桃園市中壢區中央東路",
+    "datetime":"2024-01-11 05:40:43+08:00",
+    "coordinates":"(24.9567624, 121.2249424)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3418811,24.99524085 ]
+    },
+    "properties": {
+    "location":"River Bar",
+    "district":"中壢區",
+    "address":"桃園市中壢區大同路18號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"14:55:47",
+    "people":1,
+    "street":"大同路",
+    "simplified_address":"桃園市中壢區大同路",
+    "datetime":"2024-01-11 14:55:47+08:00",
+    "coordinates":"(24.99524085, 121.34188106252279)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3418811,24.99524085 ]
+    },
+    "properties": {
+    "location":"River Bar",
+    "district":"中壢區",
+    "address":"桃園市中壢區大同路18號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"00:44:38",
+    "people":1,
+    "street":"大同路",
+    "simplified_address":"桃園市中壢區大同路",
+    "datetime":"2024-01-11 00:44:38+08:00",
+    "coordinates":"(24.99524085, 121.34188106252279)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2276305,25.0140584 ]
+    },
+    "properties": {
+    "location":"飲居 Behide Private",
+    "district":"大園區",
+    "address":"桃園市大園區青昇路一段91巷121號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"10:02:45",
+    "people":1,
+    "street":"青昇路一段",
+    "simplified_address":"桃園市大園區青昇路一段",
+    "datetime":"2024-01-11 10:02:45+08:00",
+    "coordinates":"(25.0140584, 121.2276305)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2701569,24.8884215 ]
+    },
+    "properties": {
+    "location":"Hide out Lounge Bar",
+    "district":"大溪區",
+    "address":"桃園市大溪區員林路二段168號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"18:04:16",
+    "people":3,
+    "street":"員林路二段",
+    "simplified_address":"桃園市大溪區員林路二段",
+    "datetime":"2024-01-11 18:04:16+08:00",
+    "coordinates":"(24.8884215, 121.2701569)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2911737,24.8847991 ]
+    },
+    "properties": {
+    "location":"星空酒吧",
+    "district":"大溪區",
+    "address":"桃園市大溪區信義路2號4樓",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"07:22:46",
+    "people":2,
+    "street":"信義路",
+    "simplified_address":"桃園市大溪區信義路",
+    "datetime":"2024-01-11 07:22:46+08:00",
+    "coordinates":"(24.8847991, 121.2911737)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2249424,24.9567624 ]
+    },
+    "properties": {
+    "location":"中壢錢櫃 中央店",
+    "district":"中壢區",
+    "address":"桃園市中壢區中央東路88號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"08:53:45",
+    "people":1,
+    "street":"中央東路",
+    "simplified_address":"桃園市中壢區中央東路",
+    "datetime":"2024-01-11 08:53:45+08:00",
+    "coordinates":"(24.9567624, 121.2249424)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2238285,24.9688138 ]
+    },
+    "properties": {
+    "location":"MEET NIGHT CLUB",
+    "district":"中壢區",
+    "address":"桃園市中壢區新生路182號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"01:10:43",
+    "people":1,
+    "street":"新生路",
+    "simplified_address":"桃園市中壢區新生路",
+    "datetime":"2024-01-11 01:10:43+08:00",
+    "coordinates":"(24.9688138, 121.2238285)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2238285,24.9688138 ]
+    },
+    "properties": {
+    "location":"MEET NIGHT CLUB",
+    "district":"中壢區",
+    "address":"桃園市中壢區新生路182號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"15:04:00",
+    "people":4,
+    "street":"新生路",
+    "simplified_address":"桃園市中壢區新生路",
+    "datetime":"2024-01-11 15:04:00+08:00",
+    "coordinates":"(24.9688138, 121.2238285)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2207039,24.9587261 ]
+    },
+    "properties": {
+    "location":"Magic Pub",
+    "district":"中壢區",
+    "address":"桃園市中壢區興國路37巷33號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"14:29:02",
+    "people":3,
+    "street":"興國路",
+    "simplified_address":"桃園市中壢區興國路",
+    "datetime":"2024-01-11 14:29:02+08:00",
+    "coordinates":"(24.9587261, 121.2207039)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2299217,24.9631158 ]
+    },
+    "properties": {
+    "location":"LUX MUSIC BAR 金光音樂酒吧",
+    "district":"中壢區",
+    "address":"桃園市中壢區普義路87號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"20:07:28",
+    "people":4,
+    "street":"普義路",
+    "simplified_address":"桃園市中壢區普義路",
+    "datetime":"2024-01-11 20:07:28+08:00",
+    "coordinates":"(24.9631158, 121.2299217)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1998452,25.0677343 ]
+    },
+    "properties": {
+    "location":"筱玉卡拉Ok",
+    "district":"大園區",
+    "address":"桃園市大園區中華路139巷",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"09:33:07",
+    "people":1,
+    "street":"中華路",
+    "simplified_address":"桃園市大園區中華路",
+    "datetime":"2024-01-11 09:33:07+08:00",
+    "coordinates":"(25.0677343, 121.1998452)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2276305,25.0140584 ]
+    },
+    "properties": {
+    "location":"飲居 Behide Private",
+    "district":"大園區",
+    "address":"桃園市大園區青昇路一段91巷121號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"12:32:31",
+    "people":1,
+    "street":"青昇路一段",
+    "simplified_address":"桃園市大園區青昇路一段",
+    "datetime":"2024-01-11 12:32:31+08:00",
+    "coordinates":"(25.0140584, 121.2276305)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2249424,24.9567624 ]
+    },
+    "properties": {
+    "location":"中壢錢櫃 中央店",
+    "district":"中壢區",
+    "address":"桃園市中壢區中央東路88號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"15:38:27",
+    "people":2,
+    "street":"中央東路",
+    "simplified_address":"桃園市中壢區中央東路",
+    "datetime":"2024-01-11 15:38:27+08:00",
+    "coordinates":"(24.9567624, 121.2249424)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2238285,24.9688138 ]
+    },
+    "properties": {
+    "location":"MEET NIGHT CLUB",
+    "district":"中壢區",
+    "address":"桃園市中壢區新生路182號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"18:58:02",
+    "people":1,
+    "street":"新生路",
+    "simplified_address":"桃園市中壢區新生路",
+    "datetime":"2024-01-11 18:58:02+08:00",
+    "coordinates":"(24.9688138, 121.2238285)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2225552,24.95403285 ]
+    },
+    "properties": {
+    "location":"歡唱天地卡拉ok",
+    "district":"中壢區",
+    "address":"桃園市中壢區延平路645號B1",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"02:57:34",
+    "people":2,
+    "street":"延平路",
+    "simplified_address":"桃園市中壢區延平路",
+    "datetime":"2024-01-11 02:57:34+08:00",
+    "coordinates":"(24.95403285, 121.22255516364817)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2189908,25.0149115 ]
+    },
+    "properties": {
+    "location":"夜更??BAR",
+    "district":"中壢區",
+    "address":"桃園市中壢區青峰路一段59號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"05:30:01",
+    "people":2,
+    "street":"青峰路一段",
+    "simplified_address":"桃園市中壢區青峰路一段",
+    "datetime":"2024-01-11 05:30:01+08:00",
+    "coordinates":"(25.0149115, 121.2189908)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2238285,24.9688138 ]
+    },
+    "properties": {
+    "location":"世紀帝國KTV",
+    "district":"中壢區",
+    "address":"桃園市中壢區新生路182號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"22:51:27",
+    "people":2,
+    "street":"新生路",
+    "simplified_address":"桃園市中壢區新生路",
+    "datetime":"2024-01-11 22:51:27+08:00",
+    "coordinates":"(24.9688138, 121.2238285)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2238285,24.9688138 ]
+    },
+    "properties": {
+    "location":"世紀帝國KTV",
+    "district":"中壢區",
+    "address":"桃園市中壢區新生路182號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"11:55:31",
+    "people":3,
+    "street":"新生路",
+    "simplified_address":"桃園市中壢區新生路",
+    "datetime":"2024-01-11 11:55:31+08:00",
+    "coordinates":"(24.9688138, 121.2238285)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2191679,24.9454837 ]
+    },
+    "properties": {
+    "location":"酒窩主題式啤酒屋",
+    "district":"平鎮區",
+    "address":"桃園市平鎮區振興路56號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"09:08:43",
+    "people":3,
+    "street":"振興路",
+    "simplified_address":"桃園市平鎮區振興路",
+    "datetime":"2024-01-11 09:08:43+08:00",
+    "coordinates":"(24.9454837, 121.2191679)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2184834,24.9525498 ]
+    },
+    "properties": {
+    "location":"Make Up Music Bar",
+    "district":"平鎮區",
+    "address":"桃園市平鎮區中原路141號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"16:42:41",
+    "people":4,
+    "street":"中原路",
+    "simplified_address":"桃園市平鎮區中原路",
+    "datetime":"2024-01-11 16:42:41+08:00",
+    "coordinates":"(24.9525498, 121.2184834)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.206691,24.9429352 ]
+    },
+    "properties": {
+    "location":"總元菸酒",
+    "district":"平鎮區",
+    "address":"桃園市平鎮區延平路二段302號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"14:28:15",
+    "people":3,
+    "street":"延平路二段",
+    "simplified_address":"桃園市平鎮區延平路二段",
+    "datetime":"2024-01-11 14:28:15+08:00",
+    "coordinates":"(24.9429352, 121.206691)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2184834,24.9525498 ]
+    },
+    "properties": {
+    "location":"Make Up Music Bar",
+    "district":"平鎮區",
+    "address":"桃園市平鎮區中原路141號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"10:32:12",
+    "people":2,
+    "street":"中原路",
+    "simplified_address":"桃園市平鎮區中原路",
+    "datetime":"2024-01-11 10:32:12+08:00",
+    "coordinates":"(24.9525498, 121.2184834)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3080174,24.9913871 ]
+    },
+    "properties": {
+    "location":"惡狼傳說酒吧",
+    "district":"桃園區",
+    "address":"桃園市桃園區南華街140號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"21:00:59",
+    "people":4,
+    "street":"南華街",
+    "simplified_address":"桃園市桃園區南華街",
+    "datetime":"2024-01-11 21:00:59+08:00",
+    "coordinates":"(24.9913871, 121.3080174)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3119001,24.99139655 ]
+    },
+    "properties": {
+    "location":"麗人KTV",
+    "district":"桃園區",
+    "address":"桃園市桃園區中華路149號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"17:17:43",
+    "people":4,
+    "street":"中華路",
+    "simplified_address":"桃園市桃園區中華路",
+    "datetime":"2024-01-11 17:17:43+08:00",
+    "coordinates":"(24.991396549999997, 121.31190008319774)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3119001,24.99139655 ]
+    },
+    "properties": {
+    "location":"錢櫃桃園中華店",
+    "district":"桃園區",
+    "address":"桃園市桃園區中華路6號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"15:51:37",
+    "people":3,
+    "street":"中華路",
+    "simplified_address":"桃園市桃園區中華路",
+    "datetime":"2024-01-11 15:51:37+08:00",
+    "coordinates":"(24.991396549999997, 121.31190008319774)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3119001,24.99139655 ]
+    },
+    "properties": {
+    "location":"錢櫃桃園中華店",
+    "district":"桃園區",
+    "address":"桃園市桃園區中華路6號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"22:06:07",
+    "people":2,
+    "street":"中華路",
+    "simplified_address":"桃園市桃園區中華路",
+    "datetime":"2024-01-11 22:06:07+08:00",
+    "coordinates":"(24.991396549999997, 121.31190008319774)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1513713,24.9004993 ]
+    },
+    "properties": {
+    "location":"521練歌坊",
+    "district":"楊梅區",
+    "address":"桃園市楊梅區中山北路—段521號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"06:48:24",
+    "people":1,
+    "street":"中山北路—段",
+    "simplified_address":"桃園市楊梅區中山北路—段",
+    "datetime":"2024-01-11 06:48:24+08:00",
+    "coordinates":"(24.9004993, 121.1513713)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1648625,24.9132174 ]
+    },
+    "properties": {
+    "location":"拾捌手作料理 定食 居酒屋",
+    "district":"楊梅區",
+    "address":"桃園市楊梅區新農街18號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"03:30:56",
+    "people":4,
+    "street":"新農街",
+    "simplified_address":"桃園市楊梅區新農街",
+    "datetime":"2024-01-11 03:30:56+08:00",
+    "coordinates":"(24.9132174, 121.1648625)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2224187,24.8582049 ]
+    },
+    "properties": {
+    "location":"啾BAR",
+    "district":"龍潭區",
+    "address":"桃園市龍潭區大昌路二段77號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"10:29:55",
+    "people":2,
+    "street":"大昌路二段",
+    "simplified_address":"桃園市龍潭區大昌路二段",
+    "datetime":"2024-01-11 10:29:55+08:00",
+    "coordinates":"(24.8582049, 121.2224187)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3461536,24.9876691 ]
+    },
+    "properties": {
+    "location":"皇冠卡拉OK",
+    "district":"龜山區",
+    "address":"桃園市龜山區明德路380號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"01:31:01",
+    "people":2,
+    "street":"明德路",
+    "simplified_address":"桃園市龜山區明德路",
+    "datetime":"2024-01-11 01:31:01+08:00",
+    "coordinates":"(24.9876691, 121.3461536)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.290933,25.0450452 ]
+    },
+    "properties": {
+    "location":"點將家自助KTV",
+    "district":"蘆竹區",
+    "address":"桃園市蘆竹區洛陽街26號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"21:55:53",
+    "people":1,
+    "street":"洛陽街",
+    "simplified_address":"桃園市蘆竹區洛陽街",
+    "datetime":"2024-01-11 21:55:53+08:00",
+    "coordinates":"(25.0450452, 121.290933)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3204594,24.9977182 ]
+    },
+    "properties": {
+    "location":"藍色天空BlueSky",
+    "district":"桃園區",
+    "address":"桃園市桃園區中山東路32-8號2樓",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"11:17:08",
+    "people":5,
+    "street":"中山東路",
+    "simplified_address":"桃園市桃園區中山東路",
+    "datetime":"2024-01-11 11:17:08+08:00",
+    "coordinates":"(24.9977182, 121.3204594)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3119001,24.99139655 ]
+    },
+    "properties": {
+    "location":"錢櫃桃園中華店",
+    "district":"桃園區",
+    "address":"桃園市桃園區中華路3號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"04:38:06",
+    "people":3,
+    "street":"中華路",
+    "simplified_address":"桃園市桃園區中華路",
+    "datetime":"2024-01-11 04:38:06+08:00",
+    "coordinates":"(24.991396549999997, 121.31190008319774)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3119001,24.99139655 ]
+    },
+    "properties": {
+    "location":"錢櫃桃園中華店",
+    "district":"桃園區",
+    "address":"桃園市桃園區中華路7號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"12:45:49",
+    "people":2,
+    "street":"中華路",
+    "simplified_address":"桃園市桃園區中華路",
+    "datetime":"2024-01-11 12:45:49+08:00",
+    "coordinates":"(24.991396549999997, 121.31190008319774)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1714903,24.91030945 ]
+    },
+    "properties": {
+    "location":"珍品酒洋行",
+    "district":"楊梅區",
+    "address":"桃園市楊梅區中山北路二段371號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"17:05:22",
+    "people":1,
+    "street":"中山北路二段",
+    "simplified_address":"桃園市楊梅區中山北路二段",
+    "datetime":"2024-01-11 17:05:22+08:00",
+    "coordinates":"(24.91030945, 121.1714902991855)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1513713,24.9004993 ]
+    },
+    "properties": {
+    "location":"520練歌坊",
+    "district":"楊梅區",
+    "address":"桃園市楊梅區中山北路—段520號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"17:18:11",
+    "people":3,
+    "street":"中山北路—段",
+    "simplified_address":"桃園市楊梅區中山北路—段",
+    "datetime":"2024-01-11 17:18:11+08:00",
+    "coordinates":"(24.9004993, 121.1513713)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.215481,24.8419227 ]
+    },
+    "properties": {
+    "location":"名人堂KTV",
+    "district":"龍潭區",
+    "address":"桃園市龍潭區民生路141巷150號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"10:08:43",
+    "people":4,
+    "street":"民生路",
+    "simplified_address":"桃園市龍潭區民生路",
+    "datetime":"2024-01-11 10:08:43+08:00",
+    "coordinates":"(24.8419227, 121.215481)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2052105,24.8607344 ]
+    },
+    "properties": {
+    "location":"大池覓蜜Himitsu BAR&BISTRO",
+    "district":"龍潭區",
+    "address":"桃園市龍潭區中豐路上林段115巷11號2樓",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"22:45:45",
+    "people":2,
+    "street":"中豐路上林段",
+    "simplified_address":"桃園市龍潭區中豐路上林段",
+    "datetime":"2024-01-11 22:45:45+08:00",
+    "coordinates":"(24.8607344, 121.2052105)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3876061,25.008875 ]
+    },
+    "properties": {
+    "location":"東岸九族 歡唱100點",
+    "district":"龜山區",
+    "address":"桃園市龜山區東萬壽路59號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"14:00:15",
+    "people":4,
+    "street":"東萬壽路",
+    "simplified_address":"桃園市龜山區東萬壽路",
+    "datetime":"2024-01-11 14:00:15+08:00",
+    "coordinates":"(25.008875, 121.3876061)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3462601,24.99919215 ]
+    },
+    "properties": {
+    "location":"萬達洋行 紅酒世界",
+    "district":"龜山區",
+    "address":"桃園市龜山區萬壽路二段919號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"07:32:40",
+    "people":1,
+    "street":"萬壽路二段",
+    "simplified_address":"桃園市龜山區萬壽路二段",
+    "datetime":"2024-01-11 07:32:40+08:00",
+    "coordinates":"(24.99919215, 121.34626010461524)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3461536,24.9876691 ]
+    },
+    "properties": {
+    "location":"銅鑼灣 Top Music Bar",
+    "district":"龜山區",
+    "address":"桃園市龜山區明德路293號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"08:16:00",
+    "people":2,
+    "street":"明德路",
+    "simplified_address":"桃園市龜山區明德路",
+    "datetime":"2024-01-11 08:16:00+08:00",
+    "coordinates":"(24.9876691, 121.3461536)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2501249,24.8780735 ]
+    },
+    "properties": {
+    "location":"大溪河",
+    "district":"大溪區",
+    "address":"桃園市大溪區員林路三段172-3號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"01:35:22",
+    "people":5,
+    "street":"員林路三段",
+    "simplified_address":"桃園市大溪區員林路三段",
+    "datetime":"2024-01-12 01:35:22+08:00",
+    "coordinates":"(24.8780735, 121.2501249)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2249424,24.9567624 ]
+    },
+    "properties": {
+    "location":"中壢錢櫃 中央店",
+    "district":"中壢區",
+    "address":"桃園市中壢區中央東路88號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"03:38:03",
+    "people":2,
+    "street":"中央東路",
+    "simplified_address":"桃園市中壢區中央東路",
+    "datetime":"2024-01-12 03:38:03+08:00",
+    "coordinates":"(24.9567624, 121.2249424)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2238285,24.9688138 ]
+    },
+    "properties": {
+    "location":"MEET NIGHT CLUB",
+    "district":"中壢區",
+    "address":"桃園市中壢區新生路182號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"03:19:47",
+    "people":3,
+    "street":"新生路",
+    "simplified_address":"桃園市中壢區新生路",
+    "datetime":"2024-01-12 03:19:47+08:00",
+    "coordinates":"(24.9688138, 121.2238285)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2238285,24.9688138 ]
+    },
+    "properties": {
+    "location":"MEET NIGHT CLUB",
+    "district":"中壢區",
+    "address":"桃園市中壢區新生路182號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"05:34:56",
+    "people":2,
+    "street":"新生路",
+    "simplified_address":"桃園市中壢區新生路",
+    "datetime":"2024-01-12 05:34:56+08:00",
+    "coordinates":"(24.9688138, 121.2238285)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2198243,24.9625046 ]
+    },
+    "properties": {
+    "location":"水精靈酒吧",
+    "district":"中壢區",
+    "address":"桃園市中壢區中豐路249號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"01:41:37",
+    "people":4,
+    "street":"中豐路",
+    "simplified_address":"桃園市中壢區中豐路",
+    "datetime":"2024-01-12 01:41:37+08:00",
+    "coordinates":"(24.9625046, 121.2198243)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2362405,24.9812919 ]
+    },
+    "properties": {
+    "location":"濕Get酒 酒吧",
+    "district":"中壢區",
+    "address":"桃園市中壢區中園路30-3號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"06:53:51",
+    "people":1,
+    "street":"中園路",
+    "simplified_address":"桃園市中壢區中園路",
+    "datetime":"2024-01-12 06:53:51+08:00",
+    "coordinates":"(24.9812919, 121.2362405)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2238285,24.9688138 ]
+    },
+    "properties": {
+    "location":"世紀帝國KTV",
+    "district":"中壢區",
+    "address":"桃園市中壢區新生路182號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"05:47:51",
+    "people":5,
+    "street":"新生路",
+    "simplified_address":"桃園市中壢區新生路",
+    "datetime":"2024-01-12 05:47:51+08:00",
+    "coordinates":"(24.9688138, 121.2238285)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2238285,24.9688138 ]
+    },
+    "properties": {
+    "location":"世紀帝國KTV",
+    "district":"中壢區",
+    "address":"桃園市中壢區新生路182號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"05:59:50",
+    "people":3,
+    "street":"新生路",
+    "simplified_address":"桃園市中壢區新生路",
+    "datetime":"2024-01-12 05:59:50+08:00",
+    "coordinates":"(24.9688138, 121.2238285)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3080174,24.9913871 ]
+    },
+    "properties": {
+    "location":"惡狼傳說酒吧",
+    "district":"桃園區",
+    "address":"桃園市桃園區南華街140號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"05:07:38",
+    "people":2,
+    "street":"南華街",
+    "simplified_address":"桃園市桃園區南華街",
+    "datetime":"2024-01-12 05:07:38+08:00",
+    "coordinates":"(24.9913871, 121.3080174)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3119001,24.99139655 ]
+    },
+    "properties": {
+    "location":"錢櫃桃園中華店",
+    "district":"桃園區",
+    "address":"桃園市桃園區中華路5號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"01:04:31",
+    "people":1,
+    "street":"中華路",
+    "simplified_address":"桃園市桃園區中華路",
+    "datetime":"2024-01-12 01:04:31+08:00",
+    "coordinates":"(24.991396549999997, 121.31190008319774)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3138084,24.9899154 ]
+    },
+    "properties": {
+    "location":"Monster Music Pub",
+    "district":"桃園區",
+    "address":"桃園市桃園區大同路26號B1",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"01:22:27",
+    "people":3,
+    "street":"大同路",
+    "simplified_address":"桃園市桃園區大同路",
+    "datetime":"2024-01-12 01:22:27+08:00",
+    "coordinates":"(24.9899154, 121.3138084)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2947591,25.0466598 ]
+    },
+    "properties": {
+    "location":"錢櫃 蘆竹店",
+    "district":"蘆竹區",
+    "address":"桃園市蘆竹區南崁路265號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"02:40:16",
+    "people":5,
+    "street":"南崁路",
+    "simplified_address":"桃園市蘆竹區南崁路",
+    "datetime":"2024-01-12 02:40:16+08:00",
+    "coordinates":"(25.0466598, 121.2947591)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3003775,25.0277942 ]
+    },
+    "properties": {
+    "location":"El Jardin Cocktail Bar",
+    "district":"桃園區",
+    "address":"桃園市桃園區經國路70號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"02:23:25",
+    "people":3,
+    "street":"經國路",
+    "simplified_address":"桃園市桃園區經國路",
+    "datetime":"2024-01-12 02:23:25+08:00",
+    "coordinates":"(25.0277942, 121.3003775)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.307738,25.0000689 ]
+    },
+    "properties": {
+    "location":"MEI BAR",
+    "district":"桃園區",
+    "address":"桃園市桃園區三民路二段256號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"01:09:12",
+    "people":1,
+    "street":"三民路二段",
+    "simplified_address":"桃園市桃園區三民路二段",
+    "datetime":"2024-01-12 01:09:12+08:00",
+    "coordinates":"(25.0000689,121.307738)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3080174,24.9913871 ]
+    },
+    "properties": {
+    "location":"惡狼傳說酒吧",
+    "district":"桃園區",
+    "address":"桃園市桃園區南華街140號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"06:27:15",
+    "people":2,
+    "street":"南華街",
+    "simplified_address":"桃園市桃園區南華街",
+    "datetime":"2024-01-12 06:27:15+08:00",
+    "coordinates":"(24.9913871, 121.3080174)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3119001,24.99139655 ]
+    },
+    "properties": {
+    "location":"錢櫃桃園中華店",
+    "district":"桃園區",
+    "address":"桃園市桃園區中華路4號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"05:05:35",
+    "people":5,
+    "street":"中華路",
+    "simplified_address":"桃園市桃園區中華路",
+    "datetime":"2024-01-12 05:05:35+08:00",
+    "coordinates":"(24.991396549999997, 121.31190008319774)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3800727,25.04664 ]
+    },
+    "properties": {
+    "location":"歡喜KTV",
+    "district":"龜山區",
+    "address":"桃園市龜山區文化二路",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"06:38:09",
+    "people":5,
+    "street":"文化二路",
+    "simplified_address":"桃園市龜山區文化二路",
+    "datetime":"2024-01-12 06:38:09+08:00",
+    "coordinates":"(25.04664, 121.3800727)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2944845,25.04709725 ]
+    },
+    "properties": {
+    "location":"錢櫃 南崁店",
+    "district":"蘆竹區",
+    "address":"桃園市蘆竹區南崁路265號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"00:16:52",
+    "people":2,
+    "street":"南崁路",
+    "simplified_address":"桃園市蘆竹區南崁路",
+    "datetime":"2024-01-12 00:16:52+08:00",
+    "coordinates":"(25.04709725, 121.29448451817363)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2944845,25.04709725 ]
+    },
+    "properties": {
+    "location":"錢櫃 南崁店",
+    "district":"蘆竹區",
+    "address":"桃園市蘆竹區南崁路265號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"01:01:28",
+    "people":1,
+    "street":"南崁路",
+    "simplified_address":"桃園市蘆竹區南崁路",
+    "datetime":"2024-01-12 01:01:28+08:00",
+    "coordinates":"(25.04709725, 121.29448451817363)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.290933,25.0450452 ]
+    },
+    "properties": {
+    "location":"點將家自助KTV",
+    "district":"蘆竹區",
+    "address":"桃園市蘆竹區洛陽街26號",
+    "type":"娛樂場所",
+    "date":"2024/1/12",
+    "time":"05:33:42",
+    "people":2,
+    "street":"洛陽街",
+    "simplified_address":"桃園市蘆竹區洛陽街",
+    "datetime":"2024-01-12 05:33:42+08:00",
+    "coordinates":"(25.0450452, 121.290933)"
+    }
+  }
+]
+}
