@@ -1,0 +1,24 @@
+{
+   "type": "FeatureCollection",
+   "features": 
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2249424,24.9567624 ]
+    },
+    "properties": {
+    "location":"中壢錢櫃 中央店",
+    "district":"中壢區",
+    "address":"桃園市中壢區中央東路88號",
+    "type":"娛樂場所",
+    "date":"2024/1/11",
+    "time":"05:40:43",
+    "people":2,
+    "street":"中央東路",
+    "simplified_address":"桃園市中壢區中央東路",
+    "datetime":"2024-01-11 05:40:43+08:00",
+    "coordinates":"(24.9567624, 121.2249424)"
+    }
+  }
+  }
